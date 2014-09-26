@@ -1,0 +1,401 @@
+Lessons from the Financial Crisis for Monetary Policy in Emerging Markets 
+ 
+L. K. Jha Memorial Lecture 
+ 
+John B. Taylor 
+ 
+Platinum Jubilee Celebration 
+Reserve Bank of India 
+Mumbai 
+ 
+February 24, 2010 
+ 
+ I am honored to give this lecture in memory of L.K. Jha.  It is a particular privilege to 
+deliver it at this Platinum Jubilee celebration of the Reserve Bank of India.  L. K. Jha was a truly 
+outstanding economist and public servant, with experience at all levels of government.  He rose 
+up through the Indian Civil Service to become the Principal Secretary to the Prime Minister, after 
+which he became Governor of the Reserve Bank of India, and then Ambassador to the United 
+States and Governor of Jammu and Kashmir. He also took time to write books and serve on 
+important commissions, including the Willy Brandt Commission on the interdependence 
+between developed and developing economies. I admire how L.K. Jha worked to make good 
+economic policy a reality and how he focused on helping people.   
+ I never met L. K. Jha, but I feel I have come to know him through his writings.  Two of 
+his books are a particular delight, in part because they are short, which is unusual for economics 
+books.  
+1
+ North South Debate is about policy principles.  Jha focused on the deteriorating 
+relationship between the developed and developing world in the 1970s.  He argued that the 
+confrontation was caused by the poor economic performance in the United States and other 
+developed countries during the Great Inflation of the 1970s.  He characterized the policy that 
+eventually led to the poor economic performance with a catchy phrase: it was a policy of 
+“following Keynes at home and Adam Smith abroad” (p.28), and while Jha argued that this 
+worked for a while, it eventually led to the high inflation and high unemployment of the late 
+1960s and 1970s.  But policy principles changed after that turbulent period. In my view it was a 
+move away from Keynes, perhaps one could say toward Adam Smith both at home and abroad, 
+                                                            
+1
+ L.K. Jha, North South Debate, Chanakya Publications, Delhi, 1981. 
+1 
+ and we then had more than two decades of prosperity and enormous growth in much of the 
+developed world, including India.   
+ I should say, especially in light of the Platinum Jubilee, that Keynes recommended the 
+creation of a central bank for India in his 1913 book, Indian Currency and Finance. Even if one 
+has doubts about Keynesian macroeconomic remedies, his original ideas in monetary economics 
+were sound, carefully reasoned with data and practical examples, and exposited clearly. This first 
+2
+book of his on Indian finance is an example, and I am happy to say that it too is very short. 
+3
+ L.K Jha’s  Mr. Redtape is about policy implementation.  It shows how government fails 
+when it loses sight of its objectives—which to Jha was serving the people. There is a story of 
+how the Indian Civil Service (ICS) in 1958 wanted to exclude some lines on a memorial stone 
+tablet being installed in Westminster Abbey in honor of those who served in the ICS.  The first 
+line of the plaque, which read, "Let them not be forgotten for they served India well," was 
+approved by the ICS association. But the second line, which read "They walked humbly among 
+the people," did not meet their approval.  In fact, they strongly opposed it, and in the end the 
+quote was not included.  It was an example of how the government can sometimes lose track of 
+the people it is serving.   
+   These two themes—policy principles and policy implementation—are the themes of my 
+lecture today.  I will first describe what, in my opinion, caused the recent financial crisis, and 
+then draw lessons for economics and for economic policy in general and monetary policy in 
+emerging market countries in particular.  But since the crisis began in the developed world, I 
+must start there and in particular in the United States. 
+ I have been doing research on the financial crisis for a long time, at least since before the 
+4
+crisis flared up in 2007.  My approach has been empirical. I wrote one of the first books on the 
+crisis, and it’s as short as those L.K. Jha books.  I did not focus on who said what to whom when, 
+however interesting and ultimately important that story is. Rather I looked at the timing of events 
+and at data—interest rates, credit flows, money supply, housing starts, income, consumption—
+using statistical techniques from regressions to simple charts and focusing on what is amenable 
+to economic analysis.  I also tried to use the discipline of “counterfactuals,” or stating what 
+would have happened in the absence of certain events. Professor T.N. Srinivasan gives a good 
+                                                            
+2
+ J.M. Keynes, Indian Finance and Currency, Macmillan, London, 1913. 
+3
+  L.K. Jha, Mr. Redtape. 
+4
+ John B. Taylor, Getting Off Track, Hoover Press, Stanford, 2009. 
+2 
+ example of a counterfactual which is related to L.K. Jha.  As you know L.K. Jha was the adviser 
+to Prime Minister Lal Bahadur Shastri.  Professor Srinivasan wonders whether, if Shastri had not 
+died in office, L.K. Jha might have persuaded him to follow the kind of economic reforms which 
+took place some twenty years later. If so, GDP might be more than it is now. 
+  This analytical process has led to some strong conclusions. I divided my analysis of what 
+went wrong in the crisis into separate questions: what started it, what prolonged it, what made it 
+so severe during the fall of 2008.  Recall that while the initial flare-up of the crisis occurred 
+during the summer of 2007, it went on for more than a year and the culmination was the 
+incredible panic that hit in September and October of 2008.  For each question, I found that 
+certain government actions and interventions came to the top of the list of what went wrong. 
+There were other causes on the lists, of course, but the actions by government were either more 
+important or were catalysts or prerequisites for the other causes.  
+  
+ 
+Origins of the Crisis 
+ 
+ In my view, the crisis was precipitated by monetary excesses.  These excesses took the 
+form of interest rates that were held too low for too long by the Federal Reserve and some other 
+central banks.  The low interest rates led to a housing boom which eventually ended in a bust and 
+was a significant factor in the crisis. The low interest rates also were a probable factor in 
+excessive risk-taking as people searched for higher yields.  
+ I used a benchmark called the Taylor rule to measure the excesses.  While I lose some 
+objectivity in using the Taylor rule, it does describe how monetary policy worked for nearly two 
+decades of good economic performance in the United States in the 1980s and 1990s. The policy 
+systematically sought to keep inflation down and to fend off boom-bust cycles.  However, 
+between 2003 and 2005 the interest rate was held usually low compared to the Taylor rule, and at 
+levels that we had not seen since the turbulent 1970s. Of course, policy makers realized this; they 
+were purposely deviating from the earlier policy, perhaps trying to prevent downside risks such 
+as a Japanese style deflation.   
+ You do not have to rely on the Taylor rule to come to this conclusion. Other analysts 
+have looked at alternative measures, including that the real interest rate was negative for an 
+unusually long time. I think there is growing agreement that an excessively easy monetary policy 
+3 
+ was a key factor leading to the boom and thus to the bust and the crisis. The housing bust had 
+impacts on the financial markets as falling house prices lead to delinquencies and foreclosures.    
+ I also tried to see if these low interest rates could be directly related to the housing boom. 
+Here is where the counterfactual comes in. I built a model in which I related the federal funds 
+rates to the housing market. I did a counter-factual simulation to find out what would have 
+happened if rates were not held that low, but had followed the rule that we observed, roughly 
+speaking, in the previous 20 years. My findings are that this severe boom would have been 
+attenuated and, therefore, we would not have had the severe bust.  
+ It is important to note that the excessive risk taking and the low interest rate monetary 
+policy decisions are connected.  Delinquency rates and foreclosure rates are inversely related to 
+housing price inflation during this period. During the years of the rapidly rising housing prices, 
+delinquency and foreclosure rates declined rapidly.  The benefits of holding onto a house, 
+perhaps working longer hours to make the payments, are higher when the price of the house is 
+rising rapidly. When prices are falling, the incentives to do so are much less and turn negative if 
+the price of the house falls below the value of the mortgage. Hence, delinquencies and 
+foreclosures rose.  
+ Since mortgage underwriting programs take account of the actual realizations of 
+foreclosure rates and delinquency rates in cross section data, the programs would have been 
+overly optimistic during the period when prices were rising unless they took account of the time 
+series correlation. Thus, there is an interaction between the monetary excesses and the risk-
+taking excesses.  The rapidly rising housing prices and the resulting low delinquency rates likely 
+threw the underwriting programs off track and misled many people.  
+ Some have put forth alternative explanations for the origins of the crisis.  One 
+explanation is a global savings glut. I do not see this as a plausible explanation. Long-term 
+interest rates are globally determined. No matter how you think about it, there was no global 
+savings glut. Savings rates were high in some countries and low in other countries, but globally, 
+savings rates were low. In order to argue that a savings glut occurred, one must show that desired 
+saving was high relative to desired investment, but these “desired” concepts cannot be measured 
+very well.  
+ Another critique of my analysis is that mortgages are based on long-term interest rates, 
+while the Fed sets the short rate. However, over 30 percent of mortgages at that point were 
+4 
+ adjustable rate mortgages. In fact, there was a huge move into adjustable rate mortgages. That 
+enabled the so called “teaser rates” which made the adjustable rate mortgages attractive to 
+people. The Organization for Economic Co-operation and Development (OECD) has done a 
+study looking at countries that had relatively low interest rates using the Taylor rule measure. 
+Generally speaking, those countries had a more serious housing boom.  
+ While I focus on monetary policy, other government actions were probable factors.  In 
+the United States, the government sponsored agencies Fannie Mae and Freddie Mac were 
+encouraged to expand and buy mortgage backed securities, including those formed with the risky 
+sub-prime mortgages.  Such actions should be added to the list of what went wrong.  
+ 
+The Year before the Panic  
+ Why did the crisis last so long? The crisis was evident in the summer of 2007, when the 
+money markets started behaving strangely. In particular interest rate spreads between three 
+month LIBOR and the overnight federal funds rate jumped to unprecedented levels in August 
+2007 and remained high for over a year.  
+ In addition to being a measure of financial stress, these interest rate spreads affect the 
+transmission mechanism of monetary policy to the economy because trillions of dollars of loans 
+and securities are indexed to LIBOR. An increase in the spread, holding the overnight interest 
+rate constant, will increase the cost of such loans and have a negative effect on the economy. 
+Bringing this spread down therefore became a major objective of policy, as well as a measure of 
+its success in dealing with the market turmoil. 
+ I started researching this event as soon as I observed it. Using data on the interbank loan 
+market, I tried to determine whether the flare-up was caused by a liquidity shortage or 
+counterparty risk in the banking system due to defaults and expected defaults of securities on the 
+bank’s balance sheets. In other words, was the Fed providing inadequate liquidity or were banks 
+unwilling to lend to each other? Counterparty risk did not seem plausible to many at the time, but 
+that is the explanation my research led to. If you looked at measures of counterparty risk, it was 
+clear that counterparty risk was the culprit. Today it seems obvious. 
+ I believe that the policy makers misdiagnosed the problem, treating it as a shortage of 
+liquidity rather than an increase in risk. As a result their policy interventions—and there were 
+many—either delayed treatment or were harmful. For example, the Fed introduced a new term 
+5 
+ auction facility (TAF) in December 2007. With this facility banks could avoid going to the 
+discount window if they needed to borrow.  The aim of the TAF was to reduce the spreads in the 
+money markets and thereby increase the flow of credit and lower interest rates.  I found that the 
+Fed’s TAF did not affect the interest rate spreads in the money markets.  
+ There were other actions. The Fed cut rates sharply in the winter of 2007-2008.  By my 
+measure, again the Taylor rule, they overdid it. The result was some rapid dollar depreciation, 
+and oil prices went up sharply, helping bring on the recession. Thus, I think that the 
+government’s initial reaction exacerbated the problem. Fiscal policy was also tried. The 
+Economic Stimulus Act of 2008 was passed in February. This package sent cash totaling over 
+$100 billion to individuals and families in the United States; the hope was that they would have 
+more to spend and thus jump-start consumption and the economy.  Most of the checks were sent 
+in May, June, and July 2008.  As predicted by the permanent income theory of consumption, 
+people spent little of the temporary infusion of cash, and consumption was not jump-started. 
+Personal disposable income jumped at the time the checks were sent, but personal consumption 
+expenditures did not increase.  Formal statistical work shows that the effect was not significantly 
+different from zero.  
+ 
+The Panic 
+ Now let us consider the panic. Why did the crisis get so much worse in the fall of 2008?  
+You need to go back to the Fed’s intervention with the investment bank Bear Stearns in March 
+2008.  Having worked in the U.S. Treasury during the emerging market crises and the 9/11 
+attacks, and having sat in rooms making decisions with little information and huge pressure, I 
+sympathize tremendously with the decision makers during times of crisis. When it comes to the 
+Bear Stearns operation, let us assume for the sake of argument that there was not much else 
+people could have done than intervene.  We can debate this, but let’s take that decision as a 
+given. In the aftermath of that decision, however, regulators should have tried to clarify the 
+policy, telling people “Here is what we think is going on, and here is what we are trying to do.” 
+Instead, there was little discussion or explanation. It was reasonable to guess that the government 
+would repeat its intervention into Bear Stearns with another firm, such as Lehman Brothers. 
+ During the six months between the collapse of Bear Stearns and Lehman Brothers, 
+regulators made little effort to articulate a strategy. It became increasingly obvious that things 
+6 
+ were ad hoc. Severe damage came with the realization that there was really no policy at all. The 
+rollout of the Troubled Asset Relief Program (TARP) scared people with the claims that they 
+were confronting another Great Depression.    
+ Understanding the events surrounding the Lehman bankruptcy is particularly important 
+for assessing what went wrong.  Many in government now argue that the cause of the panic in 
+the fall of 2008 was the failure of the government to intervene and prevent the bankruptcy of 
+Lehman.  This view gives a rationale for continued extensive government intervention—starting 
+the very next day with AIG—and to proposals for a more expansive resolution process, perhaps 
+in the hands of a new systemic risk regulator.  However, in my view, the problem was not the 
+failure to bail out Lehman Brothers but rather the failure of the government to articulate a clear 
+predictable strategy for lending and intervening into a financial sector. This strategy could have 
+been put forth in the weeks after the Bear Stearns rescue, but was not. Instead market participants 
+were led to guess what the government would do in other similar situations. According to event 
+studies of spreads in the interbank market or stock prices, the government intervention was a 
+more likely reason for the panic than the failure to intervene with Lehman.  
+ I am not saying that all the government’s actions were inappropriate, because there were 
+many things that had to be done by the time the panic was underway. Nevertheless, I believe that 
+if government policy had been explained and had not scared everybody, then the panic would not 
+have occurred, or certainly would not have been as bad.  Now, more than a year after the fact and 
+after I did my preliminary analysis, I believe this view remains correct. 
+ 
+Resiliency in Emerging Markets 
+ 
+ The panic turned the ongoing recession in the United States into a great recession and 
+spread quickly around the world.  The major stock indexes fell in tandem with the S&P 500.  
+Consumers and businesses pulled back, largely out of fear.  Exports and imports fell sharply 
+throughout the world, with production declines accelerating as firms cut their inventories. The 
+drop in exports was the major hit to emerging market economies. One cannot exaggerate the size 
+and speed of this shock.  
+ The big surprise, however, was the amazing resiliency of the emerging market countries 
+including India in the face of these shocks. The contrast with the 1990s, when emerging markets 
+were suffering their own crises, was stark.  For countries such as Brazil and Turkey which were 
+7 
+ in crisis as late as 2003, the difference was especially stark. Why were emerging markets so 
+resilient?  In my view the most important reason is that they had moved toward better 
+macroeconomic policies in the 1990s and they stuck to those policies during the crisis. They 
+were careful not to borrow in foreign countries, and here Indian regulatory policy deserves 
+special credit in discouraging such borrowing by Indian banks. They built up their foreign 
+reserves so they could intervene in the case of a big shock like they received.  They kept inflation 
+relatively low and were more careful with public sector deficits.   
+ How important were the special actions taken after the crisis, such as the Keynesian 
+stimulus packages, in many countries? There is evidence that the impacts of the panic were 
+bottoming out before the packages were implemented.  If you look at indicators like investment 
+orders, they stopped falling in December 2008 and January 2009, when people realized this was 
+not a repeat of the Great Depression. Stock markets started moving up around the world in early 
+March 2009. My research on the impact of the 2009 stimulus package in the United States shows 
+that it was similar to that of the stimulus package of 2008. It had little impact. But more real-time 
+research in the emerging market countries is needed to see if this is a broader finding. 
+ 
+What about Mistakes in the Private Sector? 
+ Of course, throughout this period there were market problems of various sorts. Mortgages 
+were originated without sufficient documentation or with overly optimistic underwriting 
+assumptions, and then sold off in complex derivative securities which credit rating agencies rated 
+too highly, certainly in retrospect.  Individuals and institutions took highly risky positions either 
+through a lack of diversification or excessive leverage ratios.   
+ But mistakes occur in all markets and they do not normally become systemic. In each of 
+these cases there was a tendency for government actions to convert non-systemic risks into 
+systemic risks.   The low interest rates led to rapidly rising housing prices with very low 
+delinquency and foreclosure rates, which likely confused both underwriters and the rating 
+agencies. The failure to regulate adequately entities that were supposed to be, and thought to be, 
+regulated certainly encouraged the excesses. Risky off balance sheet operations connected to 
+regulated banks were allowed by regulators. The U.S. Securities and Exchange Commission was 
+to regulate broker-dealers, but its skill base was in investor protection rather than prudential 
+regulation. Similarly, the U.S. Office of Thrift Supervision was not up to the job of regulating the 
+8 
+ complex financial products division of AIG.  These regulatory gaps and overlapping 
+responsibilities added to the problem and they need to be addressed in regulatory reform. 
+ 
+Implications for Economics 
+ The financial crisis is generating a great deal of hand-wringing and debate among 
+economists and others about the subject of economics.  Last summer a cover of The Economist 
+magazine showed a book titled “Modern Economic Theory” melting into a puddle to illustrate 
+“What Went Wrong with Economics.” It was the most talked about issue of the year. 
+ Some economists are calling for a complete reformulation of economics—or for a return 
+to a version of the subject popular thirty years ago. They say that economics failed to prevent the 
+crisis or even led to it. Many of these economists have argued for a more interventionist 
+government policy, saying that John Maynard Keynes was right and Milton Friedman was 
+5
+wrong. Paul Samuelson said in January of last year “today we see how utterly mistaken was the 
+Milton Friedman notion that a market system can regulate itself… This prevailing ideology of 
+the last few decades has now been reversed…I wish Friedman were still alive so he could 
+witness how his extremism led to the defeat of his own ideas”. Then Paul Krugman wrote an 
+6
+article faulting modern economics (especially modern macroeconomics and “rational 
+expectations”) for bringing on the crisis. He says it focused too much on beauty over practicality 
+and did not recognize the need for more government intervention to prevent and cure the crisis. 
+His fix is to add more psychology to economics or to build better models of credit. 
+ My explanation of the financial crisis provides no evidence of a failure of modern 
+economics. Rather the crisis vindicates the theory. The crisis was caused by a deviation of policy 
+from the type of policy recommended by modern economics.  In the case of monetary policy it 
+was an interventionist deviation from the type of systematic policy that was responsible for the 
+remarkably good economic performance in the two decades before the crisis. Economists call 
+this earlier period the Great Moderation because of the remarkably long expansions and short 
+shallow recessions. In other words, the financial crisis gives us more evidence that 
+interventionist government policies have done harm.  The financial crisis did not occur because 
+                                                            
+5
+ Interview in the New Perspectives Quarterly, Winter 2009. 
+6
+ New York Times Magazine, September 2009. 
+9 
+ economic theory went wrong. It occurred because policy went wrong, because policy makers 
+stopped paying attention to the economics. 
+ 
+ Implications for Policy 
+ This explanation of the crisis suggests that the emphasis should be on proposals to reduce 
+the likelihood of government interventions and actions that led to the crisis.  Going forward this 
+means dealing with the very large budget deficits and rising government debt; scaling back or at 
+least not adding more Keynesian stimulus packages; exiting as fast as possible from the 
+extraordinary monetary policy actions which have questioned central bank credibility and 
+threatened their independence; and ending the bailout mentality that will take governments 
+further into the operations of private businesses.  
+ Reform of financial regulation is clearly in order. Based on recent experience, closing 
+present and future regulatory gaps and de-conflicting overlapping and ambiguous responsibilities 
+would help reduce risk, especially as new instruments and institutions evolve. Examining new 
+instruments, looking for new risks and gaps, and making recommendations for changes in 
+regulations by using the ideas from conferences like this one would also help.  
+ Some have suggested the creation of a new systemic risk regulator, either at the national 
+or international level.   However, it is doubtful that such a systemic risk regulator would have 
+prevented the current crisis. It would not have prevented the very low interest rates or the other 
+government actions I have described in this lecture.  Moreover, the experience during the panic 
+of fall 2008 raises doubts that such an agency could resolve failing private institutions without 
+causing more systemic risk.  It would be helpful if it could warn about the major existing 
+systemic risks, including the exploding debt, central banks’ balance sheet, and the bailout 
+mentality.  But groups such as the Financial Stability Board, working along with the IMF and 
+G20, are better suited to that role.    
+ Another suggestion is that central banks, including emerging market central banks—take 
+actions to burst market bubbles in financial or other markets.  I do not think that is a good idea. 
+First, the lags in the effect of monetary policy will likely mean that the impact of policy will be 
+its greatest when the bubble is bursting only adding to the damage.  Second, the problem in the 
+current crisis was not that central banks failed to burst bubbles but rather that they created them. 
+10 
+ If interest rates had not been held so low and we still had bubbles then such a proposal might 
+have merit. But that is not what happened.   
+ Yet another reform, recently suggested by the IMF research department, is that central 
+banks should raise their inflation targets.  The reason is that with the two percent target in policy 
+rules such as the Taylor rule the interest rate would have to go negative in a severe crisis, and 
+this is not possible.  But in the current crisis, the Taylor rule has interest rates going close to zero 
+and not remaining there for long. Moreover, raising inflation targets—especially when 
+government debts are rising and central banks’ balance sheets are expanded— could easily 
+reduce credibility about an inflation target at all, further damaging central bank credibility.  This 
+would be especially inappropriate for central banks in emerging market countries. 
+ For the most part, the policy implications of the crisis are that those central banks that 
+deviated from good policy should get back to what they were doing before the crisis.  They need 
+to earn back credibility and preserve their independence. Systematic monetary policies focusing 
+on a credible goal for inflation worked well in the past and they will work well in the future.  For 
+central banks that were following sounder policies—and here credit should be given to the 
+progress made in India and other emerging market central banks—they should continue to do so. 
+There is no reason to change. 
+ But the crisis does reveal some potential new fault lines, largely related to the increased 
+globalization and international connection between financial markets, which was so evident 
+during the panic.  These interconnections raise questions about the impact of central banks on 
+each other.  In the period leading up to the crisis there is evidence that the European Central 
+Bank and other central banks held interest rates lower than they would otherwise be because the 
+Federal Reserve set its interest rate so low.  The reason, of course, is the exchange rate.  A large 
+gap between interest rates would cause the exchange rate to appreciate with adverse 
+consequences on exports. And during the panic the shock from the developed world on the 
+developing world was severe and central banks had to cope with this. 
+ Is there a better way?  Making the movements in the interest rates less erratic in the 
+developed countries would help the emerging market countries. I note that for the most part 
+deviations from policy rules, such as the Taylor rule, have increased interest rate volatility, so 
+keeping interest rates more on track will have the added advantage of reducing their erratic 
+nature.  Another possibility, which I recommended before the crisis, is that we think about a 
+11 
+ global target for the inflation rate, or at least a multi-country target, a G20 target perhaps.  If 
+there was a multi-country target and this was at least considered in the deliberations of each 
+central bank then there would be a smaller tendency to swing individual interest rates around by 
+large amounts.  
+ 
+Conclusion: Keynes and Smith Again 
+ Getting the narrative about the financial crisis right is very important.  A view frequently 
+heard now is that “the markets did it.” The crisis was due to forces emanating from the market 
+economy which the government did not control, either because it did not have the power to do 
+so, or because it chose not to because of the influence of economic theories which emphasized 
+the advantages of free markets.   This view sees the crisis as a market failure that can and must 
+be dealt with by government actions and interventions.  The economic theories and the policies 
+implied by them must change. 
+ The view put forth in this lecture is that largely the opposite is true. The crisis was due 
+more to forces emanating from government.  According to this view government interventions 
+caused, prolonged, and worsened the financial crisis and did relatively little to pull us out of it.  
+This view sees government as the more serious systemic risk in the financial system; it leads in a 
+different direction—to proposals to get back to what was working before policy changed and 
+caused the crisis.  
+ In conclusion recall L. K. Jha’s phrase which I opened with. It was a policy of “Keynes at 
+home and Adam Smith aboard” that eventually led to the poor macroeconomic performance in 
+the 1970s.  When most countries moved to “Adam Smith both at home and abroad,” the twenty 
+year wave of progress and stability was unprecedented.  Leading up to this recent crisis and 
+during it we let “Keynesian policies” creep back in and ironically we seem to be going down the 
+path now of “Keynes both at home and abroad.”  In my view, if we learn the lessons from this 
+crisis, we should get back to “Adam Smith at home and abroad” as soon as possible.  Of course 
+we cannot go completely back home again. The world is different.  Policy, including monetary 
+policy, needs to adapt this approach to deal with increased globalization. 
+12 
+ 

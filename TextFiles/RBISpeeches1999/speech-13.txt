@@ -1,0 +1,190 @@
+1
+By
+1. I am very happy to be here today to inaugurate the VSAT-based communication
+network. Undoubtedly this is a formal occasion but also an occasion that opens a new chapter
+in the history of India’s banking technology. I am also happy that this event marks the very
+first major successful project undertaken by the Institute for Development and Research in
+Banking Technology (IDRBT). Let me also take this opportunity to express my deep
+appreciation of the efforts put in by the professionals of IDRBT, RBI and the Hughes Escorts
+2. Recent developments the world over have brought into sharp focus the important role
+payment systems play in the development of the financial sector. The Reserve Bank of India
+has given high priority to bringing about efficient payment systems as one of the central
+banking functions. In fact, the design, management, regulation and supervision of
+electronically based payment systems would soon become the major focal points of policy
+deliberations in our country. We, in the Reserve Bank, are moving inexorably towards the
+3. The Indian banking and financial scene witnessed dramatic changes in recent years,
+partly due to the thrust of liberalisation and partly due to the dynamism imparted by
+innovative ideas and products. The main driving force of such heightened activity is the need
+to provide first class service to customers of banks and other financial entities at affordable
+costs. And customers, on their part, have also become sophisticated and have articulated very
+convincingly of their needs and the appreciation they have for prompt and value-added
+service. Banks therefore, have devoted considerable attention to the processes that help their
+products to be acceptable. Technology provided the key to such processes. In the last few
+years, it is no wonder that the banking sector has seen a virtual cornucopia of new products:
+credit cards, -banking, ATMs, quick collection facilities for outstation , retail
+EFT, Electronic Clearing Services – ECS – Debit and Credit for repetitive payments like
+dividend, interest, utility bills, Internet Banking, etc. Now there are indications of moving
+towards the introduction of smart cards, debit cards, on-line banking for e-commerce and
+financial EDI for straight through processing.
+4. On its part, the Reserve Bank has initiated many reforms to further the speed and
+reliability of financial operations and to contain financial risks of the system, through the
+carrier of information technology. The RBI has, over the years, given guidance on the
+introduction and spread of computerisation in banks. Since about the early eighties, a number
+of Committees set up by RBI have given their recommendations on various issues relating to
+ including the feasibility of introducing MICR / OCR technology for cheque
+processing,  in the banking industry, communication network for banks and
+SWIFT implementation,  in banks, technology issues relating to payments
+system, cheque clearing and securities settlement in the banking industry. Electronic funds
+transfer and other electronic payments are being developed. The banking sector has
+                                                         
+1
+ Inaugural Address by Shri S. P. Talwar, Deputy Governor, Reserve Bank of India delivered on June 19, 1999
+at the inauguration of the “INFINET” held at the Institute for Research and Development in Banking
+Technology, Hyderabad.
+cheques
+computerisation
+mechanisation
+computerisation
+tele
+goal of providing an effective, efficient and speedy payment and settlement system.
+Company people who were associated with this project.
+Ladies and Gentlemen,
+S.P.Talwar
+INFINET and the Payment Systemsbenefitted greatly by implementing some of these recommendations; decision making is
+gradually becoming technology-driven with a view to optimising the profitability and
+efficient customer service. It is also becoming increasingly obvious that computers and
+communications are essential to revolutionise the very nature of payment products, their
+5. Computerisation efforts among the Public Sector Banks ( PSBs) in India, which
+account for over 80% of the assets of the entire banking system, has been substantial. Of the
+45,439 branches of the PSBs as on September 30, 1998, as many as 3,668 branches serving
+customers directly had been fully computerised with a complement of more than 65,000
+computer nodes/PCs. A total of 6961 branches have been partially computerised – with
+Advanced Ledger Posting Machines, Electronic Accounting Machines and Personal
+Computers. Of the 336 service branches, 149 had been fully computerised and 166 had been
+computerised.
+6. The PSBs had installed 194 Automated Teller machines (ATMs) all over the country;
+they had issued over 8.5 lakh credit cards and  over 32,000 debit cards. The latest in this area
+of activity has been the issue of SMART cards.
+7. For international interconnectivity of computers and for cross-border transactions, 568
+branches have been connected to the S.W.I.F.T. Internal interconnectivity of branches has
+been established at 571 branches using internal captive networks while148 branches are on
+8. All the data which I provided now reveal the extent of computerisation in the banking
+industry. Time has now come to consolidate the efforts of computerisation by banks. Till
+recently, the computerisation efforts of banks have been, by and large, branch centric.
+Computerisation of activities performed at branches has been the target for improving
+efficiency and productivity. The focus now, as I mentioned earlier is on improved customer
+service. Inter-linking the computers at various branches has become the need of the hour.
+While I must accept that some initiatives have been taken in this direction, the INFINET
+would give the much required fillip in enabling information flow across branches of banks.
+INFINET would thus be the backbone for transmission of messages, information, data and
+9. The initiative of the Reserve Bank in setting up the Institute for Development and
+Research in Banking Technology (IDRBT) and the Indian Financial Network (INFINET)
+using satellite-based VSAT technology, in co-ordination with the public sector banks and
+IDRBT has now succeeded. Today is the proud moment for the entire banking and financial
+sector, as the INFINET is being inaugurated. It is a project to which we have devoted a great
+deal of our time, attention and resources for almost the last two years. The INFINET stands
+for our commitment to utilise the best of leading edge technology to enable the banking
+sector to achieve international standards. With the operationalisation of the INFINET, one of
+the biggest bottlenecks of our times, namely the lack of connectivity of banks, would be
+eased to a great extent.
+10. Very Small Aperture Terminals ( VSATs) have been installed in all the sixteen offices
+of the Banking Department of the Reserve Bank, at the Ministry of Finance in New Delhi and
+at selected sites of the public sector banks. For the present, the use of the network will be
+limited by the constraint of the transponder space allocation. The one-eighth of transponder
+2
+funds for the entire banking sector in the country,
+the RBINET.
+partially 
+clearing and settlement.space allocated on extended C-band on INSAT 2B would need to be expanded, as user
+institutions put more applications on the network and as more institutions join the INFINET
+User Group. The demand for communication bandwidth will increase as the users find the
+utility of the network to be immense, and it would therefore be necessary to eventually get a
+whole transponder to be allocated for purposes of networking. I believe that the network will
+increase so quickly that the sooner the transponder space is increased the better it will be for
+the financial sector as a whole.
+11. As we look back at the processes we adopted to get to the stage at which we are
+today, one important point would strike as critical. When a Closed User Group for the
+INFINET was formed in July 98 with representatives of the RBI, IDRBT, IBA and a
+representative of each of the Public Sector banks who are members of the network, we took a
+momentous decision. For, the INFINET User Group would be required to address issues such
+as the inter-bank applications, design and development of message formats, preparations for
+test mode and the various issues which may arise during the implementation of the project.
+The User Group has, through smaller and more focused Working Groups and Sub-groups,
+been working on these issues and the work on identification of inter-bank applications, design
+and development of message formats, appointment of a consultant and sizing up of hardware
+and software requirements is at an advanced stage of completion. One important aspect on
+which the Reserve Bank has been concentrating, and on which all bankers will have to attach
+utmost priority, is standardisation. The standardisation of hardware, operating systems,
+platforms and application software throughout the banking industry is a necessary condition
+12. Why has the Reserve Bank attached so much significance to this project? The
+INFINET will help to optimise the funds flow management by banks, aid decision making,
+enable faster reporting of Government Account transactions and flow of Government funds,
+and improve customer service all around. As economic activity grows, there would be a need
+for speedier funds flow and safer channels for its transmission. Satellite communication
+13. The provision of a country-wide network is only the beginning. For effective and
+utilisation of the INFINET, 
+14. The INFINET would give impetus to bank computerisation to cover bulk of banking
+business and to interface with the banking system. The computerisation now available in the
+banking sector will give added emphasis on standardisation of Hardware, Operating system
+software, software – which would all help in better housekeeping. Because housekeeping
+itself would more or less get standardised for the entire banking sector. Interconnectivity
+would ensure optimal utilisation of funds and also availability of VSAT – not only for funds
+transfer but also for information flow which would result in better supervision, monitoring at
+15. All major bank branches in commercially important cities of India should be brought
+under total computerisation as expeditiously as possible. The next step is the linking of all
+computerised branches to their service branches, Treasury / Funds departments and
+controlling offices. Connectivity to Treasury / Funds department will ensure optimal
+utilisation of funds and connectivity to controlling offices will aid in empirical decision
+making. All banks should aim at putting in place such intra-bank hierarchical networks. Once
+intra-bank connectivity is complete, and with inter-bank connectivity being provided by the
+3
+the level of controlling offices, and decision making at the corporate level.
+computerisation of bank branches is imperative. optimal 
+on both counts, speed and security. scores over traditional terrestrial modes 
+for the payment system reform to take-off successfully.INFINET, more than 70 per cent of banking business can have the advantage of access to an
+16. Against the background of the incipient use of new technologies, the Reserve Bank
+appointed in September 1998 a Committee on Technology Upgradation in the Banking
+Sector, with membership drawn from the Government, the RBI, banks and academic
+institutions associated with information technology. The main purpose of the Committee was
+to examine the scope and methods for technological upgradation in the banks and financial
+institutions, and the associated aspects such as suggestions for legislative amendments,
+establishment of standards related to platforms, messages, security, etc. The
+recommendations given by the Committee cover various areas such as communication
+infrastructure and usage of the INFINET, standardisation and security, outsourcing of
+computerisation of Government transactions, data warehousing, data
+mining, management information systems, legal framework for electronic banking and other
+17. As the central bank, one of the primary concerns of the Reserve Bank is the operation
+of a safe and efficient payment system for the efficient conduct of monetary policy. In a
+modern economy, the link between economic activity and money is effected through the
+payment process whose efficiency is determined largely by the efficiency of the payment
+system. Inefficiencies in the payment process create time lags between the initiation and the
+completion of a payment transaction. By providing a means for quick, safe and efficient
+movement of funds and information, INFINET would help to improve the effectiveness of
+18. While I have concentrated on the impact that INFINET would have on the future
+payment systems in the country, I would also like to add the benefits that INFINET would
+bring on other areas of usage. I envisage the usage of the INFINET backbone for information
+exchange between banks – for example, credit information on borrowers’ accounts could be
+shared among banks to their mutual advantage. Information which is essential for
+management to take decisions on various matters, perpetuation of guidelines, circulars etc.,
+would all be transmitted through the INFINET. Inter-bank communication which some times
+tends to take a long duration could get completed very quickly over the INFINET.
+Transmission of data for warehousing purposes, and for the requirement of RBI for offsite
+surveillance, information to controlling offices from branches – these are all some of the
+19. The INFINET by its very logic has no constraints on its reach. As we liberalise the
+financial system and bring about integration of different markets, both within and outside the
+country, payment transactions will not just be confined only to our borders. Cross-border
+transactions will increase sharply. The vision for tomorrow encompasses both domestic and
+international sectors being served by the INFINET. I can visualise that in the not-too-distant
+future, a seamless integration of markets, with funds and data flowing without any delays and
+settlements effected without lags and large value funds transfers taking place on a real time
+on-line basis .  All these developments, taking place with the aid of technology, will provide
+satisfaction to the ultimate users of our services. And we are all here sharing and working for
+the common objective of serving our customers. Let us therefore re-dedicate ourselves to the
+Thank you.
+4
+task and work towards expansion and best use of the INFINET.
+areas which would work using the INFINET.
+monetary policy.
+related issues. These recommendations are being closely examined.
+technology and services, 
+on-line real time environment.

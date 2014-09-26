@@ -1,0 +1,542 @@
+????
+Importance of Productivity in India
+Respected Professor Papola and friends,
+It is an honour and privilege to address this august gathering.  I am
+happy to visit Visakhapatnam, where, in 1965, I commenced my career in civil
+services in Andhra Pradesh as an Assistant Collector under training - learning
+initially from village karnam of Penduthri village (then a village) and Revenue
+Inspector of Gajuvoka, travelling by bicycle to the villages.  I am particularly
+delighted that a friend for decades, an economist of eminence and a person of
+outstanding personal values is delivering the Presidential Address at this
+conference today.
+At the instance of late Professor P.R. Brahmananda, I delivered the
+th
+valedictory address at the Amrit Jubilee (i.e., 80 year) conference of the
+Indian Economic Association in December 1997 and the subject was
+"Economists and Public Policy".  The community of economists may be happy
+to know that the Reserve Bank of India has instituted a memorial lecture in his
+honour as a token of respect - the only economist to have been so honoured
+by the RBI.  Incidentally, Lord Meghnad Desai delivered the first lecture which
+was presided over by late Dr. I.G. Patel.  In my valedictory address,  I had
+elaborated the Reserve Bank's close links with the fraternity of economists
+and hence, will not revisit the theme today.  My address today focuses on the
+growing importance of productivity in the Indian economy, while also alluding
+to the Reserve Bank's own contribution to enhancing productivity in our
+economy.
+It is well known that economic growth, as a means to enhancing the
+welfare of people, depends both on the use of factors of production such as
+capital and labour, and the efficiency in resource use, often referred to as
+productivity.  Recent developments indicate the growing importance of
+productivity, particularly for our economy at its present stage of development.
+                                             
+?
+ Inaugural address by Dr. Y.V. Reddy, Governor, Reserve Bank of India, at the Annual
+Conference of Indian Economic Association held on December 27, 2005 at Andhra University,
+Visakhapatnam. Dr. Reddy is thankful to Dr. Narendra Jadhav and Mr. Muneesh Kapur for
+their valuable assistance rendered at very short notice.Trade integration amongst the countries, that is driven more by the
+technological developments than by the public policy, has the overall effect of
+rewarding those with high and increasing productivity. In fact, recent
+experience shows that, even in the industrialised economies, a public policy
+that attempts to protect less-than-competitive productive employment may not
+succeed and even when it does to an extent, it is temporary and expensive in
+the face of rapid technological change. Such cross-border trade-integration
+induced pressures on productivity have some undeniable positive effects.  For
+example, the price and quality of goods available for consumers are
+substantially determined by the most efficient producers in the world.
+Productivity gains that get transmitted through trade-integration have positive
+effects on the standard of living as well as the quality of life.
+The spread and the thrust of Information and Communication
+Technology (ICT) have provided unprecedented scope for productivity gains
+the world over in a very short span of time.  It is interesting to note that the
+deployment of ICT in India may contribute to productivity gains in the USA but
+not necessarily to India if the public policy framework does not enable
+adoption of modern ICT within India. Further, the changes in demography and
+their implications need to be viewed in a global perspective rather than only in
+a national context. Thus, it is expected that India would contribute to the world
+a large young work force in the first half of this century, when the rest of the
+world may be getting crowded with an elderly population.  A large young work
+force in India is often described as “demographic dividend” but, we must
+recognise that the so called demographic dividend may turn into a
+demographic nightmare if adequate level of productive employment to our
+youth, in an increasingly globalised environment, is not ensured by an
+enabling public policy framework.  Finally, before India enters the latter part of
+21st century, with a large share of the elderly like the rest of the world, we
+would have to reckon with the need to provide for the increasingly ageing
+population.  In other words, the current generation of young persons should
+grow rich well before they grow old, both on social and economic grounds,
+since they may not have a younger generation to take care of them.  I hope
+the case for focusing on the growing importance of productivity has not been
+overstated by me today.
+2The text books do provide simple definitions of productivity and
+techniques for measurement.  Productivity may be defined as the ratio of the
+output of goods and services to the inputs - human as well as others - used in
+the production process. Labour productivity, the best known measure of factor
+productivity, reflects the influence of various factors (such as capital, quality of
+labour, technological change and organization of production) that affect
+productivity. Based on inputs to production, labour productivity can be
+decomposed into two components: (a) productivity due to capital deepening
+(i.e., improvements in physical capital available per labour unit) and (b) multi-
+factor productivity (MFP) or total factor productivity (TFP). TFP is the
+contribution other than that emanating from the increased use of inputs
+(capital and labour). TFP thus measures the increase in efficiency with which
+resources are being used through innovations and improved management
+techniques to increase the output from a given combination of capital and
+labour.  Although, conceptually, it is relatively easier to define productivity, its
+actual measurement is beset with a number of statistical issues such as
+accounting for quality adjustment and non-marketed output such as public
+administration in addition to the underground economy.  In spite of the
+difficulties, an accurate measurement of productivity is an imperative, albeit
+with full awareness of the limitations of such an exercise.  This is area of
+fruitful research, which the Andhra Pradesh Economic Association may like to
+consider.
+As already mentioned, the main reason for unprecedented productivity
+growth in the recent past has been the impressive technological progress.
+Robert Solow had emphasised the importance of technological change in
+long-term economic growth and productivity way back in the 1950s.  But, the
+key issue - what determines technological progress – was left unanswered by
+assuming technological progress to be exogenous. Technological advance
+involves the creation of new ideas - partially non-rival and, therefore, having
+certain aspects of public goods – with increasing returns to scale. This,
+however, conflicts with perfect-competition assumption. These weaknesses of
+the neo-classical model assuming exogenous technological progress were
+overcome with the development of the concept of endogenous growth
+propounded by Romer and its subsequent refinements in the 1980s. In this
+3approach, the long-run growth is determined within the model, with
+technological advance benefiting from research and development activity,
+supported by some monopoly power and increasing returns to scale.
+Following the research report of the Centre for the Study of Living
+Standards (CSLS) in 1998, one can identify the following seven determinants
+of productivity growth: the rate of technological progress, investment in
+physical capital such as machinery and equipment and structures, the quality
+of the workforce, size and quality of the natural resource base, industrial
+structure and inter-sectoral shifts, the macroeconomic environment or
+aggregate demand conditions, and the microeconomic policy environment.
+Similarly, Harris (1999), based on a review of the cross-country growth
+literature, has identified three proximate drivers (the Big Three) of productivity
+growth: investment in machinery and equipment; education, training and
+human capital; and openness to trade and investment. While the proximate
+drivers may not be exhaustive, they do point to the critical elements of an
+enabling public policy for enhancing productivity and employment.
+What is the role of the ICT in enhancing productivity?  The ICT can
+have a positive impact on growth not only through a surge in ICT investment,
+strong productivity effects from the ICT-producing industries and but also
+through a more productive use of the ICT in the rest of the economy. The ICT
+equipments enable new organisational models and other innovations in the
+production process as well as the production of new goods and services.
+Thus, even if the ICT investment goods are standard products, they enable
+firms to innovate and accumulate firm-specific capital with positive spillovers
+on production.
+Ark and Inklaar (2005) posit that the ICT investments may have a
+U-shaped effect on productivity. After some initial benefits from the ICT
+investments (“hard savings”), the contribution may even become negative
+since for reaping full benefits of the ICT, complementary investments in
+human and knowledge capital as well as in organisational innovations
+become necessary. Such complementary investments involve gestation lags
+and do not immediately result in an acceleration of productivity growth. It is
+only over time that the combination of ICT investment coupled with intangible
+investments and innovations shows an effect on productivity (“soft savings”),
+4reflected in the U-shaped relationship. The realisation of “soft savings”
+involves more trial and error and thus, could benefit from an entrepreneurial
+environment and competitive labour and product markets.
+There have been several empirical studies on the productivity trends
+with special reference to increased use of the ICT and the efficiency gains
+(For example, Oliver and Sichel, 2002; Nordhans 2005; Ark and Inklaar 2005;
+Gorden 2004).  The major issues that are addressed relate to the acceleration
+of productivity since 1995 in the US but not in Europe; the role of the ICT in
+productivity acceleration with noticeable differences between the US and
+Europe seeking explanations for the lagged or indirect effects of the ICT; and
+the differences in impact of the  ICT on productivity in the manufacturing vis-à-
+vis the services sector.  It is not my intention to go into the details of research
+but only to highlight the importance of understanding the role of the ICT in
+securing productivity gains, particularly since Andhra Pradesh has been one
+of the leading States in the area of ICT.  Hopefully, Andhra Pradesh Economic
+Association will consider exploring these issues relating to ICT.
+It will be interesting to recall the empirical work done so far on the
+trends in productivity in India.  Most of the empirical studies on productivity in
+India have focussed on the growth in the TFP in the manufacturing sector.
+These studies suggest a decline in the total factor productivity growth (TFPG)
+till 1970s, with a turnaround taking place in mid-1980s pursuant to the
+reoriented trade and industrial policies and improved infrastructure
+performance (Brahmananda, 1982; Ahluwalia, 1991; Balakrishnan and
+Pushpangadan, 1994; Majumdar, 1996; Rao, 1996; Pradhan and Barik, 1999;
+Trivedi, Prakash and Sinate, 2000). The proposition that the TFPG
+accelerated during the 1980s would be consistent with the recent contentious
+view associated with Rodrik and Subramanian (2004) who have argued that
+the transition to high-growth phase occurred around 1980 – a full decade
+before economic liberalisation - due to pro-business policies that started being
+adopted during the 1980s. Various incremental reforms in the industrial sector
+during the 1980s appear to have had a positive impact on the productivity
+during the 1980s. However, the pick-up in productivity during the 1980s
+remains a matter of contention. Balakrishnan and Pushpangadan (1994), for
+instance, argue that the turnaround in productivity during the 1980s is the
+5artefact of using the single-deflation method; there is no evidence of such a
+turnaround in case       double-deflation approach is adopted: (Under single-
+deflation method, nominal value added is deflated by an index of the price of
+gross output. Under double-deflation method, gross output and material input
+are deflated separately by output price index and input price index,
+respectively, and the difference is treated as real value added).
+Turning to the trends in productivity in the post-reform period, the
+evidence from empirical studies by researchers is ambiguous, though
+anecdotal evidence, especially of trends in recent years, shows significant
+increases in productivity. While studies by Unel (2003) and Tata Services Ltd.
+(2003) find an acceleration in the TFPG in the 1990s, Goldar (2004) and RBI
+(2004) find a deceleration in the TFPG. Notwithstanding the ambiguity
+regarding acceleration in TFPG, evidence suggests that trade liberalisation
+since 1991 has had a positive impact on the TFPG in India (Krishna and
+Mitra, 1998; Chand and Sen, 2002; Das, 2003; and, Topalova, 2004). At the
+sectoral level, there is evidence of improved TFPG for the exporting sectors
+vis-à-vis the non-exporting ones (Dholakia and Kapur, 2001; Unel, 2003).
+More recently, Kato (2005) finds that the smaller the market share of a firm,
+the higher is its productivity growth.
+One limitation of most of the studies in the Indian context is their focus
+on productivity in only the manufacturing sector. The share of industrial sector
+in India’s GDP is only 22 per cent whereas the services sector has emerged
+as the predominant contributor to GDP with a share of 58 per cent. Since
+1993-94, the services-sector GDP has recorded an annual average growth of
+almost 8.0 per cent per annum, notably higher than 6.7 per cent recorded by
+the industry. Therefore, studies that focus on manufacturing sector alone may
+not represent a true picture of productivity of the economy as a whole. This is
+especially true in view of some evidence that the productivity acceleration in
+the US during the second half of the 1990s was led by the services sector.
+For India, recently Virmani (2004) has attempted to measure the TFPG for the
+Indian economy as a whole. His estimates suggest that the TFPG has
+followed a     V-shaped pattern since independence, with near flattening from
+the late 1980s. Growth in the TFP decelerated since early 1950s, when it was
+about 2.5 per cent, till mid-1970s when it fell to less than 0.5 per cent.
+6Subsequently, the TFPG recovered and peaked at about 2.6 per cent in 1988-
+89 and has broadly remained around these levels since then.
+A second relevant factor in these empirical studies in India is that their
+focus is predominantly on the TFPG. In addition to TFPG, it is important to
+examine trends in labour productivity since it is a more proximate measure of
+the standard of living, which is specially relevant for the countries with low
+living standards. Studies in this regard throw some evidence of an increase in
+the growth rate of labour productivity during the 1990s [RBI (2004);
+Balakrishnan and Babu (2003)]. Thus, even if it is held that there has been no
+clear evidence of growth in the TFP, labour productivity growth could have
+been higher in the post-reforms period, though the evidence is not conclusive.
+A third factor to be kept in view is that many studies draw upon the
+data up to the year 2000 while, by all indications, significant gains in
+productivity have occurred in the more recent years, particularly in
+manufacturing. Anecdotal evidence, in addition to relevant supporting data on
+trends in prices, composition of our export basket and corporate balance
+sheets, indicates a significant acceleration in productivity gains in the
+economy. These are issues worth exploring for research on a priority basis,
+including the studies on capital productivity and the movement of the
+incremental capital-output ratio.
+How does India fare in comparison with other countries? Cross-country
+evidence (Ark and Inklaar, 2005) shows that labour productivity growth in
+India in recent years is better than in Germany, the United Kingdom and the
+United States. Wage rates in India are much lower than in Thailand,
+Singapore, the Philippines, Malaysia and Korea. In terms of the unit labour
+cost, India has a competitive edge over Singapore, Korea and Malaysia. In
+the case of the iron and steel industry, India fares better than Hong Kong,
+Indonesia, and Malaysia, both in terms of lower input costs and higher
+operating surplus. India leads in skill-based manufacturing activity such as
+ability to re-engineer equipment at lower capital costs, innovative process re-
+engineering, availability of skilled technicians and quality mindset. On the
+other hand, the unit labour cost in India is higher in food products, electrical
+machinery and transport equipments as compared with some other emerging
+market economies. Overall, the Global Competitiveness Report 2004 (World
+7Economic Forum) has ranked India 55th among 104 economies in terms of
+the Growth Competitiveness Index and 30th in terms of Business
+Competitiveness Index.  Although labour productivity growth in India is higher
+than in the advanced economies, it needs to be stressed that its level in India
+remains quite low in many sectors. Illustratively, productivity per worker in
+India is only nine per cent of the US productivity as compared with fourteen
+per cent for China (Ark, Bart van 2005).
+An important issue for India is the relationship between productivity and
+employment. Does higher productivity lead to a reduction in employment?
+Prima facie, the evidence may appear to support such a proposition but it
+might require a deeper analysis. Illustratively, in the US productivity has
+rebounded in the last decade while manufacturing employment has declined
+sharply. Such a simple positive correlation might be deceptive as it ignores
+productivity trends in the competing economies. It could be the case that
+productivity in competitor countries might have exceeded that in the US. It is
+possible that the effects of rapid domestic productivity growth could have
+been more than offset by more rapid productivity growth and price declines
+arising from foreign competitors. Indeed, this appears to have been the case
+since, according to estimates by Nordhaus (2005), the relevant elasticities of
+employment with respect to productivity – about 0.25 to 0.5 - indicate that
+faster productivity growth leads to increased rather than decreased
+employment in manufacturing. In brief, the implications of productivity trends
+on employment in our country depend not merely on what happens within
+India but what happens in other countries contemporaneously, reaffirming the
+importance of tracking productivity both in India as well as in other countries,
+in view of trade integration.  I would flag this as another priority area for
+research by the economists.
+While a number of studies have examined the relationship between
+productivity and income on the one hand and between income and poverty on
+the other, the relationship between productivity and poverty is perhaps
+relatively less explored. A number of studies have found that productivity
+growth has a positive impact on income growth. Sustained and high growth, in
+turn, is found to reduce poverty levels in an economy. Thus, it is expected that
+productivity growth should also have a positive effect of reducing poverty in an
+8economy, although the very short-run effect may be ambiguous depending
+upon the effect of productivity growth on employment. While in the long-run,
+productivity growth is employment enhancing, the short-run effect could be
+employment-diminishing, if redeployment of labour is rendered difficult.
+Hence, a labour force supported by adequate human capital skills and robust
+governance institutions can help reaping the benefits of productivity growth on
+employment more rapidly.  It must be noted that an inverse relationship
+between productivity growth and employment may, in fact, hold in the long-run
+at a sectoral level (say, agriculture), but at the economy-wide levels, a positive
+relationship is expected as employment opportunities arise in newer industries
+and the services sector.
+On the whole, productivity growth can have positive impact on poverty
+reduction through two channels: First, increase in productivity raises wages
+and incomes and hence reduces poverty. Higher productivity-led wages and
+incomes can have a second-round impact on domestic demand and, in turn,
+on employment and further gains on poverty reduction. Second, productivity
+gains help to moderate the rate of increase in prices – as has been happening
+in a number of countries. Lower inflation is equivalent to an increase in the
+purchasing power of current incomes. This indirect effect, operating through
+lower inflation, can also have a mitigating effect on poverty levels.
+A detailed analysis of the relationship between productivity and poverty
+has recently been made by the International Labour Organisation in its
+publication World Employment Report, 2004-05 (WER). Cross-country
+empirical analysis contained in the Report shows that poverty reduction is
+often, but not always, the mirror image of productivity gains. Productivity
+growth can and must go hand in hand with employment creation and poverty
+reduction, at least in the long run. But, as the Report stresses, this does not
+occur automatically and in the same way for all regions. For the beneficial
+effects of productivity growth to be reaped, economies require a certain
+degree of productivity growth in order to improve labour market conditions.
+Major transitions or crises can have a negative impact on productivity growth
+and labour markets need time to recover. A recent study [CSLS (2003)] finds
+that productivity growth accounts for changes in poverty better than the more
+commonly used economic growth. According to the study, in countries with
+9the lowest GINI indices, a one per cent rise in labour productivity is associated
+with a 1.02 per cent decline in the incidence of poverty. In countries with the
+highest GINI indices, the impact is less than a half: a one per cent rise in
+labour productivity was associated with only a 0.45 per cent decline in the
+incidence of poverty. It appears that the effects of productivity growth on
+poverty depend inversely upon the income inequality levels: the higher is
+income inequality within a country, the more limited is the impact of
+productivity growth on reducing poverty. On the other hand, the effect of
+productivity growth on poverty reduction is found to be stronger in countries
+with relatively low income inequality.  I would end this exploratory journey on
+relationship between productivity growth and poverty reduction with an
+exhortation that economic research in this area should be a priority in India
+since poverty alleviation is the biggest challenge while increase in productivity
+is a necessary though not a sufficient condition for poverty eradication.
+Before concluding, it is appropriate that there be some illustrations of
+the manner in which Reserve Bank has been contributing to enhancing
+productivity in our economy.
+The first and foremost contribution is the lowering of inflation and more
+importantly, inflation expectations. A growing consensus has emerged in
+recent times, both in academia and policy circles, that price stability - a low
+and stable inflation rate - provides substantial benefits to the economy.  First,
+it prevents over-investment in the financial sector.  Second, price stability
+lowers the uncertainty about relative prices and the future price level, making
+it easier for firms and individuals to make appropriate decisions, thereby
+increasing economic efficiency.  Third, price stability also lowers the
+distortions from the interaction of the tax system and inflation.  All of these
+benefits of price stability suggest that by anchoring inflationary expectations, a
+stable inflation can increase the level of resources productively employed in
+the economy.  In the Indian context, the Reserve Bank exhibits demonstrable
+commitment to price stability and growth, the relative emphasis being
+determined by the balance of domestic and global conditions. Measured in
+terms of Wholesale Price Index (WPI), the annual rate of inflation halved from
+an average of around 11 per cent over the 5-year period beginning 1990-91 to
+around 5 per cent for the first five years of the current decade.  This, as you
+10would all agree, has been an important factor for business to thrive and
+prosper, with positive spillovers on productivity improvements.
+Second, the ease of credit availability is a crucial ingredient for
+business to flourish.  A growing economy needs to have access to credit on
+reasonable terms and conditions.  Illustratively, the credit growth over the last
+five years has averaged 20 per cent, with the increase at around 25 per cent
+being particularly rapid during the last three years, riding on the back of
+broad-based credit demand across all sectors.  In recognition of these facts,
+recent policies have placed explicit emphasis on streamlining credit delivery
+consistent with credit quality through a gamut of measures. Any discussion of
+productivity improvement needs to take on board the reach of the financial
+sector, particularly in rural and semi-urban areas.  It is in this context that the
+recent Policy Statements of the Reserve Bank have rationalised branch
+licensing policy and emphasized the need for 'financial inclusion' of the vast
+segment of our population who have hitherto remained financially excluded.
+Self-help groups formed by non-government organisations (NGOs) and
+financed by banks represent an important constituent of this development
+process.
+Third, the policy environment has been made conducive for Indian
+corporates to have global presence, including global acquisitions. In
+particular, the corporates are free to leverage through external commercial
+borrowings and Indian banks are enabled to fund such presence. These
+initiatives help exploitation of synergies of the domestic and foreign operations
+of our corporates thus enhancing overall productivity.
+Fourth, as regards banking sector, Professor T.T. Ram Mohan has
+described succinctly (Economic Times, December 15, 2005) the current
+status in this regard.  "There is the improved efficiency and stability of Indian
+banking.  Banking has proved the soft underbelly of many an experiment in
+liberalisation.  Not so in India.  The decline in interest rates in recent years
+helped recapitalise the banking system.  Now, the system is well placed to
+take advantage of this good fortune - both by garnering more savings and by
+delivering more credit.  With financial markets having developed as well, the
+financial system is geared to meet the demands of growth".
+11Fifth, improvements in communication policy of Reserve Bank also
+have an indirect influence on productivity.  For instance, the Reserve Bank
+has brought about changes in the institutional setting of the monetary policy
+by migrating from half-yearly announcements to a system of quarterly reviews
+since April 2005.  The weight of evidence suggests that increasing
+transparency and accountability reduces the uncertainty about monetary
+policy, interest rates and inflation. The consequent conducive economic
+environment makes it easier for businesses to flourish.  The Reserve Bank
+has, therefore, been making pro-active efforts to improve transparency and
+public availability of information. Such information dissemination leads to
+minimisation of uncertainties about policy intentions, enhances market
+stability and has a long-run positive effect on productivity. Of particular
+interest to this gathering may be the data available on the website of Reserve
+Bank through the "Database on Indian Economy" (available at
+https://reservebank.org.in).  The website is being currently accessed
+extensively by market analysts and economic researchers from universities in
+the USA and the UK.
+Finally, Reserve Bank has been interacting with market participants
+while being alert to the global developments in order to ensure financial
+stability since there is a clear global recognition of the disruptive effects of
+financial instability. India has been spared both currency and banking crises,
+unlike many other emerging countries. Further, amongst the major economies
+that do not contribute to current global imbalances, India and Euro area are
+noteworthy. It is widely recognised that the financial sector and the external
+sector reforms are amongst the most successful in India which also reflects
+the enabling conditions ensured by Reserve Bank for efficiency and stability.
+It must be recognised that stability has enabled acceleration of growth rates,
+notwithstanding the significant borrowing requirements of the public sector
+including the Government  and the infrastructural challenges.
+  From the perspective of the monetary policy formulation by the
+Reserve Bank, an understanding of the underlying trends in productivity is of
+critical importance in order to aim for low and stable inflation. Ultimately,
+inflation is determined by mismatches between demand and supply in the
+economy. Monetary authorities, therefore, ought to have a good fix on the
+12movements in the trends in the economy’s productivity since it is a key
+determinant of the potential growth of the economy. If the productivity of the
+economy is on an uptrend – that is, the potential growth of the economy has
+moved on to a higher trajectory – that would suggest, ceteris paribus, that the
+supply exceeds the demand in the economy and hence, it provides monetary
+policy flexibility to pursue an accommodative monetary policy without stoking
+inflationary pressures. From the view point of the conduct of the monetary
+policy, it is important to have reliable estimates of the evolving productivity
+dynamics, but it is critical to be able to form such assessments on a timely
+basis to avoid costly errors. Thus, for a central bank to deliver low and stable
+inflation while allowing employment and output close to their potential/natural
+levels, analysis of productivity – on a real time basis – remains a key input.
+Let me conclude : Reserve Bank has a vital interest in research and
+analysis of productivity trends in the Indian economy, on a continuing basis
+and in a timely manner,  keeping in view similar developments in other major
+economies in the world.
+I have great pleasure in inaugurating the Annual Conference and wish
+the Conference all success.  We, in the Reserve Bank, look forward to the
+guidance that we could get from the scholarly pursuits and deliberations in
+this Conference.
+Thank you.
+---x---
+13Select References
+Ahluwalia, I.J., "Productivity and Growth in Indian Manufacturing", Oxford
+University Press, New Delhi, 1991.
+Ark, Bart van and Robert Inklaar, "Catching Up or Getting Stuck? Europe's
+Troubles to Exploit ICT's Productivity Potential", Research Memorandum GD-
+79, Groningen Growth and Development Centre, September 2005.
+Ark, Bart van (2005), “Europe’s Productivity Gap: Catching Up or Getting
+Stuck?”, Paper presented at International Symposium on Productivity,
+Competitiveness and Globalisation at Banque de France, Paris on November
+4, 2005.
+Balakrishnan, Pulapre, "Measuring Productivity in Manufacturing Sector",
+Economic and Political Weekly, April 3-10, 2004.
+Balakrishnan, P and K. Pushpangadan, "Total Factor Productivity Growth in
+Manufacturing Industry: A Fresh Look", Economic and Political Weekly, Vol.
+29, pp.2028-35, 1994.
+Balakrishnan, P. and M. Suresh Babu, "Growth and Distribution in Indian
+Industry in the 1990s", Economic and Political Weekly, No. 37, pp. 3997-4005,
+2003.
+Banga, Rashmi and Bishwanath Goldar, "Contribution of Services to Output
+Growth and Productivity in Indian Manufacturing: Pre and Post Reforms".
+Working Paper No. 139, ICRIER, July 2004.
+Barro, Robert J. and Xavier Sala-i-Martin, "Economic Growth", McGraw-Hill,
+1995.
+Nicolas Belorgey, Remy Lecat and Tristan-Pierre Maury, "Determinants of
+Productivity Per Employee: An Empirical Estimation Using Panel Data",
+Bulletin De La Banque De France Digest - No 123, March 2004.
+Bosworth Barry P. and Jack E. Triplett, "Services Productivity in the United
+States: Griliches' Services Volume Revisited", The Brookings Institution
+Washington, DC, 2003.
+Brahmananda, P.R., "Productivity in the Indian Economy: Rising Inputs for
+Falling Outputs", Himalaya Publishing House, Mumbai, 1982.
+Centre for the Study of Living Standards (CSLS), “Productivity: Key to
+Economic Success, March 1998.
+Centre for the Study of Living Standards (CSLS), “Productivity Growth and
+Poverty Reduction in Developing Countries” Research Report 2003-06,
+September 2003.
+Chand, S and K. Sen. "Trade Liberalisation and Productivity Growth :
+Evidence from Indian Manufacturing". Review of Development Economics,
+Volume 6, No. 1, 2002.
+Dholakia, R.H. and D. Kapur. "Economic Reforms and Trade Performance:
+Private Corporate Sector in India", Economic and Political Weekly, Volume
+36, No. 49, 2001.
+Goldar, Bishwanath, "Productivity Trends in Indian Manufacturing in the Pre-
+and Post-Reform Periods".  Working Paper No. 137, ICRIER, June 2004.
+14Gordon, Robert J., "Exploding Productivity Growth: Context, Causes and
+Implications", Brookings Papers on Economic Activity (2), 2003.
+Gordon, Robert J., "Why was Europe Left at the Station When America's
+Productivity Locomotive Departed", Northwestern University, 2004.
+Griliches, Zvi, "Output Measurement in the Service Sectors", National Bureau
+of Economic Research, Studies in Income and Wealth, vol. 56, Chicago:
+University of Chicago Press, 1992.
+Harris, Richard G. "Determinants of Canadian Productivity Growth: Issues and
+Prospects", Discussion Paper No. 8, Industry Canada Research Publications
+Programme, 1999.
+Jorgenson, Dale W. and Kazu Motohasi, "Information Technology And The
+Japanese Economy" Working Paper 11801, NBER, November 2005.
+Kato Atsushi, "Product Market Competition And Productivity in Indian
+Manufacturing Industry", Working Paper Series No. E/263, Institute of
+Economic Growth, 2005.
+Krishna, P. and D. Mitra. "Trade Liberalisation, Market Discipline and
+Productivity Growth: New Evidence from India", Journal of Development
+Economics, pp. 447-462, 1998.
+Lecat, Remy, "Labour Productivity in the Major Industrialised Countries: The
+End of the Catch-up Process With the United States?", Bulletin De La Banque
+De France Digest - No 123,  March 2004.
+Majumdar, Sumit K. "Fall and Rise of Productivity in Indian Industry",
+Economic and Political Weekly, Vol. 31, pp. M46-M53, 1996.
+Das, D.K. "Manufacturing Productivity Under Varying Trade Regimes: India in
+the 1980s and 1990s", Working Paper No. 107, ICRIER, 2003.
+Maury, Tristan-Pierre and Bertrand Pluyaud, "The Breaks in Per Capita
+Productivity Trends in a Number of Industrial Countries", Bulletin De La
+Banque De France Digest - No 123, March 2004.
+Nordhaus, William, "The Sources of the Productivity Rebound and the
+Manufacturing Employment Puzzle", Working Paper 11354, NBER,May, 2005.
+Oliner, Stephen D. and Daniel E. Sichel, "Information Technology and
+Productivity: Where Are We Now and Where Are We Goint?", Federal
+Reserve Bank of Atlanta Economic Review, Third Quarter, 2002.
+Pradhan, G. and K. Barik, "Total Factor Productivity Growth in Developing
+Economies: A Study of Selected Industries in India", Economic and Political
+Weekly, Vol. 34, pp. M-92-105, 1999.
+Ram Mohan, T.T. "A String of Positives", The Economic Times, December 15,
+2005.
+Rao, J.M., "Manufacturing Productivity Growth: Method and Measurement",
+Economic and Political Weekly, Vol. 31, pp. 2927-36, 1996a.
+Rao, J.M., "Indices of Industrial Productivity Growth: Disaggregation and
+Interpretation", Economic and Political Weekly, Vol. 32, pp. 3177-88, 1996b.
+Reserve Bank of India, "Report on Currency and Finance, 2002-03", 2004.
+15Rodrik, Dani and Arvind Subramanian, "From Hindu Growth to Productivity
+Surve: The Mystery of the Indian Growth Transition", Working Paper No.
+10376, NBER, March 2004.
+Romer, Paul M. "Increasing Returns and Long Run Growth", Journal of
+Political Economy, 94, 1002-1037, 1986.
+Solow, R.M. (1957), "Technical Change and the Aggregate Production
+Function", Review of Economics and Statistics, Vol. XXXIX, pp. 312-20.
+Tata Services Limited, "Reforms and Productivity Trends in Indian
+Manufacturing Sector", Department of Economics and Statistics, Tata
+Services Limited, Mumbai, 2003.
+Topalova, Petia, "Trade Liberalization and Firm Productivity" the Case of
+India", Yale University, available at www.econ.yale.edu/seminars, 2003
+Triplett, Jack E and Barry P. Bosworth, "'Baumol's Disease' Has Been Cured:
+IT and Multifactor Productivity in U.S. Services Industries", Brookings
+Institution, 2002.
+Trivedi Pushpa, Anand Prakash and David Sinate, "Productivity in Major
+Manufacturing Industries in India: 1973-74 to 1997-98".  Study No. 20, DRG,
+RBI, August 2000.
+Unel, Bulent, "Productivity Trends in India's Manufacturing Sectors in the last
+Two Decades", IMF Working Paper No. WP/03/22.
+Virmani, Arvind, "Sources of India's Economic Growth: Trends in Total Factor
+Productivity", Working Paper No. 131, Indian Council for Research on
+International Economic Relations, New Delhi, 2004.
+World Employment Report 2004-05. International Labour Organisation.
+16

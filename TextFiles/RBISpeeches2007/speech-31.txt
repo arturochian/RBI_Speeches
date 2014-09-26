@@ -1,0 +1,588 @@
+RESERVE BANK OF INDIA
+SECOND P.R. BRAHMANANDA MEMORIAL LECTURE
+by Avinash K. Dixit
+GOVERNANCE INSTITUTIONS
+ AND 
+DEVELOPMENT1
+Governance Institutions and Development  
+Avinash Dixit
+Princeton University
+I greatly appreciate the honor of being invited to deliver the 
+Brahmananda Memorial Lecture. I share the immense admiration
+and respect you all have for his scholarship, his teaching, and his 
+untiring service for the economics profession and the country. It is 
+indeed a privilege to give a talk in his memory. And it is a special 
+pleasure to follow my long-standing friend Lord Desai, who gave the 
+inaugural lecture in this series. But I must admit that, unlike Meghnad, 
+my knowledge of P. R. Brahmananda and his work is indirect. During 
+my college days in Mumbai my subjects were mathematics and physics, 
+so I did not have the benefit of Professor Brahmananda’s teaching. 
+Some of my work on dual economies connected with his long line of 
+work on wage goods, but my approach was quite different. 
+Let me begin with some memories of the time I left India to study 
+abroad. I do so with a twofold purpose – to show how things have 
+changed, and how they have not changed. 
+Although I studied mathematics and physics, I did have one occasion to 
+visit the Reserve Bank. This was to get permission to buy £50 to take 
+with me when I left for England. Now the rupee is de facto convertible 
+for current account transactions. Indian multinationals are major 
+players in making foreign direct investments. Unlike in Oscar Wilde’s 
+days, schoolchildren are no longer told to omit the chapter on the
+fall of the rupee. 
+1
+ This is a draft of the P. R. Brahmananda Memorial Lecture to be delivered at the Reserve Bank of India, 
+Mumbai, on June 28, 2007. The actual material delivered may differ slightly from this text. I thank Meghnad 
+Desai and Vijay Kelkar for their perceptive comments and suggestions on a previous draft.
+1During my visits to many government offices to get various documents 
+and permissions to travel, entry to almost any office required me to give 
+an authorization signature from C. D. Deshmukh to the chaprasi 
+guarding the door. Mr. Deshmukh had been the Governor of the
+Reserve Bank and Union Finance Minister, and in one of these 
+capacities, his signature appeared on the ten-rupee note. I am sure this 
+practice continues even now in many government offices. The 
+denomination of the required note has surely risen many times, and the 
+chaprasis are probably now called the Site Security Officers. 
+The problem of corruption has become very important in recent 
+thinking on development policy. For example, the World Bank’s 
+governance web site, http://www.worldbank.org/wbi/governance, 
+seems to focus almost exclusively on corruption. In the Indian context, 
+observers like Luce (2007) identify it as a key issue affecting the 
+country’s growth prospects. 
+But corruption is only a part of the more general issue of economic 
+governance, and of more general policy questions concerning the 
+design and reform of institutions of governance. In this lecture I will 
+sketch some of these issues. I will draw on the research of several others 
+as well as some of my own, and will try to interpret these findings in the 
+context of India. However, I am handicapped in two respects. I am 
+primarily an economic theorist and only secondarily a development 
+economist, and my research, although it draws on my reading of 
+empirical and historical research about some other countries and times, 
+has not focused on Indian questions. Therefore my thinking and 
+suggestions must remain very tentative and must be interpreted with a 
+lot of caution. I hope that some in the audience and the readership will 
+guide me to related literature, and perhaps also collaborate in modifying 
+and refining these ideas and their implications for India.
+2What Is Governance ?
+Economic governance comprises many organizations and actions 
+essential for good functioning of markets, most notably protection of 
+property rights, enforcement of contracts, and provision of physical and 
+informational infrastructure. In most modern economies, governments 
+provide these services more or less efficiently, and modern economics 
+used to take them for granted. But the difficulties encountered by 
+market-oriented reforms in less-developed countries and former 
+socialist countries have led economists to take a fresh look at the 
+problems and institutions of governance. In this lecture I offer a brief 
+and selective look at this research, and attempt to draw a couple of 
+conclusions that may be relevant to India today.
+The importance of secure property rights can hardly be overstated. 
+Without them, people will not create or improve the assets, physical and 
+intellectual, that are essential for economic progress. De Soto (2000) 
+builds the argument and marshals the evidence in a thorough and 
+compelling book. Security of rights improves the incentives to save and 
+invest. Land and capital can be rented out to others if they can use it 
+more efficiently, so inefficient internal uses are avoided. And the assets 
+can be used as collateral to borrow and expand one’s business. Field 
+(2006) has taken the case even further. Security of property rights not 
+only increases the supply of capital and efficiency in its allocation; it 
+also increases labor supply. When titles to land and capital are official 
+and secure, people need not spend time and effort to guard their rights, 
+so they can put the labor and time to productive uses. Field’s empirical 
+research on the titling program in Peru finds large and significant 
+effects: “For the average squatter household, property titles are 
+associated with a 14% increase in household work hours, a 28% 
+decrease in the probability of working inside the home, and a 7.5% 
+reduction in the probability of child labor among single-parent 
+3households. Panel estimates … support the cross-section results: 
+between 1997 and 2000 household labor supply increased an additional 
+13 hours per week for squatters in neighborhoods reached by the 
+program.”  
+In the Indian context, security of land titles may be the most important 
+issue of property rights. The controversy regarding land sales in the 
+context of the Special Economic Zones (SEZ) is a case in point. The 
+merits of the SEZ policy can and should be debated, but if the debaters 
+raise fears of revocation of rights and benefits that have been granted 
+through a proper policy process, this uncertainty will deter investors 
+and merely ensure that the potential benefits will not materialize. At a 
+more micro level, insecurity of land rights and fragmentation of land 
+arising from disputes in extended families constitute serious constraints 
+on agricultural growth.
+The relevance of security of contracts may not seem so obvious, but
+it is equally important. In most economic transactions that can create 
+economic gains for all parties, some or all of them can gain an extra 
+private benefit while hurting the others, by violating the terms of their 
+explicit or implicit agreement. The fear of such exploitation by the other 
+party may deter each from entering into the agreement in the first place. 
+This was brilliantly illustrated by Diego Gambetta in his ethnographic 
+sociological study of the Sicilian Mafia (1993, p. 15). In the course of 
+his interviews, a cattle breeder told him: “When the butcher comes
+to buy an animal, he knows that I want to cheat him [by supplying
+a low-quality animal]. But I know that he wants to cheat me [by 
+reneging on payment]. Thus we need … Peppe [the Mafioso] to make us 
+agree. And we both pay Peppe a commission.” By providing a 
+mechanism of contract enforcement, Peppe makes it possible for the 
+two to enter into a mutually beneficial transaction. And he does this
+4with a profit motive, exactly as would any businessperson providing 
+any service for which others are willing to pay.
+This example also demonstrates something else that is an important 
+theme for me: governance does not have to be provided by the 
+government as a part of its public services; private parties may do so 
+with other motives. In most countries, even advanced ones, we find a 
+mixture of the formal legal system and a rich and complex array of 
+informal social institutions of governance. These mixtures reflect the 
+country’s level of economic development, and in turn help determine its 
+economic prospects. 
+The issue is not the old-style one of “market versus government.” 
+Rather, it is one of how different kinds of institutions (governmental and 
+non-governmental, formal and informal, industry-based or community 
+based, singly or in combination) provide the support that is required for 
+successful economic activity (exchange, production, asset 
+accumulation, innovation, and so on), and the activity may or may not 
+take place in conventional markets. I cannot emphasize too strongly the 
+need to get beyond the old sterile debates and on to issues that really 
+matter.
+What forces threaten property rights and contracts? And how can we 
+design and reform institutions to counter these threat? Let us look at 
+some theoretical concepts and examples.
+Property Rights
+If the arm of the government’s law is distant or weak, some 
+people will seize every opportunity to steal valuable property from 
+others. Of course there are many non-governmental institutions that 
+5attempt to reduce this risk. Parents and schoolteachers strive to instill in 
+children at an impressionable age the norms of respect for others’ 
+property. Individuals guard their own property and contribute to 
+community policing. Communities can even evolve their own set of 
+rules of ownership; we have evidence on this point from some unusual 
+contexts, such as the American wild west (Libecap, 1989) and New 
+England whalers (Ellickson, 1989). Such arrangements succeed to 
+different extents, because each faces its own limitation of what can be 
+observed and enforced. In fact even the rules have to be adapted to these 
+limitations; attempting to put in place an unworkably stringent set of 
+rules would only bring the whole framework into disrepute.
+Thus private theft can flourish when public laws are weak, and private 
+institutions can cope with it only to a limited extent. However, the 
+biggest threat to property rights in many countries comes not from 
+private individuals who exploit weakness of government institutions, 
+but from the government itself and its agents. These threats need not 
+take the form of outright theft. In fact confiscation or nationalization 
+without compensation has been relatively rare for the last four
+2
+decades.    The problems are more likely to be indirect: unexpected and 
+arbitrary increases in tax rates and imposition of constraints on uses of 
+property and repatriation of profits, and last-minute hold-ups from 
+officials who demand extra kickbacks or bribes. 
+I want to emphasize that the big problem is the unexpectedness
+and arbitrariness of these actions of the government and its agents.
+A predictable tax or a predictable level of corruption will also deter 
+economic activity, but the deterrent effect of uncertainty is likely to be 
+2
+ But such seizures may be on the rise again, from recent populist governments in some countries and the 
+expansion of the use of eminent domain in the United States and elsewhere.
+63
+much bigger.   Thus Pritchett (2003, p. 148) finds: “Under a regime that 
+has reasonable institutional stability and is not completely 
+dysfunctional, a rapidly increasing level of GDP per capita is possible 
+up to semi-industrialization. … [A]t their best, these types of regimes, 
+while they tolerate high levels of corruption, also demand some 
+performance such that corruption does not become absolutely 
+disorganized.” Note the qualification “up to semi-industrialization.” 
+Progress beyond this point requires much more: “The policies required 
+to initiate a transition from low-income equilibrium to a state of rapid 
+growth may be quite different from those required to re-ignite growth in 
+a middle-income country” (Rodrik 2003, p. 17). Therefore it may be 
+especially important for India to curtail corruption if it is to ensure 
+progress beyond its current stage of development.
+How can people ensure that their government and its agents respect 
+property rights? Waiting for the government to eliminate corruption 
+may be futile. But the most that any one person whose rights are 
+violated can do is not deal with that official or agency again, at worst by 
+withdrawing from that form of economic activity. He cannot on his own 
+persuade his friends to do participate in a boycott on his behalf; they 
+have too much to gain by going along with the system, and the official 
+can always promise them better treatment. Therefore individuals can do 
+little; collective action is needed. Greif, North and Weingast (1994) 
+show how merchant guilds in medieval Europe performed this function 
+to keep monarchs from expropriating foreigners trading in their realms. 
+Perhaps confederations of industries in modern economies can perform 
+similar functions. Any one firm or industry may be tempted to get along 
+and comply with demands of corrupt officials and agencies to secure a 
+3
+  Even more generally than in the context of corruption, the stability of policies can be extremely important for 
+promoting investment. Uncertainty creates an “option value” of waiting, and thereby acts as a powerful 
+deterrent on investment; see Dixit and Pindyck (1994).
+7favorable treatment for itself; at a minimum, any one firm or industry 
+may feel itself helpless to resist. But all firms and industries should 
+recognize that such practices hurt them all in the long run. Therefore 
+they should be willing to organize and collectively commit all their 
+members to resist these pressures. They can enforce that commitment 
+using the threat that other members would refuse to trade with anyone 
+who complied and gave bribes. If this can be done in conjunction with 
+generating adverse media publicity about corrupt officials, which again 
+organized industry groups can do better than can individuals, the effect 
+is likely to be reinforced.
+The research concerning property rights and corruption has yielded 
+some useful conceptual distinctions and implications. The first is the 
+distinction between de jure and de facto effectiveness of governance. 
+The distinction is most vividly seen by contrasting China and Russia. 
+China, at least until recently, had very little formal legal protection of 
+property rights, especially those of foreign investors. However, in 
+practice it has been able to deliver sufficient security to continue to 
+attract large foreign investments. Russia has a much better legal 
+framework on paper, but reality seems much worse. What explains the 
+difference? 
+Qian (2003) and Rodrik (2004) emphasize the role of the Township and 
+Village Enterprises (TVEs) in China. This system turned local official 
+into owners and residual claimants, giving them the incentives to make 
+efficient decisions; if they were corrupt they would be stealing from 
+themselves. But insider privatization in Russia had exactly the same 
+aim (Shleifer and Treisman, 2000, pp. 31-2), and did not work so well. 
+McMillan (2003, p. 100) offers a different explanation: “High officials 
+in Deng Xiaoping’s government understood enough about economics 
+8to recognize that growth requires markets and markets require assured 
+property rights. The Communist Party had retained its highly 
+disciplined organization and so was able to prevent self-seeking 
+behavior by low-level officials.” The top level in Yeltsin’s Russia
+may have had the same understanding, but presumably lacked the 
+disciplined organization. If this explanation has some validity, the 
+intentions and authority of the top levels of government are an 
+important determinant of whether corruption and violation of
+property rights can be effectively controlled.
+The top level of government, even if itself well-intentioned, needs 
+sufficiently drastic punishments at its disposal to keep the lower
+and middle-level agents in check. This may be more difficult in a 
+democracy than in an authoritarian regime. But even a harsh 
+authoritarian or dictatorial regime can have troubles with its agents. 
+Stalin had, and used, punishments as drastic as one could imagine,
+and yet could not get his officials to perform efficiently. What went 
+wrong? Gregory and Harrison (2005) argue that Stalin’s harsh 
+incentives did not work well because his methods for detecting shirking 
+were arbitrary, imprecise, and themselves open to corruption. People 
+found that they ran almost the same risk of being denounced and 
+punished when they worked hard as when they shirked or cheated. 
+Therefore they did not have the incentive to work hard after all.
+An accurate detection procedure is important for the success of any 
+incentive scheme, including an anti-corruption one.
+The second finding I want to highlight is the distinction between 
+organized versus disorganized, or unified versus non-cooperative, 
+corruption. Shleifer and Vishny (1998, Chapter 5) emphasize this 
+aspect. If a project needs nineteen permits issued by nineteen separate 
+licensing and regulatory agencies, each of them can try to extract as 
+9much as they can from the applicant, not taking into account the fact that 
+the implied tax levied by each of them discourages the activity and 
+thereby reduces the take of all the others. If all nineteen permits are in 
+the hands of one agency, it will recognize this interdependence and 
+4
+therefore will impose a lower tax, that is, engage in less corruption.
+This argues for the creation of “one-stop” licensing and regulation 
+authorities for each kind of economic activity. Many U.S. states, and 
+some countries like Virgin Islands, have adopted such streamlined 
+procedures for business licensing. India enacted a similar agency, the 
+Foreign Investment Implementation Authority (FIIA) in 1999.
+But I have not been able to find any independent studies of how well it 
+works in practice. There are good arguments for ensuring its 
+effectiveness, and establishing similar agencies for domestic investors 
+as well. A key issue in India is how well one-stop authorities can 
+coordinate all the licensing requirements of the multiple levels of 
+governments in India: central, state, and local. Unless this can be done, 
+multiple governments will continue to require multiple stops, to the 
+detriment of investment and growth.
+A related issue is the effect of competition. Shleifer and Vishny point 
+out that in the United States no one has to bribe anyone to obtain a 
+passport. There are multiple offices and multiple windows where one 
+can apply for a passport; if one official asks for a bribe, the applicant can 
+simply go to another. Competition between these officials lowers the 
+“price,” in fact all the way to zero. Can the same be done with “one-
+stop” agencies? What if there are multiple agencies of this kind, each of 
+them authorized to provide all the clearances an investor needs, so they 
+are forced to compete with one another? 
+4
+ The economics jargon for the higher total burden of corruption imposed by multiple authorities acting together 
+is “double marginalization,” and its cause is the “negative externality” that these authorities exert on each other. 
+If they act collectively, they will internalize this externality.
+10Finally, consider a country that is introducing a modern and formal 
+system of titling as De Soto and others would recommend. They are not 
+doing this with a complete clean slate. Most societies without formal 
+legal titling have some traditional system of rights, determined by tribal 
+chiefs or village elders or heads of extended families, and enforced by 
+these traditional authorities using various systems of social norms and 
+sanctions. These rights may not work perfectly, but they exist, and will 
+interact with the formal rights that are being introduced. If this 
+interaction is dysfunctional, the formal rights may not work as western 
+advisers would wish. Ensminger (1997) found just such a problem with 
+land rights in Kenya. The traditional system guaranteed shares 
+(usufruct rights) to various members of the extended family of the 
+purported owner. This made it infeasible to use the land as collateral in a 
+loan application from a formal sector bank, thereby defeating one of the 
+most important advantages of titling offered by De Soto. 
+Kranton and Swami (1999) found that the introduction of civil courts in 
+colonial India interacted adversely with agricultural credit markets in 
+just this way. Competition among lenders increased. But traditionally 
+lenders used to reduce risk for farmers by subsidizing their investments 
+in times of crises; they could no longer do so because the courts 
+enforced only simple debt contracts, not complex contingent risk-
+sharing ones. The overall outcome was a worsening of social welfare. 
+These examples bring out the importance of ensuring that new formal 
+systems relate synergistically, not adversely, with the informal and 
+traditional systems.
+Contract Enforcement
+The courts in 1990s Italy may not have been perfect, but they were 
+surely fairly competent in matters of simple contracts like that for the 
+sale of an animal by Gambetta’s cattle breeder to the butcher. Then why 
+11was the pair relying on Peppe for enforcement? The answer is that they 
+were trading in a clandestine slaughtering market, to avoid the tax 
+levied on officially registered traders in the formal one. In such cases 
+the private enforcement can be socially harmful even if it “works.”
+If the government disrupted the mafia, the traders may shift to the 
+formal market, which may supply other useful things like an assurance 
+of quality to the ultimate consumers. But if failures of the state’s formal 
+legal system are the reason for the emergence of private enforcement, 
+then that may be a good “second-best.” 
+More generally, whether a formal or an informal system of contract 
+enforcement, or some mixture, will work best depends on the relative 
+5
+costs and benefits of the two in particular contexts. The potential 
+advantages of a formal system are evident. Such a system has universal 
+coverage in the country; one party to the contract cannot back out of it 
+claiming to be outside its jurisdiction. The rules of the system are set out 
+in its laws and precedents, and therefore are known to all participants 
+(or should be so known). And compliance with the system is ultimately 
+6
+secured by the government’s coercive powers.  
+By contrast, informal systems must rely more on voluntary 
+participation of the members of a more limited group or community. 
+Usually the only way to secure such participation is to exclude those 
+who misbehave from benefits of continued membership. In some 
+associations of traders in an industry, this can work well. Bernstein 
+(1992, 2001) has studied diamond and cotton traders’ associations in the 
+5
+ The following paragraphs give a very brief and selective discussion of this. For more detailed 
+analyses, see Dixit (2004) and Greif (2006).
+6 
+  These coercive powers ultimately depend on other people's willingness to exercise them -  judges 
+to hand down punishment, and the police or the prison authorities to carry them out. Laws and 
+regimes that tried to be more coercive than their citizens were willing to tolerate have fallen into 
+disrepute and collapsed. See Mailath, Morris and Postlewaite (2001) for a discussion and game-
+theoretic analysis of this.
+12United States. She finds that their arbitration procedures have drastic 
+punishments at their disposal. They can basically drive a persistent 
+miscreant out of business; moreover, since the members also mix 
+socially, they can ostracize not only miscreants but also their families. 
+However, such drastic punishments are not invoked readily or quickly. 
+Contrary to the theory of repeated games where the best tacit 
+cooperation is sustained by inflicting the most severe feasible 
+punishment upon any deviation, milder penalties are tried first and are 
+escalated only if misbehavior persists.
+An informal system in a limited community can have advantages over 
+formal legal systems. Many of these pertain to information. In an 
+industry-based arbitration system, the judges are expert insiders who 
+can interpret and evaluate the evidence more accurately than can the 
+7
+“general practitioner” judges of state courts.   Such communities also 
+have good gossip networks; therefore they can spread the word quickly 
+when someone reneges on a contractual obligation, thereby destroying 
+his reputation in the whole community of traders. However, these 
+advantages are eroded if the group becomes too large or its scope 
+expands beyond a narrow range of expertise.
+Given this balance of considerations, it is not surprising that formal and 
+informal systems coexist and interact, even in advanced economies. 
+Many contracts in the United States specify that disputes will be settled 
+by arbitration. And even without such explicit stipulation, disputes are 
+often resolved by negotiation between the parties. Going to the court is 
+often the last resort; some estimates are that only 10% of disputes end up 
+in courts. 
+7
+  The latter can have the benefit of expert testimony, but experts can have their own biases which the judges 
+must somehow figure out and take into account.
+13The need for alternative institutions for resolving contractual disputes is 
+even more pressing in India, where one estimate puts the backlog of 
+court cases at over 300 years. Of course good lawyers can cut through 
+this, but the other side can also hire a good lawyer, and the fear of high 
+costs of litigation can be a powerful deterrent on business. 
+Of course improvements in the state’s formal system of contract 
+enforcement are also badly needed. Informal systems, with their 
+reliance on group or community-based networks of information flow 
+and sanctions on miscreants, are inherently limited in their scope.
+As India’s economy expands and integrates both nationwide and 
+internationally, more and more transactions must occur among 
+strangers who do not belong to the same network, and formal 
+institutions become increasingly important for providing good external 
+governance. 
+Reforms of formal institutions of contract enforcement, as in the case of 
+property rights institutions, should try to build synergistically upon the 
+traditional informal ones. Theoretical considerations and practical 
+experience alike suggest that industry-based arbitration and formal 
+courts interact well together. A division of labor can emerge where 
+insiders use their expertise to interpret the facts and take into account 
+various customs and practices in contracts to arrive at a decision, for 
+example who owes what damages and to whom, and then the courts can 
+stand ready to enforce this verdict, backed by the state’s powers of 
+coercion. If the industry-based arbitration forum had to enforce its own 
+decision, it would have to rely on the repeated game mechanism, and 
+8
+this typically involves some loss of efficiency.   The combination of 
+8
+ In the jargon of game theory, the outcome is a second-best, subject to dynamic incentive compatibility 
+constraints.
+14expert decision-making and court enforcement can achieve the best of 
+both worlds. 
+In matters of governance of contracts between nationals and foreigners, 
+the latter often fear that domestic courts will be biased against them. 
+Various international forums of arbitration are available, each based on 
+a different legal tradition, and such contracts often stipulate that any 
+disputes will be adjudicated in a designated forum. Unlike industry-
+based dispute resolution institutions, these international forums usually 
+do not have expertise in the specific matter at hand. They can be slow, 
+costly, and even somewhat arbitrary; almost their only merit is their 
+perceived lack of bias. If Indian courts or Indian industry-based 
+institutions can develop a credible reputation for not favoring their own 
+nationals, they will have an immense advantage when it comes to 
+entering into contracts with foreigners, in particular in attracting 
+foreign investment. Indeed, this may be a key to success as India 
+integrates with the world economy and attempts to obtain gains from 
+globalization. 
+Collective Action
+I have ventured to make several suggestions on how the institutions of 
+economic governance can be improved. These suggestions were mostly 
+based on well known case studies in other countries and at other times. 
+Therefore some of my suggestions may prove to be impractical in the 
+Indian context. But let me continue and make some further suggestions 
+on how the reforms can be made to work.
+Most importantly, I think that waiting for the political process to 
+institute the needed reforms “top down” would be a mistake. During my 
+youth in India four or five decades ago, I saw that people relied too 
+much on the government to do everything, but “maa baap sarkar” 
+15often disappointed these expectations. The experience of the last two 
+decades has hopefully shown Indians what individuals given freedom 
+of enterprise can achieve by way of industrial progress; the same can be 
+done, given a little additional dose of collective action, for institutional 
+reform. 
+Even in Western countries, such reforms were often launched by 
+visionary social entrepreneurs, and only later adopted by wider 
+business communities or officialdom. Even something as basic as 
+periodic publication of companies’ audited accounts was initiated 
+privately by J. P. Morgan when he started Federal Steel with Elbert Gary 
+in 1898, because they believed that “corporations issuing publicly 
+traded securities had to account for their financial performance” 
+(Strouse 2000, p. 398). Later this principle was taken over and 
+implemented in legislation by the progressive movement under 
+Theodore Roosevelt. And recently the CEO of Aflac, an insurance 
+company, has voluntarily allowed the shareholders a vote on his 
+compensation; this may also spread. Perhaps one or more business 
+pioneers in India will likewise realize that good governance is good 
+business because the credible guarantee of contract fulfillment attracts 
+more serious contractual partners. Then they can, in groups or in some 
+cases even singly, take actions to improve governance. Institutional 
+investors can similarly play a major role in improving corporate 
+governance; in the US it is said that the California public employees’ 
+pension fund CALPERS has been more important than the Sarbanes-
+Oxley act in this way. Corporate governance in India may be even worse 
+than in the United States, and the improvements in this matter will 
+emerge as an extremely important issue as the economy grows and 
+shareholding becomes more widespread.
+16In dealing with corruption, shining light on corrupt activities and 
+exposing them to fresh air may be the most important starting point.
+In this respect India has the great benefit of a free press; no government 
+and no media mogul should be allowed to depreciate this asset.
+The Right to Information Act can have major beneficial effects by 
+removing information asymmetries and improving accountability. 
+Public interest litigation and “people’s courts” can also serve a useful 
+role, although sometimes such institutions can act for very small and 
+single-issue interest groups and thereby become an obstacle to much-
+needed economic progress. Here India’s democratic tradition may hurt. 
+On the whole I believe that bottom-up and organically generated 
+reforms will work better than imposed top-down ones. This finds 
+support in many case studies conducted by Ostrom (1990) and her 
+students. They find that local information, locally designed incentives, 
+and local enforcement by norms and sanctions, all help explain the 
+success of many successful instances of collective action. In India, there 
+is scope for improving the provision of many public goods by greater 
+decentralization and harnessing local initiatives. But one should not 
+expect perfection; some recent research on public projects in Africa 
+finds that local elites can also become corrupt and siphon away a large 
+proportion of the gains intended for the general population.
+Finally, I think that the process of designing institutional reforms offers 
+a good opportunity for fruitful collaboration between academic 
+economists and businesspeople. Many academic economists used to 
+dislike or disdain businesspeople and prefer a statist solution to 
+economic problems. This is much less true in western countries these 
+days, but the tendency may be more persistent in India. I hope even they 
+will regard the task of improving the institutions of economic 
+governance in a favorable light, seeing it as a way of constraining the 
+179
+opportunistic behavior of businesspeople.   Many of them will also be 
+attracted by the idea of a bottom-up rather than a top-down reform. 
+There is a wealth of academic studies, theoretical and empirical, of the 
+evolution, performance, and limitations of such institutions. 
+Businesspeople have a clear perception of the specific governance 
+needs of their industries. The two can combine their brains and energies 
+to adapt the lessons of these studies to the Indian situations, and 
+contribute to creating a better environment for continued rapid 
+economic progress of the country.
+9
+  I have argued that even businesspeople, when they regard their whole conduct of future business, recognize 
+the benefit of establishing a system that curbs opportunism and promotes respect for property rights and 
+contracts. More generally, this is true of all “moral hazard” problems: people agree on the ex ante desirability of 
+reducing such “hazardous” behavior, even though they are tempted ex post to engage in it.
+18References
+Bernstein, Lisa. 1992. “Opting Out of the Legal System: Extralegal Contractual 
+Relations in the Diamond Industry.” Journal of Legal Studies 21: 115-157.
+--------- . 2001. “Private Commercial Law in the Cotton Industry: Creating 
+Cooperation Through Rules, Norms, and Institutions.” Michigan Law Review 99: 
+1724-1788.
+De Soto, Hernando. 1989. The Other Path: The Invisible Revolution in the Third 
+World. New York: HarperCollins.
+De Soto, Hernando. 2000. Mystery of Capital: Why Capitalism Triumphs in the 
+West and Fails Everywhere Else. New York: Basic Books.
+Dixit, Avinash K. 2004. Lawlessness and Economics: Alternative Modes of 
+Governance. Princeton, NJ and Oxford, UK: Princeton University Press.
+Dixit, Avinash K. and Robert S. Pindyck. 1994. Investment Under Uncertainty. 
+Princeton, NJ: Princeton University Press.
+Ensminger, Jean. 1997. “Changing Property Rights: Reconciling Formal And 
+Informal Rights To Land In Africa.” In John N. Drobak and John V. C. Nye (eds) 
+The Frontiers Of The New Institutional Economics, 165-196, San Diego, CA: 
+Academic Press.
+Ellickson, Robert C. 1989. “The Hypothesis of Wealth-Maximizing Norms: 
+Evidence from the Whaling Industry.” Journal of Law, Economics, and 
+Organization 5: 83-97.
+Field, Erica M. 2006. “Entitled to Work: Urban Tenure Security and Labor
+Supply in Peru.” Harvard University, Working Paper. Available at 
+http://www.economics.harvard.edu/faculty/field/papers/Field_COFOPRI.pdf
+Gambetta, Diego. 1993. The Sicilian Mafia: The Business of Protection. 
+Cambridge, MA: Harvard University Press.
+19Gregory, Paul, and Mark Harrison. 2005. “Allocation under Dictatorship: Research 
+in Stalin’s Archives.” Journal of Economic Literature XLIII: 721-761.
+Greif, Avner. 2006.  Institution and the Path to the Modern Economy: Lessons from 
+Medieval Trade. Cambridge, UK: Cambridge University Press.
+-------- , Paul Milgrom, and Barry Weingast. 1994. “Coordination, Commitment 
+and Enforcement: The Case of The Merchant Guild.” Journal of Political
+Economy 102: 745-776.
+Kranton, Rachel E. and Anand V. Swamy. 1999. “The Hazards of Piecemeal 
+Reform: British Civil Courts and the Credit Market in Colonial India.” Journal of 
+Development Economics 58: 1–24
+Libecap, Gary D. 1989. Contracting for Property Rights. Cambridge, UK: 
+Cambridge University Press.
+Luce, Edward. 2007. In Spite of the Gods: The Strange Rise of Modern India. New 
+York: Doubleday.
+McMillan, John. 2003. Reinventing the Bazaar. New York: W. W. Norton.
+Mailath, George, Stephen Morris and Andrew Postlewaite. 2001. “Laws and 
+Authority.” University of Pennsylvania, Working Paper. Available at 
+http://www.princeton.edu/~smorris/pdfs/laws&authority.pdf 
+Ostrom, Elinor. 1990. Governing the Commons: The Evolution of Institutions for 
+Collective Action. Cambridge, UK and New York: Cambridge University Press. 
+Pritchett, Lant. 2003. “A Toy Collection, a Socialist star, and a Democratic Dud? 
+Growth Theory, Vietnam, and the Philippines.” In Dani Rodrik ed. In Search of 
+Prosperity: Analytic Narratives on Economic Growth, pp. 123-151. Princeton, NJ: 
+Princeton University Press.
+Qian, Yingyi. 2003. “How Reform Worked in China.” In Dani Rodrik, ed., In 
+Search of Prosperity: Analytical Narratives on Economic Growth, pp. 297-333. 
+Princeton, N.J.: Princeton University Press.
+20Rodrik, Dani (ed). 2003. In Search of Prosperity: Analytical Narratives on 
+Economic Growth. Princeton, NJ: Princeton University Press.
+-------- . 2004b. “A Practical Approach to Formulating Growth Strategies.” Harvard 
+University, Kennedy School of Government, Working Paper. Available at 
+http://ksghome.harvard.edu/~drodrik/Barcelona%20Forum.pdf 
+Shleifer, Andrei, and Daniel Treisman. 2000. Without a Map: Political Tactics and 
+Economic Reform in Russia. Cambridge, Mass.: MIT Press.
+Shleifer, Andrei and Robert W. Vishny. 1998. The Grabbing Hand: Government 
+Pathologies And Their Cures. Cambridge, MA: Harvard University Press.
+Strouse, Jean. 2000. Morgan: American Financier. New York: HarperCollins.
+21

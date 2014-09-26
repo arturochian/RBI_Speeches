@@ -1,0 +1,204 @@
+I am indeed pleased to be here to discuss an important topic like risk management. This is all
+the more so in an area like finance, where risk and its management has assumed greater
+I would first attempt to discuss the renewed interest on risk management in recent years due
+to changing risk perception in financial institutions followed by an overview of the types of
+risks and the strategies for risk management. Thereafter, I propose to deal with the role of the
+Board and organisational issues involved in risk management. This would be followed by the
+initiatives taken by the Reserve Bank in this regard. Finally, I would raise certain issues
+relating to management of risks. As banks account for a predominant share in the financial
+Risk has been present always in the banking business but the discussion on managing the
+same has gained prominence only lately. Bankers world-wide have come to realize that the
+growing deregulation of local markets and their gradual integration with global markets have
+deepened their anxieties. With growing sophistication in banking operations, while lending
+and deposit-taking have continued to remain the mainstay of a majority of commercial banks,
+many have branched into derivatives trading, securities underwriting and corporate advisory
+businesses. Some banks have even expanded their traditional credit product lines to include
+asset securitization and credit derivatives. Still others have greatly increased their transaction
+processing, custodial services or asset management businesses, in the pursuit of increased fee
+income. As a consequence, the issue of risk management has gained new recognition in
+With improvements in information technology, more and more banks will possibly venture
+into the relatively new world of on-line electronic banking covering apart from traditional
+banking, providing of bill presentation and payment services. This would mean an increase in
+the diversity and complexity of risks. Banks would have to develop risk management systems
+Out of the four risks confronting financial institutions viz., credit risk, interest rate risk,
+foreign exchange risk and liquidity risk, the credit risk remains the predominant risk for most
+banks, despite changes in banking over the last few years. You will recall that during the
+Asian financial crisis, non-performing loans in Indonesia, Malaysia, South Korea and
+Thailand soared to over 30 per cent of total assets of the financial system. The costs of
+that are rigorous and comprehensive, yet flexible enough to address newer risks they assume.
+recent times.
+sector in India, I may refer to banks frequently in my talk today.
+significance.
+Risk Management in Financial Institutionsdealing with the crisis have been enormous, involving massive transfer of resources. Even in
+normal times, credit risk attracts considerable amount of attention of credit planners and is
+extremely important.
+As you may be aware the credit risk depends on both internal and external factors. The
+external factors are the state of the economy, swings in commodity prices and equity prices,
+foreign exchange rates and interest rates, etc. The internal factors are deficiencies in loan
+policies and administration of loan portfolio which would cover weaknesses in the area of
+prudential credit concentration limits, appraisal of borrowers’ financial position, excessive
+dependence on collaterals and inadequate risk pricing, absence of loan review mechanism
+and post sanction surveillance etc. Such risks may extend beyond the conventional credit
+products such as loans and letters of credit and appear in more complicated, less conventional
+securitized assets.
+The second category of risk that has gained prominence is interest rate risk. Interest rate risk
+arises because banks’ fix and refix interest rates on their resources and on the assets in which
+they are deployed at different times. Changes in interest rates can significantly impact the net
+interest income, depending on the extent of mismatch between the times when the interest
+rates on asset and liability are reset. Any such mismatches in cash flows (fixed assets or
+liabilities) or repricing dates (floating assets or liabilities) expose banks’ net interest margin
+A third important category of risk pertains to foreign exchange risk. The risk inherent in
+running open foreign exchange positions have become pronounced in recent years owing to
+the wide variation in exchange rates. Such risks arise owing to adverse exchange rate
+movements which may affect a bank’s open position, either spot or forward, or a combination
+The final major category of financial risk is liquidity risk. The liquidity risk arises from
+funding of long-term assets by short-term liabilities or resources, thereby making the
+liabilities subject to rollover or refinancing risk. Those banks that fund their domestic assets
+with foreign currency deposits with them may be particularly susceptible to liquidity risk
+when sharp fluctuations in exchange rates and market turbulence make it difficult to retain
+Beyond the four basic financial risks, banks have a host of other concerns. Some of them, like
+operating risk, are a natural outgrowth of their business. Banks employ standard risk
+2
+sources of financing.
+of the two, in any individual foreign currency.
+to variations.
+tranches of forms, such as credit derivatives or avoidance techniques to mitigate them. In other cases, for instance, where counter-party risk
+is seen as significant, it is evaluated using standard credit risk procedures. Likewise, most
+bankers would view legal risks as arising from their credit decisions or, more likely, from
+absence of proper procedure while finalising a financial contract. It does not require very
+These are just some of the risks that banks must manage, and clearly the list I have set forth is
+not exhaustive. In particular, banks in emerging market economies are subject to a unique set
+How do we try to manage these risks . Irrespective of the nature of risk, the best way for
+banks to protect themselves is to identify the risks, accurately measure and price it, and
+maintain appropriate levels of reserves and capital, in both good and bad times. However, this
+is often easier said than done, and more often than not, developing a holistic approach to
+assessing and managing the many facets of risks remains a challenging task for the financial
+sector.
+What then are the optimal strategies to manage these risks? In managing credit risk, the key
+issue is to recognise the need to apply a consistent evaluation and rating scheme of all
+investment opportunities. This is essential in order for credit decisions to be made in a
+consistent manner. Prudential limits need to be laid down on various aspects of credit, viz.,
+benchmark current debt/equity and profitability ratios, debt service coverage ratios,
+concentration limits for single/group borrower, maximum exposure limits to industry etc.
+There should be provision of some flexibility to allow for very special features. There needs
+to be developed a comprehensive risk scoring system that serves as a single point indicator of
+As for managing interest rate risk, most commercial banks make a clear distinction between
+their trading activity and their balance sheet exposure. As regards trading book, Value-at-
+Risk (VaR) is presently the standard approach. The VaR method is employed to assess the
+potential loss that could crystallise on trading position or portfolio due to variations in market
+interest rate and prices.  For balance sheet exposure to interest rate risk, banks rely on ‘gap
+reporting system’, identifying asymmetry in repricing of assets and liabilities commonly
+known as gap and putting in place a gap reporting system. This is often supplemented with
+balance sheet simulation models to investigate the effect of interest rate variation on reported
+3
+earnings over a medium-time horizon.
+diverse risk factors of counter-party.
+of risks as a result of the financing and investment cycles in their countries.
+sophisticated tools to cover such risk.Coming to foreign exchange risk, limits are key elements of risk management in foreign
+exchange trading, as they are for all trading business. As a general characterisation, banks
+with active trading positions have tended to adopt the VaR approach to measure the risk
+associated with exposure. For banks which could not develop VaR, some stress testing is
+required to be conducted to evaluate the potential loss associated with changes in the
+exchange rate. This is done for small movements in the exchange rates, as well as for
+historical maximum movements.
+The final point is the measurement of liquidity risk. There are several traditional ratios for
+liquidity risk measurement, viz., loans to total assets, loans to core deposits, ratio of large
+liabilities to earning assets and loan losses to net loans. In addition, prudential limits are
+placed on various liquidity measures like inter-bank borrowings and core deposits vis-à-vis
+core assets.
+Several points need to be tackled as regards positioning appropriate risk management
+strategies. Worldwide, there is an increasing trend towards centralising risk management with
+integrated treasury management to benefit from information synergies on aggregate exposure,
+as well as scale economies and easier reporting to top management. The primary
+responsibility of understanding the risks run by the bank and ensuring that such risks are
+appropriately addressed should be vested with the Board of Directors. At organisational level,
+overall risk management needs to be vested with an independent Risk Management
+Committee or Executive Committee of the top Executives entrusted with the responsibility of
+identifying, measuring and monitoring the risk profile of the bank that reports directly to the
+Board of Directors. The Committee should develop policies and procedures, verify the
+models used for pricing complex products and identify newer risks impacting the banks’
+balance sheet. Finally, adherence to risk parameters of the various operating departments of
+the bank should also be overseen by the Committee.
+Observers are by now unanimous in their view that developing sound and healthy financial
+institutions, especially banks, is a sine qua non for maintaining overall stability of the
+financial system. Keeping this in view, the Reserve Bank has issued broad guidelines for risk
+management systems in banks last year. This has placed the primary responsibility of laying
+down risk parameters and establishing the risk management and control system on the Board
+of Directors of the bank. However, the implementation of the integrated risk management
+could be assigned to a risk management committee or alternately, a committee of top
+executives that reports to the Board. The risk management guidelines also require banks to
+4constitute a high level credit policy committee to deal with issues pertaining to credit
+sanction, disbursement and follow-up procedures and to manage and control credit risk for
+the bank as a whole. The Reserve Bank has further advised banks to concurrently set up an
+independent credit risk management department to enforce and monitor compliance of the
+risk parameters and prudential limits set by the Board or Credit Policy Committee. The
+present set of guidelines are purported to serve as a benchmark to the banks, which are yet to
+However, it is to be recognised that, in view of the diversity and varying size of balance sheet
+items as between banks, it might neither be possible nor necessary to adopt a uniform risks
+management system. The design of risk management framework should, therefore, be
+oriented towards the bank’s own requirement dictated by the size and complexity of business,
+risk philosophy, market perception and the existing level of capital. While doing so, banks
+may critically evaluate their existing risk management system in the light of the guidelines
+issued by the Reserve Bank and should identify the gaps in the existing risk management
+In addition to the risk management guidelines, the levels of transparency and standards of
+disclosure have gradually been enhanced over the years so as to provide a clearer picture of
+balance sheet to informed readers. Accordingly, from the year ended March 31, 2000, an
+enhanced set of disclosures are required to be disclosed by banks as ‘Notes to Accounts’ to
+their balance sheet. These include maturity pattern of loans and advances, maturity pattern of
+investments in securities, foreign currency assets and liabilities, movements in NPAs,
+maturity pattern of deposits, maturity pattern of borrowings, and lending to sensitive sectors
+like capital market and real estate. Such disclosures and transparency practices are aimed at
+improving the process of expectation formation by market players about bank behaviour and
+eventually lead to effective decision-making in banks. In addition, RBI has laid down credit
+concentration norms, both for individual borrowers as well as to a group as a whole. These
+The banking industry is clearly evolving towards higher levels of risk management
+techniques and approaches. However, several issues need to be addressed by the banking
+First, risk management is closely related to ALM. Any mismatch between assets and
+liabilities increases risks, whether it is interest rate risk, credit risk or liquidity risk. The
+5
+system in this regard. I would flag a few of them for you to dwell over.
+limits presently stand at 20 per cent and 50 per cent of the financing institutions’ capital fund.
+practices and the policies and strategies for complying with the guidelines.
+establish an integrated risk management system.recent experience of the South East Asian economies clearly demonstrated the need for
+having effective risk management techniques. Accurate risk identification and classification
+of past losses into expected and unexpected losses would help in positioning comprehensive
+internal controls. Not a simple proposition, it requires in-depth study and analysis of financial
+and other markets.
+Secondly, the evaluation of credit rating continues to be an imprecise process. Over time, one
+should expect that the banking industry’s rating procedures should be compatible with rating
+A third area where improvements seem warranted is the analysis of  outcomes from
+lending. Credit losses are, currently not precisely related to credit rating. They need to be
+more closely tracked by the banking industry than they currently are. In short, credit pricing,
+Fourthly, interest rate risk approaches include both the trading systems and balance sheet risk
+analysis. On trading systems, there has been considerable improvement. The VaR
+methodology has converted a rather subjective hand-on process of risk control to a more
+quantitative one. However, several questions still remain unanswered. The first of these is
+that the whole approach of VaR is dependent upon estimated distribution of returns. These
+are the key inputs to the risk measure, but the true  distribution is unknown. Estimates
+are obtained from either historical data or Monte Carlo simulation, but in either case, the
+estimated distribution is not unique. This problem in risk management will need to be
+Finally, as banks move more towards off-balance sheet activities, the implied risk of agency
+activities must be better integrated into overall risk management and strategic decision
+making. Currently, they are ignored when bank risk management is considered or are at a
+fairly primitive stage. If reasonable exposure estimates are to be obtained, and the true costs
+of risk absorption are to be factored in the operations, much more needs to be done including
+building up of a strong Management Information System (MIS) backed up by a sound
+To conclude, risk management systems have attracted considerable attention in the financial
+sector. Considerably more work needs to be done. The current state of risk management is
+merely a beginning. Many questions still remain unanswered, many questions have been
+answered only superficially and for certain others, we have no complete and comprehensive
+6
+database.
+examined by the banking industry.
+ex-ante
+credit rating and expected losses ought to be demonstrably linked.
+ex-post
+systems elsewhere in the capital market and have the same degree of objectivity.answers. It is here that the  management science professionals have a clear role to play in this
+important task.
+Before I close, I thank the organisers of this seminar for this opportunity and wish you all the
+Thank You.
+Keynote address delivered by Shri Jagdish Capoor, Dy. Governor at One Day Seminar on
+Risk Management in Financial System at Lala Lajpat Rai Institute of Management, Mumbai
+on October 6, 2000.
+7
+best in your deliberations.

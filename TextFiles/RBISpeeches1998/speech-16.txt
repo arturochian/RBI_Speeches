@@ -1,0 +1,374 @@
+Address at the Inaugural Conference of Fixed 
+Income Money Market and Derivatives 
+Association of India (FIMMDA) by Dr.Y.V.Reddy, 
+Deputy Governor, Reserve Bank of India, on June 
+3, 1998 at Mumbai. 
+ 
+Address at the Inaugural Conference of Fixed Income Money Market and Derivatives Association 
+of India (FIMMDA) by Dr.Y.V.Reddy, Deputy Governor, Reserve Bank of India, on June 3, 1998 
+at Mumbai.  
+Interest Rates in India : Status and Issues 
+Friends,  
+I am happy to be here at the inaugural conference to commemorate the incorporation of Fixed 
+Income Money Market and Derivatives Association of India (FIMMDA). Let me, at the outset, 
+congratulate the organisers who have taken the initiative to incorporate this Self Regulatory 
+Organisation (SRO).  
+Perhaps, I should explain why a Deputy Governor of the Reserve Bank of India (RBI) is the Chief 
+Guest at the function of an SRO. It is simply because, RBI is taking the initiatives in developing 
+financial markets also and, not merely in regulating them. These initiatives have been quite bold 
+and explicit since April 1997. We, in RBI, are also keen to ensure appropriate technological 
+infrastructure for development of financial markets. RBI is very conscious of the need to ensure 
+efficient transmission of monetary policy, and financial markets, especially money and debt-
+markets, have a crucial role to play in this. I observe from the objectives of FIMMDA that, it could 
+contribute to the development of efficient, stable and orderly debt markets. Finally, I am here to 
+extend a hearty welcome to the newly born FIMMDA and, earnestly wish that FIMMDA becomes 
+a highly responsible, truly representative and adequately responsive SRO.  
+I had enquired with the organisers regarding the subject that would be relevant to the occasion. 
+They wanted me to speak on recent initiatives in monetary policy and, interest rates. They are 
+being accommodated halfway, since today's interest rates in India, their status and issues. The 
+latest Economic Survey for 1997-98 released by the Government of India lists issues and 
+priorities in the first chapter. Among the policy measures emphasised in para 70 is "fiscal and 
+monetary policies aimed at moderating real rates of interest." Hence, I believe that there is an 
+explicit and official recognition of the significance of real rates of interest in economic policy at this 
+juncture to revive and accelerate growth. So, let us share our views on real rates of interest.  
+Concept  
+Interest is essentially the price people pay to have resources now rather than later and, interest is 
+conventionally expressed as a percentage for one year. The interest rate thus expressed or 
+reported is nominal interest rate, since it is without a correction for the effects of inflation on the 
+resources available for money, between now and later. Real interest rate is the interest rate 
+corrected for the effects of inflation. There is also a need to recognise the expected real rate of 
+return which is the difference between nominal rate of interest and expected inflation. Incidentally, in all discussions on interest rate, one has to account for other elements such as risks and 
+liquidity or term structure, although we may not state them explicitly.  
+From a policy point of view, we need to recall some features of real interest rate.  
+First, the real interest rate is not an observed phenomenon; it is computed by deducting inflation 
+rate from the nominal interest rate.  
+Second, what is more relevant from the policy point of view is the expected or ex ante real 
+interest rate which is measured by the difference between the nominal market interest rate and 
+the expected inflation. An ex-post high real interest rate may reveal the difference between the 
+expected and actual inflation rate, rather than the factors which determine the real rate.  
+Thirdly, the real interest rate refers to return on investment net of various kinds of risk premia.  
+Fourthly, taxation of interest income creates a wedge between the interest earned and the post-
+tax rate of return on investment. Since tax rates generally apply to nominal interest income, the 
+post-tax real rate of return is lower than that applied to the real interest income.  
+What determines the real interest rates?  
+Some of the important policy issues in considering real interest rates are:  
+First, most markets follow a reference or benchmark rate which is a risk neutral rate. Government 
+security rates are ideal candidates for the reference rate. An increase in the real interest rate in 
+the government security market therefore transmits to other segments of financial market, no 
+doubt depending on the degree of integration among markets.  
+Secondly, in the context of the economy as a whole, or in macroeconomic policy, the 
+sustainability of the real interest rate is critical. Ideally, the expected real interest rate in the 
+economy should reflect the potential rate of return on the capital stock. If an economy is operating 
+on the maximum attainable efficiency, the rate of return on capital or the growth rate of real GDP 
+should provide an indicator of the real interest rate in the economy. In the case of advanced 
+economies, which are more or less operating on the best attainable efficiency level, the real 
+growth rate sets the limit for the real interest rate in the economy. It is interesting, therefore, to 
+observe that the typical real interest rate on government paper in some of the advanced 
+economies vary from 3 to 4 per cent, which is close to their growth rate of GDP. In the case of 
+developing economies, the typical real interest rates are higher than those of the developed 
+economies which is perhaps explained by the higher rates of growth in these economies. It is 
+possible that for a fast growing and high performing economy, the real rate of interest may in fact 
+stay higher than the real growth rate, if the potential growth rate is higher than the actual growth 
+rate and if expectation regarding the future growth rate is strong. However, a persistent high real 
+interest rate which exceeds the real growth rate is not sustainable in the long run as this implies 
+that the service cost of the capital stock exceeds the rate of return from capital.  
+Thirdly, a significant part of the real interest rate is due to the stance of the central bank in the 
+market. If the monetary signalling is substantial, the market real interest rate can considerably 
+diverge from the equilibrium real interest rate. The signalling route of monetary policy, therefore, 
+constitutes a crucial determinant of real interest rate.  
+Fourthly, the real interest rate is significantly influenced by the efficiency of the financial system. A 
+well functioning financial market helps reduce the cost of financial intermediation, and thereby 
+brings down the spread between the interest rate on savings and that charged on investment.  Fifthly, an unsustainable fiscal policy, with a high burden of public debt, provides a downward 
+stickiness to the real interest rate.  
+Sixthly, in an open economy, with a high degree of capital mobility, the domestic real interest rate 
+is considerably influenced by the world interest rate. A fully convertible capital account without 
+restrictions on cross-border capital movement implies full convergence of domestic interest rate 
+with the world interest rate and any difference between the domestic and world interest rate is 
+then attributed to the expected exchange rate changes. One can also argue that a certain degree 
+of imperfection in capital mobility can become a desirable policy option for exercising control over 
+the domestic interest rate and to enhance its effectiveness in the economy, but the desirability will 
+depend on the efficiency of policy intervention.  
+The Relevance of Positive Real Interest Rate  
+The policy relevance of a positive real interest rate stems from several aspects, although there is 
+no conclusive evidence that a positive real interest rate is essential for promoting economic 
+growth in developing countries.  
+First, a positive real interest rate provides incentive for savings and allocates investment more 
+efficiently. This has been the main driving force behind the motivation of financial liberalisation in 
+many economies.  
+Secondly, a positive real interest rate across a range of financial instruments ensures greater 
+degree of integration of financial markets and improves the elasticity of substitution among 
+assets.  
+Trends in Interest Rates in India  
+In the Indian context, movements in the real interest rates were not a major concern as long as 
+the interest rates were highly regulated and the resource allocation was largely determined by 
+plan framework. With the economic reforms, especially in the monetary and financial sector which 
+encompassed deregulation of interest rates, there has naturally been heightened concern about 
+interest rate movements. As you are aware, interest rates are now largely market-determined.  
+In the government securities market the coupon rate on various maturities increased from the 
+range of 10.50 - 11.50 per cent in 1990-91 to 13.25 - 14.00 per cent in 1995-96 but the rates have 
+since declined gradually to the range of 10.85 - 12.15 per cent in 1997-98. In the current financial 
+year so far, the yield of ten-year government security has declined to about 12.0 per cent. The 
+weighted average interest rate on government dated securities increased more than 2 percentage 
+points from 11.41 per cent in 1990-91 to 13.75 per cent in 1995-96, but declined subsequently to 
+11.82 per cent in 1997-98. At the shorter end, the 91-day treasury bill rates showed considerable 
+fluctuations, rising from 4.6 per cent in 1991-92 to an average of 12.67 per cent in 1995-96 but 
+coming down sharply in the following two years to 6.83 per cent in 1997-98. Following the freeing 
+of term deposit rate in July 1996, interest rate on bank deposits (public sector banks) of more 
+than one year maturity increased to a range of 11 to 13 per cent in 1996-97, but softened since 
+then to a range of 9.5 to 12.5 per cent in 1997-98. The wide spreads of rates in a sense reflect 
+market imperfections. After the abolition of minimum lending rate in October 1995, the typical 
+prime lending rate of public sector banks has seen a progressive decline from 16.5 per cent in 
+1995-96 to 14.0 per cent by March 1998 and further to 13 per cent in the case of major public 
+sector banks by May 1998. The prime lending rates of financial institutions peaked in 1995-96 
+and declined in the subsequent two years. The interest rates on the taxable public sector bonds 
+were down to a range of 12 to 17 per cent in 1997-98 compared to 13.7 to 17.75 per cent in 
+1996-97. The typical interest rate on small savings and provident funds have remained at about 
+12 per cent since 1992-93.  What do the above trends in the nominal interest rate indicate?  
+First, the nominal interest rate at the long-end of the market remained fairly strong compared to 
+the rates at the short-end. The difference between the average yield of the 364-day treasury bill 
+and 10 year government bond increased to 3.69 percentage points in 1997-98 from 2.18 
+percentage points in 1996-97 and 1.13 percentage points in 1995-96. This indicates, to some 
+extent, that the long-term expected inflation and the real interest rate in the economy are higher 
+than those in short-run. We should note that, the prevailing conditions in the secondary markets 
+impose a liquidity premium on government stock in addition to a premium for longer maturities. As 
+markets develop, reduction in liquidity premium will come to a level that will reflect only the 
+premia for the term structure. At that stage, the spreads between the short-term and long-term 
+should narrow and would reflect only premium for maturities. Analytically the long-term rate of 
+interest is the average of the future anticipated short-term rate adjusted for risk and liquidity.  
+Secondly, the spread between the interest rate on government security on the one hand, and that 
+on other financial instruments, on the other, has been ruling at a high level. At the short-end, the 
+yield spread between the 91-day treasury bills and typical commercial paper` rate increased from 
+1.63 to 2.63 percentage points in March 1997 to 6.75 to 8.92 percentage points in March 1998. At 
+a relatively longer end, the difference between the yield on the public sector bond (taxable) and 5 
+year government security rate ranged between 0.85 to 5.85 percentage points in 1997-98 
+compared to 0.2 to 4.2 percentage points in 1996-97. The yield differences may imply the 
+changing risk perception of investment in non-government financial assets. The large yield 
+differences may also be explained by virtual absence of secondary markets for PSU bonds, 
+inhibiting stamp duty structures, non-repoable status for bonds that have not been 
+dematerialised, etc. The yield differences could be higher if one considers the front-end discounts 
+and other such features that accompany bond issues.  
+Thirdly, the spread between the deposit rate of banks and the government security rate for 
+comparable maturity has declined sharply in recent years. There has been a tendency of both 
+these rates to converge after the ceiling on deposit rate was removed. This is revealed by the fact 
+that the spread between the yield rate on five year Government paper and the maximum deposit 
+rate offered by public sector banks on term deposits has been declining since 1995-96. We 
+should bear in mind the fact that in our market, the yield on government securities apprears to be 
+more sensitive to developments in the domestic and international markets than deposit rates. In 
+fact, it has been observed at times that bids in auctions of long-term government paper are 
+unduly influenced by prevailing call market rates. Also, the resource base for large public sector 
+banks includes float funds and saving deposits, and to this extent, the relationships between 
+deposit rates and government security prices are not intimate.  
+Trends in the Real Interest Rate  
+The real interest rates based on the actual inflation rate computed from the Wholesale Price 
+Index (average of weeks) show that, in the government security market the real rate varied 
+between 5.95 per cent to 7.25 per cent for maturities ranging from 3 year to 10 year in 1997-98 
+compared to 7 per cent to 7.25 per cent in 1996-97 and 5.85 per cent to 6.2 per cent in 1995-96. 
+Based on the weighted average yield, the real interest rate was placed at 6.92 per cent in 1997-
+98 as against 7.29 per cent in 1996-97 and 5.95 per cent in 1995-96. On the whole, the real 
+interest rate on government bonds has been around 6 to 7 per cent during the last three years. 
+The real rate has declined to below 6 per cent in the more recent months. An important aspect for 
+us to note is that the sharp increase in the real interest rate in 1997-98 and 1996-97 is not due to 
+the hardening of the nominal interest rate, but rather due to a steady decline in the inflation rate in 
+these two years. The inflation rate in 1996-97 at 6.4 per cent declined by 1.4 percentage points 
+over 1995-96 whereas the weighted average nominal interest rate on dated government 
+securities in that year declined by only 0.06 percentage points. So, almost the entire improvement 
+in inflation rate in 1996-97 was reflected on the real interest rate which rose by 1.34 percentage points in that year. In 1997-98, inflation rate has shown a significant decline to 4.9 per cent. 
+Despite a 1.87 percentage point decline in the weighted average interest rate on government 
+bonds in 1997-98, the real rate declined marginally by 0.36 percentage point.  
+We need to add an important caveat here, that calculations of real rates of interest should take 
+into account the distributed lagged effect. Illustratively, the nominal interest rate in year t needs to 
+be adjusted by taking into account a five-year moving average of the inflation rates in year t, t-1, t-
+2, t-3, t-4, with weights of say 5, 4, 3, 2, 1. In other words the present inflation rate has a larger 
+impact than the inflation rate in the year t-4.  
+This has an important policy implication in that as long as the current decline in the inflation rate 
+is not fully captured in expected inflation and reflected in the corresponding decline in the nominal 
+interest rate, the real interest rate would appear to have a tendency to rise, particularly in the 
+long-end of the market. The nature of inflation expectation in an economy then has a significant 
+impact on the real interest rate. If the inflation expectation is forward looking, a credible inflation 
+control policy backed by the achievement of a low inflation rate can quickly alter the long-term 
+inflation expectation and bring down the level of nominal interest rate in the economy. On the 
+other hand, if investors are guided by the past inflation achievements and are backward looking in 
+forming their inflation expectation, the adjustment between the expected and actual inflation can 
+be slow.  
+In the context of the Indian economy the evidence points to backward-looking expectation 
+behaviour among investors given the wide divergence between the decline in inflation rate and 
+the real interest rate. The expected inflation in Indian economy has been estimated by an internal 
+RBI study to be at around 8 per cent in 1997-98. The ex-ante real interest rate on government 
+bonds based on the expected inflation and weighted average yield on dated securities therefore 
+works out to around 4 per cent in 1997-98 as against 5 per cent in 1996-97.  
+In the banking sector the movement of real deposit and lending rates are, more or less in tune 
+with the developments in the government security market. Based on the actual inflation the real 
+deposit rate and the real lending rate (based on PLR) were placed at 7.6 per cent and 9.1 per 
+cent, respectively in 1997-98. These are higher than those in 1996-97 at 6.6 per cent and 8.6 per 
+cent, respectively. Based on expected inflation, however, the real interest rate for term deposits of 
+maximum maturity is estimated at a little over 4 per cent in 1997-98 and the real lending rate at 
+about 6 per cent. The spread between the median term deposit rate and lending rate at PLR is 
+placed at around 3 per cent in 1997-98, a little higher than that in 1996-97, but substantially lower 
+than 4.5 per cent in 1994-95 and 1995-96. There could be a decline in the spread between the 
+deposit and lending rate in the recent years, partly due to the competitive rates offered by banks 
+on deposits after the deregulation of deposit rates and the decline in the prime lending rate. It is, 
+however, important to note that the spread calculated on the basis of the PLR and median 
+deposit rate has certain limitations since the average deposit rate and lending rate can vary 
+significantly from these rates. An idea of the actual spread of the banking sector can be had from 
+the net interest income spread of the public sector banks, which as a percentage of total assets 
+has increased from around 2.4 per cent in 1992-93 and 1993-94 to 2.9 per cent in 1994-95 and, 
+over 3 per cent in 1995-96 and 1996-97.  
+Explanatory Factors  
+The above trends in the real interest rate raises an important question : Is the current level of real 
+interest rate high in India? This question has been of particular relevance, in the context of the 
+significant increase in the real lending rate of the commercial banks and, a large increase in the 
+real interest rate on government papers. It should be noted that much of the recent increase in 
+the real lending rate is due to decline in the inflation rate. To the extent that, there is a wide 
+difference between the expected and actual inflation rate, the current level of real interest rate 
+does not reveal the true magnitude of expected real interest rate in the economy. As the estimates of expected inflation show, about 3 percentage points in real interest rate is accounted 
+for by the high expected inflation. Therefore, the expected real lending rate was around 6 per cent 
+in 1997-98, which can be consistent with the recent trends in the saving (22.1% to 26.1% of GDP 
+during 1992-93 to 1996-97); investment (23.3 per cent to 27.3 per cent of GDP during 1992-93 to 
+1996-97) and growth rates (5.0 per cent to 7.8 per cent during 1992-93 to 1997-98) in the Indian 
+economy.  
+The real deposit rate and the real lending rate based on the expected inflation (range of 2.2 per 
+cent to 4.4 per cent and 6.0 per cent to 7.8 per cent, respectively) appear to be more or less 
+within the bounds of the GDP growth rate since 1994-95. The strengthening of the real deposit 
+rate has occurred alongside a steady growth in the saving and investment rate in the recent 
+years. It is important to recognise that the growth in broad money has kept a reasonable pace 
+creating an appropriate liquidity condition in the economy. Except for 1994-95 and 1995-96, when 
+the large M3 growth at 22.3 per cent in the former year was deliberately compensated by a 
+modest growth of 13.7 per cent in the latter year, growth rate of M3 was in the range of 15.7 per 
+cent to 18.4 per cent during 1992-93 to 1997-98.  
+Reasons for Pressure on Real Interest Rate  
+What are the major factors that could have caused pressure on the real interest rate in India?  
+First, a significant part of the recent increase in real interest rate has perhaps stemmed from a 
+relatively high long-term inflation expectation. The current level of expected inflation seems to be 
+significantly higher than the actual inflation rate in the economy during the past two years. For 
+example, the real interest rate has strengthened by about 3 percentage points in 1997-98 almost 
+solely due to the decline in actual inflation rate. To the extent that the mind-set regarding the 
+historical inflation rate in the Indian economy can be addressed, by credible policy measures, the 
+nominal interest rate should decline, in tune with the decline in current inflation rate, thus bringing 
+down the pressure on real interest rate.  
+Secondly, the recent strengthening of real interest rate has a major of part of its origin in the 
+government finances also. Although the ratio of the combined government sector fiscal deficit to 
+GDP has by and large come down in recent years, the high absolute size of fiscal deficit has 
+exerted pressure on the real interest rate in the government security market. With markets getting 
+increasingly integrated, the demand pressure in the government security market has 
+repercussions on the entire gamut of interest rates in the economy.  
+Thirdly, a major reason for the lack of sufficient downward flexibility in the real lending rates 
+stems from the stickiness of spread in the banking sector. The spread in the banking sector is 
+influenced by two sets of factors, the efficiency factors and the policy factors. An increase in 
+efficiency in financial intermediation is reflected on the low operating cost and hence in a low 
+spread maintained between the deposit and lending rate. Reducing the real interest rate would 
+therefore require a significant reduction in the operating cost of the banking sector. There are, no 
+doubt, a number of policy factors also which influence interest income and the spread in banking 
+sector but the strongest influence on the spread comes from the operating cost.  
+Fourthly, there is an interest tax at the rate of 2 per cent which the banks load on to the borrowers 
+in addition to the rate of interest charged. This goes on to add to the cost of borrowing, while 
+increasing the difference between deposit rate and cost of funds to borrowers.  
+Fifthly, the high effective rate of return offered on some of the non-marketable borrowings of 
+government such as small savings, relief bonds and provident funds has provided a competitive 
+pressure on the real interest rate on bank deposits. The effective rate of return on small savings 
+after taking into account tax rebates on investment is substantially higher than the nominal interest rate on bank deposits. Consequently, the real effective interest rate on small savings are 
+far higher than the real bank deposit rate. To the extent that investment in both these assets are 
+mostly concentrated in the household sector, and there is a significant substitution between them, 
+a high post-tax real interest rate on small savings creates a competitive pressure on the real 
+interest rate on bank deposits.  
+Policy Issues  
+This analysis of real interest rates points very clearly to certain major areas that need attention. In 
+fact, many of these areas have already been subjected to substantial policy initiatives though, 
+more needs to be done.  
+(a) Government Borrowing Programme  
+A relatively large borrowing programme by government, as we had seen, is not conducive to 
+moderation in real interest rates, especially in the light of persisting revenue deficits. In the 
+current year, the fiscal deficit is being brought down from 6.1 per cent of GDP in 1997-98 to 5.6 
+per cent in 1998-99. Similarly, revenue deficit is also sought to be reduced marginally from 3.1 
+percent of GDP in 1997-98 to 3.0 per cent of GDP in 1998-99. However, substantial progress is 
+needed to eliminate revenue deficit and achieve a much lower sustainable fiscal deficit.  
+(b) Bank Spreads  
+The spread between deposit rate and lending rate can be reduced through policy measures, 
+efficiency measures, and other measures. Firstly, the SLR stipulations have been brought down 
+to a statutory minimum of 25 per cent of NDTL. Some reductions in CRR have already taken 
+place, and CRR needs to be reduced further gradually to reach statutory minimum of 3 per cent, 
+from the existing 10 per cent.  
+Secondly, interest rate or other stipulations implying cross subsidy or inadequate scope for 
+factoring in credit risk in spreads have a tendency to add to the interest costs to many investors. 
+With substantial deregulation, most, if not all of the inefficiencies on this account have been taken 
+care of.  
+Thirdly, in regard to non-performing assets, substantial progress has been made in transparency, 
+awareness and actual reduction. Announcement by the Finance Minister in the recent budget on 
+expanding and strengthening debt recovery systems/tribunals as also comprehensive legal 
+reforms should in due course aid the process of reduction in NPA, and thus cost of 
+intermediation, further. Perhaps, determined and vigorous follow-up on these proposals is to be 
+ensured, keeping in view the recommendations of the latest Narasimham Committee.  
+Fourthly, the operating costs can be reduced only by a whole range of measures that would 
+enhance competitive efficiency particularly of public sector banks which account for a large part of 
+financial intermediation. Here, the skills, the working environment and incentive structures for 
+officers and staff of banks are at least as important as the systems. Progress has been made in 
+terms of some autonomy, and a large degree of awareness but a lot more ground needs to be 
+covered to increase operational efficiency in these banks. Some indicative approaches are 
+available in the latest Narasimham Committee Report.  
+Fifthly, as already mentioned, interest tax adds to the cost of borrowing apart from making 
+intermediation through banking channels more expensive than other channels. In fact, the need 
+to dispense with this was accepted and some progress was made in the budget for 1997-98, 
+when an interest-tax which was levied at the rate of 3 per cent on the interest income of lending institutions, including banks and NBFCs was reduced to 2 per cent. This has to be eliminated to 
+keep down the cost of borrowing.  
+(c) Capital Inflows  
+During periods of large capital inflows, attempts are made by central bank to sterilise the 
+accretion to reserves, and in the process there is a pressure on interest rates. In the recent past, 
+there have been bouts of large capital inflows and excessive reliance on open market borrowings 
+was avoided by using other measures also such as reserve requirements. The policy in regard to 
+appropriate level and composition of capital flows as also the measures to mitigate ill effects of 
+large capital flows that has served us well so far and hence needs to be pursued. To the extent 
+that the economy can demonstrate higher absorption capacity of such inflow, the need for 
+sterilisation could be obviated by that extent, bringing down the pressure on interest rate. This 
+would, of course, need higher level of investment in critical sectors. Needless to say, the interest 
+rate policy must be coordinated with exchange rate policy as well as fiscal policy to avoid 
+instability.  
+(d) Other Interest Rates  
+As we observed, there are instruments available for savers which give high yield, with some tax 
+concessions also, such as relief bonds (10 per cent tax-free) and National Savings Certificates 
+(12 per cent tax-free). Mechanisms need to be mounted to ensure that these rates are reviewed 
+and brought into alignment with a consistent interest rate policy framework. A beginning has been 
+made by the Government of India through the appointment of R.V. Gupta Committee on issues 
+relating to Small Savings, in February 1998. The Committee will, inter alia, review interest rate, 
+maturity period and tax incentives of small savings. The Committee, I trust, would explicitly 
+recognise the need for consistency in interest rate policies. Similar review by the Government is 
+desirable in respect of other related rates also.  
+(e) Market Reforms  
+Since April 1997, successive monetary policies have brought about a number of structural and 
+institutional changes in the different segments of financial markets, especially in the government 
+securities and money markets. The process of further enhancing the efficiency of financial 
+markets will need to be continued. A truly integrated financial market is necessary for the 
+emergence of a reference risk-free interest rate. For this, efficient price discovery in the primary 
+market for government securities is essential. An active secondary market is also necessary. An 
+efficient payments and settlement system will go a long way in reducing the liquidity premium in 
+this market. These measures will result in lower interest rates across markets.  
+(f) Inflationary Expectation and Price Stability  
+The most critical issue in regard to real interest rate is inflation or more importantly, the 
+inflationary expectations. We should recognise that a cognisable inflationary expectation is built 
+on a credible policy of price stability which in turn is possible only when there is a demonstrable 
+national consensus on two issues, viz., commitment to price stability and a reasonable fix on what 
+constitutes price stability.  
+As demonstrated by various empirical studies and articulated by Dr. Rangarajan, former 
+Governor of the Reserve Bank of India, the inflation rate threshold for India is at a level of about 6 
+per cent and a rate higher than this optimum level can have adverse consequences for GDP 
+growth. More recent internal studies in the Reserve Bank confirm this view.  The next issue is, what should be the acceptable range, if it should not exceed about six per cent 
+and need not be as low as that in industrially advanced countries. Indeed, this is a very critical 
+issue for the conduct of monetary policy. In fact, the latest annual report of the RBI in the section 
+on Assessment and Prospects states "History shows that successful monetary policy requires not 
+only a high degree of operational freedom for the central banks but also a clear enunciation of the 
+dominant objective of policy. In industrially advanced countries, inflation control has become the 
+dominant if not the only objective of monetary policy. With the discontinuation of the automatic 
+monetisation of Central Government deficit, a major step towards functional autonomy has 
+already been taken. However, there has to be a general consensus on the need to keep the 
+inflation rate around a certain level."  
+I am happy to see some official indication of the acceptable level of inflation in the latest 
+Economic Survey. The General Review (paragraph 68) states that "As world inflation rates are 
+currently of the order of 0 to 3 per cent, 4 to 6 per cent inflation rate could be regarded as an 
+acceptable level for India at present."  
+From a central bank's point of view, this is a welcome statement on acceptable range, though I 
+recognise that it should be treated as a medium-term range, and thus subject to year-to-year 
+fluctuations of a tolerable level around this range.  
+I once again congratulate the organisers and wish FIMMDA a long, representative and effective 
+existence.  
+Thank you.  
+( I wish to express my thanks to Shri.M.S.Mohanty, Dr.A.Prasad and Shri.Sunando Roy for their 
+invaluable help ). 
+ 

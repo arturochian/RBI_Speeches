@@ -1,0 +1,580 @@
+Development of Money Market in India
+I am grateful to the Andhra Chamber of Commerce for inviting me to deliver the Fifth
+J.V.Somayajulu Memorial Endowment Lecture. I consider it a great privilege and an honour,
+since luminaries like the Honourable Shri.R.Venkatraman, Shri.C.Subramaniam,
+Shri.N.Rangachary and Dr.Abid Hussain have delivered the earlier lectures. Mr.Somayajulu
+was a rare combination of being both a theoretician and a practitioner in the field of
+economics. He devoted a great deal of his life not only towards developmental activities but
+was also associated with a variety of social, literary and cultural organisations. He was of
+course a special person for Telugus in Chennai city. He was a reputed stockbroker who
+became the President of the Madras Stock Exchange. It may, therefore, not be out of place if,
+Recently, a number of measures were undertaken by us in Reserve Bank of India
+(RBI) to widen, deepen and integrate the different segments of the financial market, viz.,
+money market, debt market, especially Government Securities market, and foreign exchange
+market. In the past, I have spoken at length elsewhere on the developments and agenda for
+reform of foreign exchange and debt markets. Hence, I will speak on the development of
+After explaining the functions and features of the money market, I will briefly recount
+the evolution of money market in India. Significant reforms in the money market in the
+‘nineties and current functioning will then be detailed. I will thereafter present a tentative
+agenda for further action and will elaborate   the rationale behind actions that we are
+contemplating and, how we plan to go about it. The concluding part will be a broad statement
+The money market is a market for short-term funds, i.e., up to one-year maturity.
+Thus, it covers money, and financial assets that are close substitutes for money. The money
+First, it should provide an equilibrating mechanism to even out demand for and supply
+Second, the money market should provide a focal point for central bank intervention
+Third, it should provide reasonable access to providers and users of short-term funds
+RBI is the most important constituent in the money market. By virtue of the
+implication for the conduct of monetary policy, money market comes within the direct
+purview of RBI regulation. The primary aim of the Reserve Bank of India’s operations in the
+money market is to ensure that the liquidity and short-term interest rates are maintained at
+levels consistent with the monetary policy objectives of maintaining price stability, ensuring
+adequate flow of credit to productive sectors of the economy and bringing about orderly
+conditions in the foreign exchange market. The Reserve Bank of India influences liquidity
+and interest rates through a number of operating instruments, viz., cash reserve requirements
+of banks, operation of refinance schemes, conduct of open market operations,  repo
+transactions, changes in the Bank Rate, and at times through foreign exchange swap
+operations.
+to fulfill their borrowing and investment requirements at an efficient market clearing price.
+for influencing liquidity and general level of interest rates in the economy.
+of short-term funds.
+market is generally expected to perform three broad functions.
+Functions and Features
+on the role of the money market in the conduct of monetary policy in India.
+Money Market in India now.
+today, I  speak on ‘Development of Money Market in India’.
+Mr. Chairman and friends,Evolution of Money Market in India
+The Committee to Review the Working of the Monetary System (Chairman :
+Shri.Sukhamoy Chakravarty) was the first to make several recommendations in 1985 for the
+development of money market. As a follow-up, the RBI set up a Working Group on Money
+Market under the Chairmanship of Shri.N.Vaghul, which submitted its Report in 1987. Based
+on the recommendations, RBI initiated a number of measures in the ‘eighties to widen and
+First, in order to impart liquidity to money market instruments and help the
+development of secondary market in such instruments, the Discount and Finance House of
+India (DFHI) was set up as a money market institution jointly by the Reserve Bank of India,
+public sector banks and financial institutions in 1988. RBI has since divested its shareholding
+Second, to increase the range of money market instruments, Commercial Paper,
+Certificates of Deposit, and Interbank Participation Certificates were introduced in 1988-89.
+Third, to enable price discovery, the interest rate ceiling on call money was freed in
+stages from October 1988. As a first step, operations of DFHI in the call/notice money
+market were freed from the interest rate ceiling in 1988 and in May 1989, the interest rate
+ceiling was completely withdrawn, for all operators in the call/notice money market and on
+interbank term money, rediscounting of commercial bills and Interbank Participation
+Certificates without risk. Currently, all the money market interest rates are by and large
+In line with the deregulation and liberalisation policies of ‘nineties, financial sector
+reform was undertaken in our country early in the reform cycle. Naturally, reform in the
+money market formed a part of the reform process. I will first cover reform in  the markets,
+both call money and term money. I will then take up market instruments – CP, CDs, Treasury
+Bills, and repos. From the RBI’s point of view also, apart from T-Bills, RBI repos and
+refinance are important. Finally, money market mutual funds are referred to as another recent
+The call/notice money market was predominantly an interbank market until 1990,
+except for UTI and LIC, which were allowed to operate as lenders since 1971. The RBI’s
+policy relating to entry into the call/notice money market was gradually liberalised to widen
+and provide more liquidity, although Vaghul Committee had recommended that the call and
+notice money market should be restricted to banks. In the absence of adequate avenues for
+deployment of short-term surpluses of non-bank institutions, easier norms were announced by
+the RBI for increasing the participants in the call and notice money market. Entities that
+could provide evidence of surplus funds have been permitted to route their lendings through
+PDs. This was also meant to further help corporates, who had just moved to the term lending
+discipline from the earlier system of cash credit, with large balances to deploy their funds in
+the short-term and get some return. The minimum size of operations for routing transactions
+has also been gradually reduced from Rs.20 crore to Rs.3 crore.  Reducing the minimum size
+of operations has served to increase the number of participants, provide greater flexibility
+Thus, as of now, broadly speaking, banks and PDs are operating as both lenders and
+2
+though it has not resulted in any substantial increase in the liquidity in the market.
+Call Money Market
+development.
+Reform in the Money Market in the Nineties
+determined by market forces.
+There is a wide range of instruments now as will be explained later.
+and is only a minority shareholder now.
+deepen the money market. The main initiatives were:borrowers, while a large number of financial institutions and mutual funds are operating only
+as lenders. The behaviour among banks in the call money market is not uniform. There are
+some banks, mainly foreign banks and new private sector banks, which are active borrowers
+and some public sector banks that are major lenders. As will be explained later, the RBI has
+been a major player in the call/notice money market and has been moderating liquidity and
+volatility in the market through repos and refinance operations and changes in the procedures
+A reference rate in the overnight call money market has emerged recently through the
+The term money market in India until recently has been somewhat dormant. Statutory
+pre-emptions on interbank liabilities, regulated interest rate structure, cash credit system of
+financing, high degree of volatility in the call money rates, availability of sector specific
+refinance, inadequate asset-liability management (ALM) discipline among banks and scarcity
+of money market instruments of varying maturities were usually cited as factors that inhibited
+RBI has gradually removed most of these constraints over the years. While there has
+been some activity in the term money market in the recent period, after the above reforms, the
+CP is a money market instrument, issued in the form of a promissory note, by highly
+rated corporates for a fixed maturity in a discounted form. CP was introduced in India in
+1989 to enable highly rated corporate borrowers to diversify their sources of short-term
+borrowing and also to provide an additional instrument to investors. Terms and conditions for
+issuing CP like eligibility, modes of issue, maturity periods, denominations and issuance
+procedure, etc., are stipulated by the Reserve Bank. There are no interest rate restrictions on
+CP.  With experience, refinements were made to the instrument by removing/easing number
+of restrictions on the maturity and size of CP, requirement of minimum current ratio,
+restoration of working capital finance , etc. Corporates, PDs and SDs are eligible for issuing
+CP for a minimum period of maturity of 15 days and maximum period of 1 year. It is
+The issuance of CP has been generally observed to be related inversely to the money
+While deposits kept with banks are not ordinarily tradable, when such deposits are
+mobilised by a bank by issue of a CD, then such deposits get securitised and, therefore,
+In India, CDs were first introduced in 1989. The terms and conditions for issuing CDs
+like eligibility, maturity periods, size, transferability, applicability of reserve requirements,
+etc., are stipulated by the Reserve Bank. CDs in general represent relatively a high cost
+liability.  Hence, banks resort to this source generally when the deposit growth is sluggish but
+Treasury Bills
+Treasury Bills are instruments of short-term borrowing of the government and play a
+vital role in cash management of the government.  Being risk-free, their yields at varied
+3
+credit demand is high.
+become tradable. Thus, CDs represent essentially securitised and tradable term deposits.
+Certificates of Deposit
+market rates.
+significant to note that there is no lock-in period for CP.
+Commercial Paper
+volumes  have not yet become significant.
+the development of term money market.
+Term Money Market
+National Stock Exchange and Reuters.
+for maintenance of cash reserve ratio.maturities serve as short-term benchmarks and help pricing varied floating rate products in
+the market.  Treasury Bills market has been the most preferred by central banks for market
+interventions to influence liquidity and short-term interest rates, generally combined with
+repos/reverse repos.  Hence, development of this market is very crucial for effective open
+For record, let me say a few words about history of Treasury Bills. There was an
+active Treasury Bills market in the Bank’s history before 1960’s when 91 day Treasury Bills
+were auctioned weekly and the bills were widely held in the market. Two important
+developments in the early period should be mentioned.  First, in mid-1950’s, the system of 
+hoc 91 day Treasury Bills was introduced to replenish on automatic basis, the Central
+Government’s cash balance with the RBI to restore to its minimum required level, which
+opened up the era of uncontrolled monetisation of Central Government’s deficit.  Secondly,
+the auction system for issue of 91 day Treasury Bills to the market was replaced by the Tap
+sale of bills in mid-1960’s.  Though the Tap bill rates were varied consistent with changes in
+the Bank Rate till 1974, the discount rate on ad hoc and Tap bills continued unchanged since
+then at the uniform rate of 4.6 per cent.  Combined with the regime of administered interest
+rates, there was no congenial environment for  Treasury Bills market to develop. However,
+the interest in development of Treasury bills market came up with the introduction of 182 day
+Treasury Bill on auction basis in November 1986 and the constitution of DFHI as a money
+market institution, along with other steps taken to develop the money market.  182 day
+Treasury Bill  was replaced by introduction of 364 day bills on fortnightly auction since April
+1992 as part of reform measures.  Subsequently, 91-day bills were introduced on auction in
+January 1993.  The parallel existence of 91 day Tap Treasury Bills and ad hoc Treasury Bills
+continued till March 1997.  To enable finer cash management of the government and to
+provide alternative avenue for state governments and some foreign central banks to invest
+surplus funds, 14-day intermediate Treasury Bills and auction bills were introduced in April
+Reverting to the current situation, the Treasury Bill issues now consist of  weekly 14
+day and 91-day bill auctions and 364 day bill auctions on a fortnightly basis combined with
+14-day intermediate bills available for state governments and foreign central banks. I would
+submit that there have been, recently, very significant initiatives by RBI in this area. The
+auction procedures were streamlined to have notified amounts for all auctions and to accept
+non-competitive bids outside the notified amounts.  A uniform price auction for 91 day bills
+has also been introduced as an experimental measure. Reserve Bank’s purchases and holding
+of Treasury Bills have become totally voluntary with the discontinuation of ad hoc and Tap
+91 day Treasury Bills and extinguishment of 14 day intermediate bills on rediscounting.
+Another significant recent development has been the addition of Treasury Bills in the open
+market sale window of the Bank.  In brief, development of Treasury Bills market is at the
+heart of money market development and hence the Reserve Bank has been paying special
+As in the case of other instruments, the demand for Treasury Bills is also inversely
+related to call money market rates.  The supply is adjusted taking duly into account the
+demand conditions as also the short-term needs of the Central Government.  In 1998-99, the
+availability of fixed rate repos at 8 per cent since August 1998 caused some disinterest in
+Treasury Bills; with the auction rates more aligned with the market recently, the interest in
+4
+1997.ad
+Treasury Bills has significantly revived.
+attention and continuously reviewing the development of Treasury Bills market.
+market operations.Ready Forward Transactions
+Repo refers to a transaction in which a participant acquires immediately funds by
+selling securities and simultaneously agreeing for repurchase of the same or similar securities
+after specified time at a given price.  The transaction combines, elements of both a securities
+purchase/sale operation and also a money market  borrowing/lending operation.  Typically it
+signifies lending on a collateralised basis.  The terms of contract is in terms of a ‘repo rate’
+representing the money market borrowing/lending rate.  As in the case of other instruments,
+repos also help equilibrating between demand and supply of short-term funds. Internationally,
+repurchase agreement (Repo) is a versatile and perhaps the most popular money market
+instrument.
+In our market, two types of repos are currently in operation - interbank repos  and the
+RBI repos. Interbank repos are permitted under regulated conditions. After the irregularities
+in securities transactions in 1992, eligible participants and instruments have generally been
+Now all Government securities have been made eligible for repo. Further, besides
+banks, Primary Dealers are allowed to undertake both repo/reverse repo transactions.  Non-
+bank participants have also been allowed recently to lend money through reverse repos to
+other eligible participants. In terms of instruments, the repos have also been permitted in PSU
+bonds and private corporate debt securities provided they are held in dematerialised form in a
+depository and the transactions are done in recognised stock exchanges.  However, as
+explained later, this can be operationalised after Government issues a clarification regarding
+applicability of stamp duties on dematerialised instruments.  In the latest statement on
+monetary and credit policy, the RBI removed the restriction of a minimum period of 3 days
+for inter bank repo transactions.  It is hoped that this would further enable banks and other
+RBI has been using its repo instrument effectively for absorbing excess liquidity and
+for infusing funds to ease the liquidity.  The repo rate set by the Bank has also more recently
+The repo rate curr ently in a way
+serves the purpose of a floor and the Bank Rate/Refinance Rate somewhat as a cap for the
+Repo auctions were conducted for varied periods ranging between a day and 14 days
+between 1992 and early 1995, when the auctions were discontinued due to lack of demand on
+account of tightness in the market.  Auctions on a 3 to 4 day cycle were introduced again in
+early 1997.  Daily repos of thee-four day cycle on a fixed rate basis was introduced in
+November 1997 to bring about orderly conditions in the foreign exchange market.  The fixed
+The monetary and credit policy for the first half of 1998-99 proposed to use both
+fixed interest and auction based repos, as appropriate.  It also stated that in addition to the
+current three-day and four-day repos, RBI will, in due course, use one-day repos (including
+reverse repos) to absorb (or infuse) liquidity into the system.  Also, RBI will have to
+consider use of auction repos at an appropriate stage. These are all intentions or options
+announced by RBI to demonstrate transparency and interactive or proactive approach to
+Refinance from Reserve Bank of India
+Redis count/Refinance is used by central banks to relieve liquidity shortages in the
+5
+markets.
+repo rate is adjusted to reflect the policy objectives on short-term interest rate.
+money market to operate within an interest rate corridor.
+become a sort of signaling rate along with  Bank Rate. 
+participants in the repo market to adjust their liquidity in a more flexible manner.
+restricted but liberalised gradually. RBI repos are used for absorption/injection of liquidity.
+Repurchase Agreements (Repos)/system, control monetary and credit conditions and direct credit to selective sectors.  The
+system of refinance provided by the RBI to scheduled commercial banks has generally been
+functioning as an active instrument of monetary and credit regulation in India.  The relative
+importance of this policy instrument in different periods depended upon the degree of
+liquidity in the banking system and the need for ensuring credit flow to select sectors.  The
+quantum and cost of refinance do play an important role in the liquidity management. The
+fundamental principle is that refinance facility in terms of both cost and quantum has to be
+adjusted to reflect the monetary policy stance in response to market conditions and such
+facilities should not be construed as permanent sources of funding from the Reserve Bank.
+The RBI had used in the past a number of sector specific refinance facilities – food credit
+refinance, export credit refinance, government securities refinance, discretionary refinance,
+standby refinance, etc.  These represented a means of achieving discretionary policy
+objectives.  Over the years, the Reserve Bank of India has sought to regulate and gradually
+reduce the access to refinance facilities through a combination of lowering/raising the cost of
+such accommodation and/or regulating the availability in terms of quantum by adjusting the
+formula for fixation of eligible limits.  With the emergence of the Bank Rate as the signaling
+rate of monetary policy stance, the present policy has been to keep the refinance rate linked to
+Consistent with the goal of shifting monetary policy interventions from direct to
+indirect methods, the objective has been to move towards a general refinance/liquidity
+adjustment facility and doing away with all sector specific and discretionary refinance
+facilities.  Thus, currently, there are only three refinance schemes in operation and available
+to banks – export credit refinance, general refinance and special liquidity support facility
+against investment  made out of RIB funds.  Of these, special liquidity support is purely an 
+Money Market Mutual Funds (MMMFs) were introduced in India in April 1991 to
+provide an additional short-term avenue to investors and to bring money market instruments
+within the reach of individuals.  A Task Force was constituted to examine the broad
+framework outlined in April 1991 as also the implications of the Scheme.  Based on the
+recommendations of Task Force constituted for the purpose, detailed scheme of MMMFs was
+The portfolio of MMMFs consists of short-term money market instruments.
+Investment in such funds provide an opportunity to investors to obtain a yield close to short-
+term money market rates coupled with adequate liquidity. The RBI has been making several
+modifications to the scheme to make it more flexible and attractive to banks and financial
+institutions.  For instance, the ceiling for raising resources and stipulation regarding minimum
+size of MMMFs were done away with and the prescription on limits for investments in
+individual instruments was withdrawn except in respect of CP. Recently, in October 1997,
+MMMFs were permitted to invest in rated corporate bonds and debentures with a residual
+maturity of up to one year, within the ceiling existing for CP. The minimum lock in period
+The growth in MMMFs has, however, been less than expected. Though, in principle,
+approvals had been granted to ten entities, only three MMMFs have been set up, one in the
+private sector and the other two by IDBI and UTI.  The total size of these funds is also not
+very large.   It appears that growth in MMMFs can really occur when money market grows in
+6
+Money Market Mutual Fundsad
+volume and acquires depth – for which a number of initiatives will have to be taken.
+was also reduced gradually to 15 days, making the scheme more attractive to investors.
+announced by the Reserve Bank in April 1992.
+measure slated to be discontinued after March 31, 1999. hoc 
+the Bank Rate.Narasimham Committee on banking sector reform (1998) has provided a framework
+for reform in the money market also.  RBI has already acted on many of them.  Let me
+summarise the recommendations and what we have done so far. The Committee suggested
+restriction of the call money market to banks and PDs, imposing prudential limits for
+individual bank’s reliance on call money borrowings, introduction of one-day repos by the
+Reserve Bank of India, withdrawal of the RBI from the primary market in 91-Day T-Bills,
+access to foreign institutional investors in the T-Bills market, RBI support to the market
+through Liquidity Adjustment Facility (LAF), free access to bill rediscounts, CP, CDs and
+MMMFs to non-bank parties, reduction in the minimum period of fixed deposits to 15 days
+As I have already mentioned, some of these recommendations, like the minimum
+maturity for term deposits, minimum lock-in period for CDs and units of MMMFs have
+The RBI has also circulated draft guidelines for ALM  for banks, which indicates
+prudential limits for call borrowings. These guidelines will be operative from April 1, 1999.
+As I mentioned earlier, three, four-day repos are also being conducted by the Reserve Bank
+of India currently, and one-day repos will be introduced when the situation so warrants.
+Banks are now permitted to enter into repos for a minimum period of one day. FIIs are now
+permitted access in the T-Bills market.  We have also increased the number of PDs from 6 to
+13 and once the new PDs become  operational, there should be reduced scope for
+devolvement on the RBI.  The Reserve Bank of India can then phase out its presence from the
+T-Bills market. Recently, the RBI also offered to sell T-Bills in the secondary market. The
+other recommendations of the Narasimham Committee, especially those relating to call
+money market, LAF, etc. have considerable implications for the market and the participants
+and the conduct of monetary policy, and will have to be implemented gradually. Most
+important, implementation will have to be designed and phased in such a manner that existing
+To advise us on the development of money market, a Standing Committee on Money
+Market has been set up by the RBI in 1997. The Committee’s membership includes
+representation from financial institutions, Indian and foreign banks, public and private sector
+mutual funds and economists, apart from RBI officials. All major issues are discussed in the
+meetings of the Standing Committee. In fact, many of the issues that I flag as the agenda for
+Let me go over in detail some of the substantial issues that are engaging our attention
+The call/notice money market is an interbank market the world over and Narasimham
+Committee recommended that we adopt the same.  Standing Committee on Money Market is
+also of the same view. In the past, permission to non-bank institutions in the call money
+market had been granted since the market did not provide instruments for the deployment of
+short-term surpluses of these institutions at that time, which is not equally true today. When
+non-bank participants, who are free from reserve requirements, are permitted to operate in the
+call/term money market, there is some distortion of the signals of liquidity conditions in the
+system. Thus, the banking system has to bear the brunt of the shortage or excess liquidity as
+well as the volatility in the flow of funds. Also, non-bank lenders may be in a position to
+either create artificial scarcity for funds or exploit situations of tight monetary conditions,
+7
+ 
+Interbank Call/Notice/Term Money Market
+currently.
+future have already been intensely discussed in the Standing Committee meetings.
+players will have the flexibility to adjust their asset-liability structures.
+already been implemented.
+as also a similar minimum lock-in period for  money market instruments.
+Agenda For Further ActionTherefore, it is  justifiably held, as announced in the October 1998 review of
+monetary policy, that call, notice and term money market should purely be an inter-bank
+market with additional access only to PDs. Consequently, the infusion/contraction of liquidity
+in this market will be the prerogative of the Reserve Bank of India. Of course, RBI has to
+ensure that  the exposure of banks and PDs in the call money market are within prudential
+limits.
+Secondly, as mentioned earlier, phasing out non-bank participants other than PDs
+from the call money market must be implemented gradually in such a manner that these
+players have time to readjust their asset-liability structures. Non-bank players have to be
+encouraged to deploy their short-term surpluses in other money market instruments. For
+instance, they can be permitted to borrow and lend freely through repos in both Government
+and non-Government securities before they are phased out of the call/notice/term money
+Thirdly, compared to before, there are more instruments now in the money market.
+The interbank repo market in Government securities has also been picking up. Repos in non-
+Government debt has not taken off, pending clarification on stamp duties on dematerialised
+In brief, phasing out of non-bank participants from the call/notice/term money market
+should go hand in hand with the development of repo market as also the market for other
+The Narasimham Committee has observed that the RBI support to the market should
+be through a Liquidity Adjustment Facility (LAF) under which the RBI would periodically, if
+necessary, daily, reset its repo  and reverse repo rates which would in a sense provide a
+Currently, the RBI uses 3/4-day repos to siphon off liquidity from the system.  As
+already mentioned, liquidity is also made available to banks in the form of refinance at Bank
+Rate or rates related to Bank Rate. In addition, liquidity support is available to PDs at the
+Bank Rate.  Thus, in effect, there is an interest rate corridor in the inter-bank call money
+market with the repo rate effectively operating a floor and the refinance rate acting as the cap.
+At times, call money rates have breached the repo rate since the repo rate is a  3 – 4 day rate
+whereas the call money operates on overnight basis and also because of market uncertainty
+and different perceptions in the overnight rates. Once the call/notice/term money market is
+made purely inter-bank, it will be the prime responsibility of the RBI to ensure orderly
+conditions in interest rate movements in the money market. This can only be done if the RBI
+The thrust of the Narasimham Committee recommendation on LAF is the continuous
+presence of the Reserve Bank in the money market through the operation of repos window.
+While repos will be used for absorbing excess liquidity at a given rate (floor) and infusing
+liquidity into the system through reverse repos at a given rate (cap), the floor and cap rates set
+by the repo window are expected to provide an effective corridor for the operation of the call
+money market.  Depending upon the stance of the policy to ease or tighten the liquidity, floor
+and cap rates could be adjusted from time to time. This  kind of approach to short-term
+liquidity management on a daily basis, raises a number of issues which should be addressed
+carefully before putting it into operation.  While on the floor side of the market, the Reserve
+Bank’s repo window has been by and large effectively operating, supply of liquidity at a cap
+8
+is continuously  present in the market.
+reasonable corridor for market play.
+Liquidity Adjustment Facility
+money market instruments.
+securities.
+markets.
+thereby distorting the interest rate structure and increasing the volatility in the money market.We will discuss some of the other aspects that are relevant to the establishment of
+Firstly, as mentioned  earlier, while  even at present an interest rate corridor operates
+between the repo rate and the Bank Rate/Refinance rate, this is not totally an automatic
+liquidity adjustment mechanism since the Reserve Bank may not be providing a perfectly
+elastic supply of liquidity at the cap rate.  In other words, eventhough the refinance/liquidity
+support facilities are extended at a given rate of interest, it is not the intention of the bank to
+supply any amount of liquidity at that rate. In the present condition of a skewed call/notice
+money market, with a few banks having over-extended positions in the market, elastic supply
+of liquidity is fraught with danger. Therefore, there may be a need to place limits both from
+Secondly, an elastic supply of liquidity at a given cap rate would imply targeting of
+short-term interest rates irrespective of its impact on quantum variables like reserve money.
+Thirdly, another issue to be considered is whether the supply of liquidity by the
+Reserve Bank  should be in the form of a refinance facility or in the form of reverse repos. As
+an instrument, reverse repo is more flexible. However, parties that enter into reverse repos
+may face some operational difficulties. They will not be able to sell the securities in which
+they have entered into repo during the period of repo. Since the refinance mechanism is
+easier, we have moved towards it for providing liquidity support to PDs. Also, banks will be
+able to enter into reverse repos only to the extent of  their excess holding over SLR. A
+different system may have to be devised to provide liquidity to banks that do not have excess
+SLR. Further, until the real time gross settlement system (RTGS) is in place with electronic
+fund and securities transfer procedures, it may be practically difficult to introduce LAF in the
+Fourthly,  banks are currently provided with refinance, with both the limits or ceilings
+and the rate being predetermined. Once the LAF is introduced, ideally, the existing refinance
+Fifth, a view has to be taken on differentiation to be made between banks and PDs for
+the purpose of LAF. If PDs are also brought under the purview of LAF, the present liquidity
+Sixth, liquidity forecasting techniques of the Reserve Bank of India may have to be
+Seventh, dependable criteria for fixing individual limits under the LAF needs to be
+Eighth, the process of determination of interest rates is another issue that needs to be
+decided. The repo/reverse repo or even the refinance can be on auction basis or can be on a
+All these issues are being studied and need to be resolved before deciding on the
+It is widely accepted that the banking sector needs a deep and liquid term money
+market for managing its liquidity and asset liability mismatches. There is no clearly defined
+inter-bank term money yield structure in India beyond the overnight rates. A call money
+9
+Development of Inter-bank Term Money Market
+introduction of LAF.
+fixed rate volume tender basis.
+evolved.
+refined in order to have a reasonable fix on the liquidity in the system.
+support scheme may need to be reviewed.
+schemes may have to be phased out.
+form of reverse repos.
+Currently, the market does not seem to be ready for such a shift.
+the prudential and monetary impact angles.
+such a Liquidity Adjustment facility in greater detail.
+rate has to take into account several considerations.reference rate has emerged through the NSE and Reuters. Development of an inter-bank term
+I have already listed a little earlier the steps that we have taken to facilitate the
+development of the term money market in India. There is a continuous demand that a pre-
+requisite for the development of a healthy and vibrant term money market in India is the
+removal of the minimum statutory reserve requirements on inter-bank borrowings. There is a
+pretty convincing view that the inhibiting factor is not merely the reserve requirements.
+Currently, inter-bank borrowings are exempt from CRR and SLR subject to maintenance of
+As I have already alluded, the current structure of the call/term money market has
+resulted in participants taking a myopic view on the liquidity and interest rate conditions. In
+fact, at times, long-term investment decisions are based on the call money rates. Hence, as
+recommended by the Narasimham Committee, it is essential to place clearly defined
+prudential limits for banks’ reliance on the call money market. With the introduction of good
+asset-liability guidelines already circulated to banks, prudential limits on exposure to the call
+market and online connectivity between major branches of public sector banks, the stage is
+Expansion of Repo Market
+Just as we have a Standing Committee on Money Market, we also have a Technical
+Advisory Committee on Government Securities Market. An internal sub-group of this
+Committee is looking into various aspects of expansion of the repo market, including issues
+Further, repos among eligible participants are currently permitted only in Mumbai and
+the RBI also conducts repo operations only at Mumbai. Eventually, it is proposed to extend
+this to other centres also, which is dependent on the establishment of VSAT network and
+A number of suggestions have been received by us in RBI towards further
+development of the market.  We need to  examine all these carefully. I will list a few of them
+The Reserve Bank of India, at present, does not permit underw riting of CP. The CP
+market has been witnessing ups and downs, depending primarily on the conditions in the call
+money market. Suggestions have been received regarding the introduction of CP with
+Revolving Underwriting Facility (RUF) which is a popular financing facility available
+abroad. A CP with RUF is akin to a revolving LC and will reduce funding cost. However, it
+becomes like a funded loan if devolvement takes place on banks. Credit risk is a major
+concern in the case of RUF as there is a possibility of banks overextending credit. As RUF is
+a non-funded commitment, it calls for appraisal by banks in a systematic manner. Thus, while
+CP with RUF is a good treasury product, issues like mechanism for rating of underlying
+instruments, number of time it revolves, etc., have to be carefully examined before the
+There is a suggestion that floating rate CDs could be considered for  introduction in
+our market. There are two issues that need examination. Currently, CD is a discount
+instrument. Floating rate CD would imply that CD is an interest bearing instrument. The
+second consideration relates to what is the benchmark interest rate against which the CD
+10
+the statutory minimum on total net demand and time liabilities.
+would float.
+(b)
+product can be introduced.
+(a)
+here, to help some sort of debate.
+Instrument Development and Market Microstructure
+connectivity of all Public Debt Offices of RBI.
+comprising legal status, regulatory framework, standardisation of accounting practices, etc.
+expected to be set for the emergence of an interbank term money market.
+money market is essential if credible reference rates across the yield curve have to emerge.It has also been held that brokers could be permitted in the mon ey market to improve
+liquidity. We have to examine this in the light of the role played currently by Primary Dealers
+ Yet another idea is to rationalise the tenor for issue of CDs of financial institutions
+from 1-3 years to 3 months-3 years. Ideally, this could be examined in the light of
+harmonization of roles between banks and Financial Institutions.
+Introduction of Interest Rate Swaps
+The monetary policy of October 1998 had announced the intention to introduce
+interest rate swaps to further deepen the money market as also to enable market participants
+to hedge interest rate risks. The Reserve Bank has been working towards a framework for
+operationalising this derivative instrument in the Indian market. Market participants have
+been consulted on relevant aspects such as standard documentation, benchmark, etc and the
+draft proposals are ready. In fact, this will be the main item of agenda in the next meeting of
+the Standing Committee on Money Market, scheduled for February 3, 1999.  I am confident
+To curb certain unhealthy trends that had developed in the financial market in the
+past, and particularly to prevent undesirable speculation, the Government had prohibited
+forward trading in securities in June 1969 through a Notification.  It is often argued that
+rescinding this Notification is now necessary for the development of the financial market. In
+parallel,  Simultaneously, there is a proposal to amend the Securities Contracts Regulation
+Act,  to add an enabling provision to give powers to Government to provide jurisdiction to
+the RBI also in the regulation, say  of the money and debt markets.  When this amendment is
+approved, the respective regulatory roles of SEBI and RBI in the money and debt markets
+could be formally delineated by Government.   The proposed changes in the SCRA could
+t of financial markets is being inhibited by multiple prescriptions of
+stamp duty which is creating friction in active secondary market trading by increasing the
+transaction cost and administrative hassles. Although the State Governments claim right to
+levy stamp duty, exemption of financial instruments from stamp duty is advocated in the
+interest of development of efficient financial markets. Introduction of Repos in private
+corporate securities in dematerialised form through a depository has also been  stalled on this
+count.  In regard to instruments which fall within the jurisdiction of Central Government,
+such as promissory note and transfer of shares, they have already been granted remission by
+the Central Government.  State Governments may be finding it difficult to grant remission to
+financial transactions since for the purpose of stamp duty, almost all items fall within the
+This is a matter of crucial importance and exemption of money market and debt
+instruments from stamp duty or alternatively rationalisation of the procedures by imposing a
+flat fee would go a long way in increasing secondary market activity and liquidity in money
+market and debt instruments. The suggestion that the Indian Stamp Act be amended to enact a
+specific provision exempting transactions of all securities in Depository in dematerialised
+11
+form from stamp duty could also be  seriously considered.
+description of financial transactions excepting a couple of items.
+Developmen
+Stamp Duty Reform
+pave way for a much more active repos market.
+(Regulation) Act, 1956
+Amendments to Securities Contracts
+that we will be able to come up  with an operational framework very soon.
+(d)
+in the market.
+(c)Electronic dealing systems certainly lend transparency and efficiency to market
+operations.  Ideally, the screen could cover OTC deals in money market instruments like call
+and notice money, term money, repos, as also Government Securities including Treasury
+Bills.  Besides banks, PDs, financial institutions and other market participants, the RBI could
+use the screen in the conduct of its open market operations as also for monitoring
+The RBI is actively coordinating with the Primary Dealers Association in developing
+an Electronic Dealing System to facilitate dealing in call, notice and term money, Treasury
+Bills, Government Securities and repos. This is expected to be operationalised by March
+Money Market and Monetary Policy in India
+A central bank seeks to influence monetary conditions through management of
+liquidity by operating in varied instruments.  In an administered or controlled regime of
+money and financial markets, the management of liquidity is essentially through direct
+instruments, like varying cash reserve requirements, limits on refinance, administered interest
+rates and quantitative and qualitative restrictions on credit.  Thus, the cost, availability, and
+direction of funds flow come under the direct influence of the central bank.  In a deregulated
+and liberalized market environment, the position is different, since  the interest rates are
+largely determined by market forces.  In that situation, there is still  a need to influence
+monetary conditions through management of liquidity, but, this has to be achieved mainly
+through market based operating instruments, like open market operations and refinance/
+discount/ repo windows.  The central bank becomes, in a way, a part of the market, though it
+is still above the market, by virtue of its power to influence primary liquidity.  The success of
+market based indirect instruments, of course, depends upon the existence of a vibrant, liquid
+and efficient money market, well integrated with the other segments of financial market, in
+particular the government securities and foreign exchange markets.  Such an integrated and
+efficient market  is necessary, for monetary policy impulses, sent through money market
+interventions to be reflected in the monetary conditions, through the transmission channel of
+The financial sector in India is still, in a state of transition, because of ongoing
+reforms and growing integration between different segments.  No doubt, the degree of
+operational freedom of the Reserve Bank has been enhanced with the elimination of Central
+Government’s automatic access to Reserve Bank credit.  However, a major constraint in the
+conduct of monetary policy is the inadequate depth and liquidity in the secondary market for
+government securities and money market instruments.  The Reserve Bank, therefore, still
+relies on cash reserve ratio as an important operating instrument. Open Market operations
+have have also been increasingly used,  especially in the current year, to bring about
+contraction of liquidity in the  system.  Since April 1997, the Bank Rate is also being used as
+a signaling mechanism of the stance of policy. It has been the endeavor of the Reserve Bank
+to develop both depth and liquidity in money and Government Securities markets, through
+An internal RBI Working Group on liquidity forecasting, in the last year, has made
+several recommendations for assessing the short-term liquidity on a periodic basis with the
+help of data available with the Reserve Bank as also from the Government.  Reserve Bank
+12
+1999.
+institutional measures so that eventually the dependence on CRR is reduced.
+the general level of interest rates.
+money market and monetary policy in India.
+Let me conclude by mentioning, in a sort of summary form, the linkage between the
+money/securities market activity.
+Electronic Dealing Systemhas already been using this framework. The Reserve Bank has also been endeavouring to
+develop models to assess short-term liquidity. In that regard, initiatives have recently been
+taken in the Bank to develop a short-term liquidity model by an in-house group consisting of
+members from relevant operational and research departments of the Bank.  The Group would
+have the benefit of expertise from an Advisory Committee comprising of well known senior
+academics.  The model, besides providing a general theoretical rationale, is expected to be
+Outlook
+A review of money market development in India and the current efforts for further
+development would show that though a late comer, India is not lagging behind in any
+significant manner.  However, while a base has been created with a variety of products in the
+money market, the market has not acquired the required depth in terms of both volume and
+liquidity.  It is our hope that the institutional and other reforms identified as agenda will
+provide the necessary depth.  With that, the money market should gradually get integrated
+with debt and foreign exchange markets and in turn, pave way for the Reserve Bank’s greater
+•
+ Address by Dr.Y.V.Reddy, Deputy Governor, Reserve Bank of India, at the Fifth J.V.Somayajulu Memorial
+Lecture, at Madras, on February 1, 1999. I am grateful to Shri.K.Kanagasabapathy and Dr.A.Prasad for their
+valuable assistance.
+13
+reliance on indirect tools of monetary regulation.
+Let me conclude now, Mr.Chairman.
+operationalised for short-term decision making.

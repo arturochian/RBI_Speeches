@@ -1,0 +1,431 @@
+Financial Sector Reforms and RBI's Balance 
+Sheet Management by Dr. Y.V. Reddy, Deputy 
+Governor, Reserve Bank of India, Mumbai. The 
+Vysya Bank 11th Annual Lecture on Banking at 
+Bangalore on November 14, 1997 
+ 
+Financial Sector Reforms and RBI's Balance Sheet Management by Dr. Y.V. Reddy, Deputy 
+Governor, Reserve Bank of India, Mumbai. The Vysya Bank 11th Annual Lecture on Banking at 
+Bangalore on November 14, 1997  
+Chairman Shri Ramamoorthy and friends.  
+I am pleased to deliver the 11th Annual Lecture of Vysya Bank. In fact, this assignment gave me 
+an opportunity to study and reflect on the subject in the light of my recent experience in handling 
+this subject in the Reserve Bank of India (RBI).  
+2. Recently, one of my friends read the RBI Annual Report for the first time. He wondered 
+why it is a thick volume referring to a whole range of economic issues - rather than a 
+simple Annual Report with a balance sheet. Well, I had to explain to him that the RBI's 
+Annual Report, being the annual report of the central bank of our country, is really a 
+report on many aspects of the economy, especially the financial sector. The balance 
+sheet of the RBI reflects and in a way, influences the developments in the economy - the 
+external sector, the fiscal and, of course, the monetary areas.  
+3. At the outset, let me cover the relationship between our Central Bank's balance sheet 
+and monetary policy. I will then mention the main features of the RBI's balance sheet. In 
+this background, I will discuss the current issues, that have an impact on the RBI's 
+balance sheet in the wake of financial sector reforms. In addition, I will focus upon a few 
+major issues, especially the policies relating to transfer of surpluses to Government vis-a-
+vis to reserves of the Reserve Bank. I will conclude by underlining the dramatic 
+improvements that have been brought about in the management of RBI's Balance Sheet 
+in the context of financial sector reforms evidencing a move towards autonomy to the RBI 
+in operating its monetary policy.  
+Central Bank's Balance Sheet and Monetary Policy  
+4. A central bank's balance sheet is not merely a statement of accounts; it is central to the 
+money supply process. The money supply determination process could be viewed in 
+terms of a simple relation which links broad money (M3) to reserve money (RM), viz., M3 
+= m * RM, where m is the money multiplier. The components of reserve money are 
+mainly currency with the public, cash reserves with banks, balances of banks held with 
+the central bank. The sources of reserve money could be viewed as net domestic assets 
+(NDA) (comprising of central bank's credit to government, commercial sector and banks) 
+and net foreign exchange assets (NFA). When net domestic assets increase due to 
+increase in net RBI credit to Government or commercial sector, or on account of 
+refinance availed by banks, new money or created money is infused into the system. 
+Likewise, the net foreign exchange assets of the RBI would increase as and when the 
+RBI actually buys foreign currency, say, U.S. dollars by paying in rupees, thereby infusing 
+fresh money into the system.  5. The created money strengthens the reserves of banks which then are enabled to create 
+credit, in the process adding to the money supply. The process would be reversed when 
+net domestic assets are reduced or when the RBI sells foreign currency. There are, of 
+course, some other liabilities and assets which are non-monetary in nature and appear as 
+net non-monetary (i.e., `other') liabilities while explaining changes in the reserve money. 
+A brief explanation would be in order - an increase in net non-monetary liabilities is 
+contractionary, i.e., the signs reverse.  
+6. Changes in the liabilities and assets of the central bank, thus, lead to changes in money 
+supply (M3). M3 comprises currency with the public, demand and time deposits with 
+banks and other deposits with the RBI. However, we should recognise that the links 
+between reserve money and money supply and the relationship among money output, 
+and prices are matters of intense academic debate and policy-controversy. What has 
+been described here is a very simplistic explanation to illustrate a linkage between a 
+central bank's balance sheet and macro-economy. We will also look at various other 
+operations such as those affecting interest rates which impact on both the RBI's balance 
+sheet and the economy. People often talk of Government deficit leading to inflationary 
+pressures. The linkage is explained through the monetised deficit or the net RBI credit to 
+Government which has an impact on total money supply.  
+7. There is a link between the central bank's balance sheet and a commercial bank's 
+balance sheet. The central bank, through changes in Bank Rate, cash reserve ratio, and 
+open market operations influences the reserves of banks and thereby, the money supply. 
+While changes in the cash reserve ratio and open market operations have a direct impact 
+on the volume of resources of commercial banks, changes in the Bank Rate influence the 
+cost of funds.  
+Features of the RBI's Balance Sheet  
+8. The Reserve Bank of India Act, 1934 (RBI Act) provides that the Bank shall prepare 
+separately a weekly account of the Issue Department and of the Banking Department in 
+the forms prescribed by the Central Government. This weekly statement is reviewed 
+every week by a Committee of the Central Board of the RBI. The same form holds good 
+in the case of annual accounts of the Bank which is adopted by the Central Board. While 
+Balance Sheets for the Issue and Banking Departments have been kept separate, only 
+one Profit and Loss Account is prepared for the entire bank.  
+9. As per the RBI Act, the only liability of the Issue Department is 'Notes in Circulation'. The 
+assets of the Issue Department comprise broadly, gold coins and bullion, rupee coins, 
+rupee securities and foreign securities.  
+10. The Banking Department balance sheet is made up of assets and liabilities arising from 
+the banking business of the RBI. The first liability is the Paid Up Capital followed by 
+Reserve Fund created under Section 46 of the Act. National Industrial Credit and 
+National Housing Credit Funds were created under Section 46 D of the RBI Act. Deposits 
+come to the RBI from three broad sources, viz., Government, banks and others. Bills 
+payable are transitory operational liabilities in respect of outstanding drafts, pay order, 
+etc. Other liabilities is a residual head. However, it contains, the Balance Sheet's most 
+important items, viz., the reserves and provisions. The three reserves included are 
+Contingency Reserve (CR), Exchange Fluctuation Reserve (EFR) and Exchange 
+Equalisation Account (EEA). CR is mainly a cushion against unforeseen losses and 
+contingencies and consists of retained profits of the RBI. EFR represents net gain on 
+revaluation of gold and foreign assets. To the extent the EFR is inadequate to meet such 
+liabilities, there is provision for a transfer from the CR to the EFR, but the reverse is not 
+permissible. EEA is more of a provision to meet exchange losses in respect of liabilities 
+under schemes involving exchange guarantees and funds parked by financial institutions 
+with the RBI; the EEA can be funded from the EFR and the CR; any excess provision 
+can, however, be moved back to the EFR.  11. The assets of the Banking Department appear in an ascending order of liquidity. The first 
+three assets viz., notes, rupee coin and small coin are cash balances held in the Banking 
+Department. Bills purchased and discounted can be Government Treasury Bills and 
+commercial trade bills, both domestic and external, purchased or discounted from 
+commercial banks and State Governments. Balances Held Abroad are foreign currency 
+balances maintained with foreign central banks and international financial entities. 
+Investments include investments in Government of India securities, foreign securities, 
+shares in subsidiaries and associate institutions. The next category of assets consists of 
+loans and advances which appear in two categories, viz., general loans and advances 
+and those from NIC (LTO) Fund and NHC (LTO) Fund. Other assets is the residual 
+group.  
+12. Income is shown as a single entry on the income side of the Profit and Loss Account. The 
+main sources of income are interest on domestic foreign securities and foreign deposits; 
+discount and rediscount charges; and commission on management of public debt. The 
+largest proportion of expenditure is by way of interest payment, mainly on account of 
+interest on Cash Reserve Ratio (CRR).  
+Current Issues Having an Impact on the Balance Sheet of the RBI  
+13. Significant reforms relevant to the subject today have occurred since 1991-92 in the 
+areas of fiscal-monetary relationship; pre-emption of resources through reserve 
+requirements; structure of interest rates and change in the exchange rate policy. All these 
+changes have had an impact on the RBI's Balance Sheet. I will go through some of them 
+now.  
+Quasi Fiscal Deficit  
+14. Central banks, the world over, often engage in quasi-fiscal operations such as forced 
+lending to unqualified borrowers, bank-rescue operations and exchange guarantees, 
+which have an impact on profitability. The RBI was no exception but, in the context of 
+economic reforms and in particular financial sector reforms since 1991-92, there have 
+been changes. As part of the efforts to shore up the balance of payments, the RBI had 
+been providing exchange guarantees to banks for deposits under the Foreign Currency 
+Non-Resident Accounts (FCNRA) Scheme but the liability was since transferred to 
+Government. The profitability of the Bank was coming under severe pressure as the Bank 
+was required to make large provision to meet the exchange risk in respect of foreign 
+currencies borrowed under FCNRA, India Development Bonds and parking of funds by 
+financial institutions schemes, as pointed out in the RBI Annual Report of 1991-92. The 
+Government of India agreed to take over the exchange risk liabilities related to FCNRA 
+deposits on annual outflows with effect from July 1, 1993. The provisions available with 
+the Bank was just about sufficient to meet the actual losses for 1993-94. Similarly, the 
+RBI had introduced the Parking Fund Scheme for financial institutions (FIs) whereby the 
+FIs (who were persuaded by the Government to borrow in advance of their requirements) 
+parked their surplus foreign currency funds with the RBI. This practice has also been 
+discontinued. India Development Bonds were raised in foreign currency to meet the crisis 
+situation in 1991-92 and the RBI had to provide exchange guarantee for about US $ 2 
+billion. These were redeemed in January and February 1997, but the RBI provided and 
+since discharged exchange guarantee.  
+15. Although the Government of India had agreed to bear the exchange risk under FCNRA 
+Scheme, there was an understanding with the Government that the Reserve Bank would 
+transfer to Government, profit amounts over and above the normal transfer, to meet the 
+FCNRA losses. Thus, since 1993-94, in addition to the normal transfer of profits, the 
+transfer to make up for losses on account of FCNR (A) deposits aggregated about 
+Rs.12,850 crore. No fresh deposits were accepted under this scheme after August 14, 1994 and consequently the exchange guarantees ceased to exist from August 17, 1997, 
+the maturity of stock of deposits, i.e., 3 years.  
+16. The unique arrangement between the RBI and Government with regard to transfers out 
+of profits to meet FCNRA losses ensured acceptance of the principle that the RBI does 
+not bear the loss on exchange rate guarantee and if at all, the Government should bear it. 
+Thus, the RBI and the Government have resolved the problem of quasi-deficit without 
+serious damage to the RBI's balance sheet or Government's Budget.  
+Reduction in CRR and Rationalisation of Refinance Facility  
+17. CRR operates on the liabilities side of the RBI's balance sheet while refinance is an asset 
+side operation. Essentially, CRR is an instrument of prudential regulation. However, over 
+the years, it had acquired the status of a primary instrument of monetary control. The RBI 
+had impounded large cash balances of the commercial banks and also compensated it 
+with interest payments. With the progressive liberalisation in the financial sector, reserve 
+requirements were gradually reduced and the RBI stopped paying interest on the 
+incremental CRR balances since March 1990. In the recent monetary policy, the RBI has 
+rationalised the system of payment of interest on eligible CRR balances. The revised rate 
+of interest will also be applicable on the incremental balances in future. Likewise, the RBI 
+moved gradually away from a heavily segmented refinance system. Currently, two 
+refinance schemes are in operation - the export refinance and the general refinance 
+schemes. The rates of interest on these schemes are linked to the Bank Rate, which has 
+been reactivated recently.  
+18. While on the issue of interest obligations on CRR, I would like to recollect the three 
+guiding principles of an ideal balance sheet of the central bank, highlighted by my friend 
+and former Deputy Governor, S. S. Tarapore in his `Inside the RBI Balance Sheet' 
+delivered at the RBI Staff College, Madras. First, not to take on domestic interest bearing 
+obligation. Secondly, not to take on exchange guarantees and thirdly, foreign assets to 
+form a sizeable proportion of its total assets. There can be no argument regarding the 
+second and third principles. On the first issue also, there can be no disagreement in 
+terms of final objective, but there is an issue of management of transition. Owing to fiscal 
+policy considerations, corrective action was required in the past in terms of high reserve 
+ratio. Such a reserve ratio while serving the purpose of sucking in liquidity, adds to the 
+cost to the banks and hence in terms of higher interest rates spreads. This was an 
+additional burden, as SLR was also very high. Under the circumstances, in order to 
+mitigate the excess burden on the banking sector, the RBI had to compensate banks by 
+payment of interest on the CRR in excess of the statutory minimum of 3 per cent. At 
+some stage, it was decided not to pay interest on incremental CRR but emphasise move 
+towards the objective of CRR reduction which serves the interests of commercial banking 
+system as also monetary policy. While, this may seem to be a logically correct approach, 
+the two-tier system (with a high rate of 10.5 per cent on balances relating to the pre-
+March 1990 period and nil thereafter) results in discrimination against newly established 
+banks or those banks that increase their deposits at a rate higher than that of the system 
+over a prolonged period of seven years. It is inevitable that it would take sometime to 
+reduce the CRR to the statutory minimum. During the transition to the reduction in CRR 
+to the statutory minimum, which will be contingent on moderate money supply expansion, 
+there is a choice between the discriminatory two-tier formula and the non-discriminatory 
+single rate. Uniform rate adopted recently need not necessarily be construed either as a 
+step towards diluting CRR prescriptions to a level where there is no need to pay interest 
+on CRR, or that the RBI would agree in future to increase the rate of interest.  
+Capital Inflows and Build-up of Reserves  
+19. When the RBI intervenes in the forex market and in the process, when it buys U.S dollars 
+(being the intervention currency of RBI), it adds to its foreign currency assets as also to money supply. The reverse happens when it sells U.S dollars. In the recent past, surges 
+of capital inflows have exerted strong influence on the balance of payments and 
+exchange rate. Consequently, there are additions to foreign currency assets and net 
+earnings from deployment of such foreign currency assets. However, in the aggregate, it 
+amounts to substitution of domestic assets with foreign currency assets, to the extent 
+there is corresponding sale through Open Market Operations (OMO). In other words, 
+sterilisation of intervention can be done, i.e., addition to money supply brought about by 
+addition to foreign currency assets through intervention can be neutralised by selling 
+Government Securities in exchange for money. From the point of view of balance-sheet, 
+substitution of domestic assets with foreign assets impacts the income, since returns may 
+be dissimilar and the rupee value of foreign security may also vary.  
+Open Market Operations  
+20. Open Market Operations (OMO) imply that the RBI undertakes to buy and sell 
+Government Securities from participants in the financial markets. The operations could 
+be undertaken on an outright basis or repurchase agreements. The objective of OMO is 
+to absorb or provide liquidity in the market. However, OMO are conducted as an 
+instrument of monetary policy and not with respect to considerations of changes in the 
+portfolio. Nevertheless, OMO have an impact on the balance sheet of the RBI. On certain 
+occasions, when there are capital inflows which need to be absorbed, larger OMO are 
+warranted to sterilise such flows. There is a cost to OMO, but, since the objective is to 
+achieve monetary control, they are not undertaken on consideration of profitability.  
+21. Apart from the cost, there is also an issue of adequacy of eligible securities. In 1997-98, 
+an arrangement was entered into with the government to convert part of the existing 
+special securities into marketable dated securities. The difference in interest between the 
+special securities (4.6 per cent) and the marketable securities (higher coupon) is to be 
+fully compensated by the RBI through a system similar somewhat to that of the RBI 
+compensating Government for FCNRA losses.  
+Domestic Assets  
+22. A central bank should normally acquire domestic assets at its own discretion, either from 
+the primary or secondary markets and at market-related/determined rates of interest. In 
+view of the practice of what has been termed as automatic monetisation, the RBI was 
+extending support whenever Government of India needed such support and in the 
+process acquiring domestic assets of Government. The rate was also fixed at 4.6 per 
+cent. Thus, in the past, the RBI was purchasing ad hoc Treasury Bills from the 
+Government at a fixed rate of 4.6 per cent. They were called ad hoc because they were 
+meant to be very temporary. However, they got accumulated. From time to time, they 
+were converted into what are described as special securities thus, making them 
+securities in perpetuity. These amounted to Rs. 1,10,000 crore and carried interest of 4.6 
+per cent (less than half of the market rate for a ten-year Government Security) .  
+23. As part of reform, the RBI and Government entered into an agreement effective April 01, 
+1997, to replace the system of ad hoc Treasury Bills with Ways and Means Advances 
+(WMA), i.e., temporary advances from the RBI within agreed limits to meet temporary 
+mismatches between receipts and expenditures of the Government. By virtue of the 
+agreement, the RBI acquired greater freedom. First, it did away with the practice of the 
+RBI being involuntarily saddled with assets. Secondly, RBI support would be provided at 
+market related rates. Thirdly, the planned extent of the RBI support to Government was 
+explicitly mentioned in the Government Budget. Fourthly, it gave maneuverability to the 
+RBI since the ceiling on its participation in the primary market was agreed and secondary 
+market transactions could be handled by the RBI to supplement its primary market 
+obligations. Fifthly, as I mentioned before, it provided an opportunity and the mechanisms 
+to convert non-marketable special securities to marketable dated securities.  Intervention in the Foreign Exchange Market  
+24. Intervention in the foreign exchange market impacts the RBI's balance sheet inasmuch 
+as the RBI buys or sells outright spot U.S dollars or enters into swaps or undertakes 
+forward purchase or sale. These transactions result in a change in the composition of 
+NFA and NDA. Incidentally, these have brought to the fore issues of revaluations of our 
+forex holdings and proper accounting practices.  
+Merger of Issue and Banking Department Balance Sheets  
+25. The question of the merger of Issue and Banking Department balance sheets was 
+examined by various Study Groups as well as departmentally within the RBI on a number 
+of occasions in the past, and each time it was decided to continue with the practice of 
+preparing separate accounts of the two Departments. In the light of the introduction of the 
+system of Ways and Means Advances and abolition of ad hoc Treasury Bills, a Study 
+Group was again appointed to have a relook into the issue of merger of Issue and 
+Banking Department Balance Sheets to see whether the list of eligible assets for backing 
+currency issue needed to be expanded. To the extent that the RBI finances the fiscal 
+deficit, the increase in currency would be backed by Government securities which would 
+be an eligible asset of the Issue Department. Such currency expansion would thus 
+automatically generate new eligible assets. However, to the extent the temporary 
+mismatches of the Government would be met through WMA, the Bank would not get 
+fresh assets for backing currency expansion.  
+26. The Group, in its report in 1997, did not, however, favour the merger of the balance 
+sheets of the Issue and Banking Departments. Instead, it recommended that deposits to 
+the tune of about Rs.20,000 crore placed with foreign banks/institutions which are 
+currently not eligible for currency backing, since they are for a maturity of less than ten 
+years, be notified by the Government as eligible assets.  
+Subsidiaries/Associates  
+27. Deposit Insurance and Credit Guarantee Corporation (DICGC) is totally owned by the 
+RBI. DICGC operates both deposit and credit insurance schemes. The world over, there 
+is a debate regarding the issue of providing credit guarantee in a liberalised financial 
+sector scenario. A Committee appointed in 1995 to review the Credit Guarantee 
+Schemes recommended their termination as they were not viable and as they seemed to 
+have outlived their utility. However, the schemes are being continued, in consultation with 
+the Government, but, DICGC increased the premium amount. Consequently, many banks 
+have voluntarily opted out of credit guarantee schemes. Nevertheless, the liability that 
+may fall on the RBI is open ended. The issue of credit insurance perhaps requires a 
+review in the context of the financial sector reforms in India. An issue is whether DICGC 
+should be converted into only a Deposit Insurance Corporation. A related issue is 
+whether DICGC should continue to remain as an extended arm of the RBI or as a 
+separate entity.  
+28. The State Bank of India (SBI), the largest commercial bank accounting for about a 
+quarter of banking business in India was almost wholly owned by the RBI. As part of 
+reform, the SBI accessed capital markets and inducted a large number of private 
+shareholders, including foreign institutional investors. Currently, the law does not permit 
+the RBI shareholding to be sold or to dilute below 55 per cent. The RBI as the largest 
+shareholder, holds about 60 per cent of the total shares. The book value of these 
+holdings is Rs.1,223 crore. The market value at today's price of SBI shares would be far 
+higher.  
+29. The RBI promoted the Discount and Finance House of India Ltd. (DFHI) for activating 
+and deepening the money market and the Securities Trading Corporation of India Ltd. 
+(STCI) for developing an active secondary market for Government Securities and PSU bonds. The RBI has recently disinvested a major portion of its holdings in DFHI. It is also 
+in the process of disinvesting more of its holdings in STCI this year to become a minority 
+shareholder. At the same time, reflecting a somewhat flexible approach, the RBI, along 
+with Government, sponsored Infrastructure Finance and Development Corporation in 
+1996-97. The RBI has also invested in the additional equity of the National Bank for 
+Agriculture and Rural Development (NABARD) (where its share relative to Government 
+has increased) and added to the equity of its 100 per cent owned National Housing Bank.  
+Reserve Policy and Profits Transfer  
+30. The issue of retaining or distributing central bank profits and the appropriate level of 
+capital has become an issue of contemporary relevance the world over. In 1994-95, the 
+statutory auditors of the RBI had suggested that transfers to CR must have a relation to 
+the total size of the balance sheet as also to the size of the profits for the year. They also 
+expressed that a distribution policy of the profits of the Bank should be supported by an 
+express resolution of the Central Board of the RBI. Such a formula could not be 
+established in the past mainly because of provisions necessary to meet the losses arising 
+out of FCNRA Scheme and to meet the exchange losses arising out of India 
+Development Bonds and financial institutions parking facility. During 1996-97, an Informal 
+Group was set up within the RBI under the Chairmanship of Mr. V. Subrahmanyam, 
+Executive Director, Reserve Bank of India to study and recommend suitable guidelines 
+for allocation of RBI's profits. The Group identified three risks as having an impact on the 
+RBI's balance sheet. First, risks arising out of monetary/exchange rate policy 
+compulsions requiring intervention by the RBI in the securities, money and forex markets. 
+Second, risks arising out of revaluation of foreign assets and gold. Third, systemic risks 
+and requirements relating to central bank (developmental role), internal frauds, 
+unforeseen losses, etc.  
+31. The Group recognised that current earnings may not be sufficient to absorb losses on 
+account of open market operations and the losses on depreciation provision for foreign 
+securities held by RBI on account of fall in prices of such securities in the world markets. 
+Such losses have to be absorbed by the CR balances, but, in 1996-97, the level of each 
+reserves was only 4.5 per cent of the total assets. As regards the first risk mentioned, 
+assuming volatility in prices of domestic assets to be 10 per cent and those on foreign 
+securities to be also 10 per cent, a CR balance of 5 per cent of total assets was 
+considered to be desirable for meeting any shocks arising out of open market operations.  
+32. On the second type of risk, having regard to various scenarios involving rupee/dollar 
+movements, dollar/non-dollar rate movements and gold/dollar price changes, the Group 
+concluded that keeping a balance of at least 5 per cent of total assets in the CR is 
+imperative for purposes of absorbing external shocks which would require transfers from 
+CR to EFR. Thirdly, the Group noted that the RBI is expected to continue to provide 
+support for developmental activities. Such support should more appropriately come out of 
+the income of the RBI rather than from "created money" by way of loans/investments. If 
+the current income is insufficient, the CR which is built out of earlier years' profit should 
+provide the requisite cushion to absorb such expenditure. A reserve towards systemic 
+risk/developmental role would seem appropriate. In estimating the quantum of systemic 
+risk, the Bank had also to take care of unforeseen loss which could arise out of problems 
+in the financial system such as bank failures, frauds etc. for which the RBI may have to 
+provide assistance for rescue operations. Keeping in mind the various existing contingent 
+obligations which may crystalise, a reserve of 2 per cent of total assets towards systemic 
+risk/developmental role was recommended by the Group. Out of this reserve, one-half, 
+i.e., 1 per cent of Bank's assets has to be separately earmarked and retained under the 
+head `Asset Development Reserve". The expenditure incurred by the bank on fixed 
+assets such as office equipment, computers etc. and building projects and alterations, as 
+also investments in subsidiaries/affiliates would be deducted from the gross income and 
+kept in the `Asset Development Reserve'.  33. The Board of Central Directors of the RBI approved the recommendations of the Group 
+and agreed that an indicative target for CR at a level of 12 per cent of the size of the 
+Bank's assets would be reached by the year 2005. Thus, the issue of provision for 
+reserve and transfer of balance to Government as profits has been resolved by making it 
+somewhat formula based. Here again, a gradual transition up to 2005 has been worked 
+about, based on projections.  
+Monetary Policy Impact of Reserves 
+and Transfer Policy  
+34. From a monetary policy point of view, would it make a difference whether contingency is 
+met out of reserves or out of created money? It is a tricky issue, and it is better to analyse 
+this.  
+35. As I mentioned earlier, profits of the RBI are credited to reserves and are shown as 
+liabilities of the RBI. When the profits of the RBI are transferred to Central Government, 
+reserves are reduced to that extent from the liabilities side. On the assets side, net RBI 
+credit to Central Government gets reduced by the amount of RBI's profits transferred. If 
+Reserve Bank incurs a loss and if the loss is met out of reserves created for the purpose, 
+the amount of reserve money would remain the same. If Reserve Bank transfers its entire 
+profit to Government and no reserves are maintained for contingent losses in future, then 
+in the case of occurrence of losses in future, the Reserve Bank has to transfer the loss to 
+the Central Government by way of increase in net RBI credit to Central Government. As a 
+result, reserve money would increase to that extent.  
+Conclusion  
+36. In concluding it would be useful to focus on the improvements that have been brought 
+about in the management of the RBI's balance sheet in the context of financial sector 
+reforms.  
+1. Net Domestic Assets is most critical to the RBI's balance sheet. For the RBI to 
+pursue an independent monetary policy, it should have the discretion to 
+determine the acquisition of domestic assets. In the course of the last five years, 
+the RBI has moved from a situation where it had to automatically acquire 
+domestic assets to a situation of limited discretion in agreement with the 
+Government. The RBI and the Government now agree on the maximum amount 
+of Government Securities the RBI would acquire during a year. This increase in 
+net bank credit to Government would be fixed consistent with the overall 
+monetary target. Thus, the discontinuance of the system of ad hoc Treasury Bills 
+and the introduction of the system of Ways and Means Advances (WMA) have 
+conferred a certain degree of autonomy to the central bank in the conduct of its 
+monetary policy.  
+2. The RBI handled the transition to the new system of WMA in a unique manner. 
+The conversion of ad hoc Treasury Bills and Tap Treasury Bills to special 
+securities at 4.6 per cent per annum would signify dead weight assets in the 
+RBI's balance sheet. Any attempt to switch to marketable securities would imply 
+a significant capital loss. The RBI and Government, therefore, have put in 
+mechanisms to convert the special securities into lots of marketable securities 
+with specific tenor. The Government is compensated to the extent of the 
+difference in coupon rates by way of transfers in addition to profits transfer similar 
+to the FCNRA scheme. Thus, the RBI, through an agreement with the 
+Government, converts non-marketable assets into marketable assets, from time 
+to time as per the needs of open market operations. In a way, RBI will have to 
+compensate the Government when it sells these marketable securities though it 
+derives no income but the RBI benefits by not incurring capital loss on those 
+securities.  3. Earlier, the prescriptions of maturity and tenor on SLR securities as also on 
+special securities, rendered the NDA portfolio of the RBI non-tradable. Now, with 
+the Government securities being sold through the auction process and at market 
+related terms, the NDA of the RBI are tradable, rendering greater 
+maneuverability in its open market operations.  
+4. Under the old dispensation, the RBI was obligated to provide foreign exchange to 
+Authorised Dealers. By an amendment to the RBI Act as part of reform, the RBI 
+intervenes in the forex market at its own discretion. Thus, the RBI operates in the 
+foreign exchange market also at its own discretion.  
+5. The RBI had pursued a policy of extending exchange guarantee in respect of 
+foreign transactions. These exchange guarantee schemes have been dispensed 
+with.  
+6. The RBI has put in place a transparent policy of allocation to reserves and 
+transfer of profits to Government.  
+7. There is a commitment to reduce open ended interest obligations such as 
+interest payment on CRR and substantial progress has been made in the 
+reduction of CRR. Here again, the smooth transitional arrangements are worth 
+noting.  
+8. There is a deliberate policy of privatisation (change of ownership and control) as 
+also dilution of ownership (SBI 55 per cent and no minimum for STCI/DFHI) in 
+some subsidiaries/affiliates in a flexible and gradual manner without losing right 
+to support developmental initiatives such as infrastructure. The participation in 
+these activities, now, is an exception than a rule.  
+9. In terms of operations, the premia on credit insurance of DICGC has been raised 
+and the whole issue is under review. There is an attempt to reduce the open-
+ended obligations in this area also.  
+10. A number of improvements have been made in accounting practices. These 
+changes have been brought about, with the active involvement of Auditors and 
+Audit Committee of the Central Board of the RBI, to reflect the demands of 
+ongoing reform.  
+11. The RBI is more transparent and quicker in disseminating information through 
+disclosures, both in the annual accounts and in the Weekly Statistical 
+Supplement to the RBI Bulletin - both of which are accessible in internet.  
+37. The above, by any standards, are impressive achievements, brought about through close 
+coordination between the RBI and the Government. It also reflects the statesmanship and 
+sagacity of those who led the Treasury and the central bank during the last five years.  
+Thank you. 
+ 

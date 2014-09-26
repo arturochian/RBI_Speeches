@@ -1,0 +1,1323 @@
+March Reserve Bank of India Bulletin 2004
+Finance for Industrial Growth*
+RAKESH MOHAN
+It is indeed a privilege and an honour whom the lecture is named. The theme of
+for me to deliver the Mohan today's lecture is to examine the adequacy of
+Kumaramangalam Memorial Lecture here at finance for growth in the Indian context with a
+the Administrative Staff College of India. special focus on industry.
+Mohan Kumaramangalam was one of the
+I. Introduction
+most distinguished public servants of his
+Finance is a crucial ingredient for
+generation. His untimely and unfortunate
+economic growth. In this lecture, I propose
+death in a plane crash in 1973 deprived India
+to examine the adequacy of the availability
+of a worthy son. A leftist in his student days
+of finance for fuelling growth in the late
+in England, Mohan Kumaramangalam was a
+1990s, a period during which Indian
+leading light of Mrs. Gandhi's cabinet. His
+economic growth has tended to slow down,
+enduring contribution was to create the
+particularly in the industrial sector. Although
+concept of a holding company of allied public
+I am concerned with overall economic
+sector units, with a degree of autonomy from
+growth, my focus in this lecture is on the
+the red tape of direct government control. It
+financing of industrial growth.
+is entirely appropriate that the Steel Authority
+of India, which was his brainchild as minister
+The way we think about the modes of
+for steel, has instituted this lecture in his
+financing industrial development has been
+memory. Whereas it is primarily my current changing over the years (Levine, 1997). The
+interest that prompted me to choose the
+initial literature focused on the need to
+theme of today's lecture, "Finance for
+develop extensive financial systems that could
+Industrial Growth", I would imagine that this tap savings and then channelise the funds so
+theme would have been close to his heart.
+generated to a wide spectrum of industrial
+activities. It has been realised gradually that
+It is, of course, risky to talk on this subject
+the mode of provision of industrial finance is
+in front of Mr. Narasimham, Chairman of the
+as important for fostering industrial growth as
+Administrative Staff College of India, who has
+is the quantum of funds. Cross-country
+been a former Governor of the Reserve Bank
+experience suggests that economies that
+and also author of the most influential reports
+have mature financial systems for allocating
+on the financial sector. So my talk today is
+funds efficiently among competing uses tend
+really about marrying the interest of today's
+to grow faster. Well-functioning banks,
+Chairman and Mr. Kumaramangalam after
+Dr. Rakesh Mohan is Deputy Governor, Reserve Bank of India. He is grateful to Partha Ray, Indranil Sen Gupta
+*
+and A. Prasad of the Reserve Bank of India for their assistance.
+319March Reserve Bank of India Bulletin 2004
+financial institutions and other financial In this background, I propose to examine
+intermediaries such as venture capital funds if financing is now forming a constraint in the
+promote technological innovation and growth process. To do this, I will first review
+industrial growth by providing risk capital and the alternative approaches to financing
+funds to those entrepreneurs who have the patterns as they exist in different countries and
+highest probability of developing new as they have evolved. I will then trace our
+products, production processes and own history and briefly review reforms in the
+competitive production facilities. The Indian financial sector in India. I will, thereafter,
+financial sector reforms of the 1990s, largely examine the performance of banks and
+guided by the two excellent reports authored financial institutions in recent periods. It is in
+by Mr. Narasimham (1992, 1998), have been this context that I propose to look into how
+designed to adapt the Indian financial system the major contours of the financing pattern of
+to the new realities of an open competitive Indian industries have changed over time.
+economy in a globalising world. What are the key stylised facts of the
+financing of Indian industries? What has been
+The key objective of India's economic
+the nature and dimension of changes that
+reforms initiated in the early 1990s was to
+have occurred in the financing pattern in the
+accelerate growth. The reform process of the
+recent period? Has Indian industry been
+1990s did help to accelerate overall economic
+credit-starved? Have the financial
+growth over that of the 1980s, but only
+intermediaries done their task? I will finally put
+marginally (RBI, 2003). Real gross domestic
+forward some ideas for discussion for further
+product (GDP) grew at 5.9 per cent during
+improvement of the financing system.
+the reform period (1992-93 to 2002-03),
+higher than that of 5.6 per cent in the pre- The rest of the lecture is formally
+reform period (1981-82 to 1990-91) (Table 1). structured as follows. As a perspective,
+Growth in both industry and agriculture has Section II takes a look into the framework of
+been slow after the initial burst in the 1990s, corporate financing in India. Sections III and
+although growth in the tertiary sector has IV delve into the pre-1990s and post-reform
+accelerated somewhat (Acharya, 2002). model of industrial finance in India. Section V
+is essentially futuristic in nature and discusses
+Table 1 : Sectoral Growth in the 1980s and 1990s
+the options of long-term finance in India.
+Sector 1981-82 to 1992-93 to 1994-97 1997-2002
+1990-91 2002-03
+Concluding observations are presented in
+1 2 3 4 5
+Section VI.
+Agriculture and
+Allied Activity 3.5 3.3 4.6 1.9 II. Framework for Corporate Financing
+Industry 7.9 6.3 10.8 4.0
+To set the stage, let me start with the
+Manufacturing 7.6 6.7 12.2 3.8
+basic framework of corporate financing.
+Services 6.4 7.5 7.9 8.0
+Corporate entities raise capital from either
+GDP 5.6 5.9 7.5 5.5
+Source: Central Statistical Organisation a) internal sources, essentially retained
+320March Reserve Bank of India Bulletin 2004
+profits, or b) external sources. External funds based, because the lenders are few and
+are accessed from sources outside the firm large. At the risk of broad generalisation,
+through the issue of equity capital and debt bank-based systems tend to be stronger in
+instruments. Equity capital can be raised from countries where governments have taken a
+the firm's promoters or the capital market that direct role in industrial development, such as
+taps institutional investors, mutual funds and Germany, in the 19th century, and Japan, East
+retail investors. Debt can be raised through Asia, South-East Asia, China and India, in the
+th
+floatation of corporate bonds or borrowing 20 century.
+from banks and non-bank financial
+The basic point of partition between the
+intermediaries. An important aspect of the
+two systems is that in the one case, corporate
+growth process that has been widely
+entities interact with the intermediary, say a
+discussed in recent times is the type of the
+'bank', whereas in the other, they directly
+financial system that is most conductive to
+approach the "public" for finance. This
+growth. Seen from this standpoint, most of the
+distinction between a 'bank-based' and a
+systems of industrial finance in developed
+'market-based' system is not a water-tight
+countries can be grouped into two clear
+compartment; on the contrary, it has become
+systems. At one end is the Anglo-American
+blurred in recent years with the
+model of market-based finance where financial
+institutionalisation of the sources of finance
+markets play an important role and the role
+all over the world. The blurring of the
+of the banking industry is much less
+distinction has emanated from the gradual
+emphasised. At the other extreme is the
+spread of universal banking, spanning the
+Continental/Japanese model of bank-based
+entire range of financial services across
+finance, in which savings flow to their
+commercial banking, insurance and securities
+productive uses predominantly through
+(investment as well as underwriting). This has
+financial intermediaries such as banks and
+been fortified by the emergence of institutional
+other financial institutions, and the capital
+investors, in the capital market, including
+market is less important for the raising of
+mutual funds, which, for example, have an
+funds.
+asset base of as much as 70 per cent of GDP
+Most of the industrial financing systems
+in the US.
+have evolved endogenously from their own
+There are also historical reasons for this
+particular circumstances of economic history
+emerging convergence. A number of
+- and have their own success story to tell or
+countries, including the USA segregated
+otherwise. The market-based system is
+banking and securities trading in their financial
+relatively impersonal because the sources of
+licensing laws as it was believed that direct
+funds could actually be atomistic household
+commercial bank involvement in corporate
+savers, directly or indirectly through mutual
+securities would involve significant conflicts of
+funds, pension funds or insurance funds. The
+interest. It was only recently that the US
+bank-based systems are more relationship-
+321March Reserve Bank of India Bulletin 2004
+Financial Services Modernisation Act of 1999 Domowitz, Glen, and Madhavan (2000) for
+repealed the Glass-Steagall Act of 1933, details] outstripping bank credit offtake. Equity
+which had prohibited commercial banks from markets, especially in the G-4 markets and
+underwriting, holding or dealing in corporate the East Asian tigers, also grew explosively -
+securities, whether directly or through although much slower than that of the bond
+securities affiliates. A number of emerging market. Corporate bond markets remain
+market economies, such as Argentina (1991), underdeveloped in most emerging markets
+Chile (1997-98), Indonesia (1995) and since they are more difficult to develop than
+Malaysia (1991) have also recently liberalised equity markets.
+restrictions governing banks' exposures to the
+III. The Pre-Reform Model of Industrial
+capital markets.
+Finance in India
+Beyond the partition based on risk
+How did India fare in the domain of
+characteristics, it will be recognised that the
+industrial finance? The Indian economy, like
+need for diversification of the financial
+most of the former colonial economies,
+structure is also driven by the demand for
+adopted a path of planned development after
+funds of different tenors. Banks, for example,
+Independence. This was, in a sense, dictated
+are a natural source of working capital
+by the compulsions of contemporary political
+because their resource base essentially
+economy. While there was a wide consensus
+emanates from the economy's transaction
+that economic growth could only spring from
+processes, and the funds available with them
+large-scale industrialisation, in consonance
+are of a short-term nature. Bond markets are
+with the contemporary big-push theories of
+relatively more flexible because they can
+economic development, it was thought that
+mediate both the short-term corporate funds
+firms lacked the resources to finance such
+as well as long-term household saving.
+rapid growth. The strong preference for self-
+However, in the absence of developed capital
+reliant growth in view of the mercantilist roots
+markets, there arises a need for specialised
+of colonialism, reinforced by faith in the nation
+financial institutions - the so-called
+- building capacity of the polity shaped by the
+development financial institutions - which
+successful freedom movement - led to a state-
+provide project finance.
+led development strategy during the 1950s.
+The process of corporate financing is This preference was also reinforced by the
+changing all over the world. There has been, perceived success of the State led Russian
+for example, a sharp jump in market-based model, that was so visible in the immediate
+financing during the 1990s driven by a post-World War II period.
+combination of financial liberalisation and high
+The industrial financing strategy adopted
+growth. Private bond markets grew especially
+in the 1950s centred around the Government
+rapidly, jumping 500 per cent between 1980-
+as the primary entrepreneur in the economy.
+85 and 1992-97 by one estimate, [see
+The state-led development initiatives had two
+322March Reserve Bank of India Bulletin 2004
+distinct avenues, viz., a) direct investment to provide a cushion to DFIs by
+from the government budget (such as in case offering guarantees on bonds issued
+of irrigation projects, construction of dams, by them along with special access to
+and railways), b) public enterprises (such as concessional funds from the Reserve
+the steel plants - "the temples of modern Bank.
+India") often funded by budgetary provisions,
+l Corporate entities could supplement
+and government guaranteed bonds. This was
+these forms of funding by resource
+reinforced by the channeling of public saving
+mobilisation from the capital market,
+by an elaborate banking network to the
+but this also needed government
+"socially productive" uses by an elaborate
+approval within the constraints of the
+mechanism of directed credit programmes and
+credit allocation process.
+concessional interest rates for "priority
+A natural corollary of the planning
+sectors".
+process was then the conscious adoption of
+As a result, the role of the financial
+a model of the bank-based mode of financing
+system was restricted to the channelling of
+as against a model of market-based financing,
+resources from the savers to the users in line
+which was adopted in some emerging
+with the "socially productive" pattern of
+countries. Although the capital markets in
+resource allocation, charted by the planning
+India were among the oldest in Asia, the role
+process. The emphasis, thus, lay in building
+of equity as a mode of financing was not
+a financial system with a widespread network,
+considered as important because of the
+not only in terms of the geographical spread
+limited attraction that risk capital was
+and socio-economic reach but also in the
+perceived to have for projects with a long
+functional sense, in terms of specialised forms
+gestation lag.
+of finance, through developmental finance
+There can be little doubt that the basic
+institutions. The resultant financing strategy for
+objective of developing an extensive financial
+industrialisation, as it then emerged, rested
+network was, by and large, fulfilled by the
+on four building blocks:
+early 1990s, especially following the spread
+l Banks would provide short-term
+of the branch bank network following the
+working capital, with appropriate
+bank nationalisations of 1969 and 1980
+allocations for the priority sector.
+(Table 2).
+l Development Finance Institutions
+The corporate financing strategy, as it
+(DFIs) would provide medium- to
+evolved, was, however, inextricably linked to
+longer-term funds for the corporate
+the fiscal position, because of the assumption
+sector.
+that public investment would eventually
+l Since banks had a readymade access generate surpluses for the social good. As
+to cheap resources by way of banking fiscal deficits began to enlarge, the entire
+transactions, the Government sought financial system began to be geared to
+323March Reserve Bank of India Bulletin 2004
+Table 2 : Progress of Commercial Banking Table 3 : Ownership Pattern of Banks (in 2001)
+in India
+Country Per cent of Total Bank
+Assets Government Owned
+Indicator June June March March March
+1969 1980 1990 2000 2002
+India 80
+1. Number of
+South Korea 30
+Scheduled
+Thailand 31
+Commercial
+Banks Indonesia 44
+of which: 73 148 270 297 293
+Malaysia 0
+Regional Rural
+U.K 0
+Banks — 73 196 196 196
+Germany 42
+Other Scheduled
+Canada 0
+Commercial Banks — 75 74 101 97
+U.S.A 0
+2. Number of Bank
+Offices 8,262 32,419 59,752 67,868 68,195
+Source : Levine (2001).
+3. Per Capita
+Deposits (Rs.) 88 494 2,098 8,542 11,008
+Thus, the difficulty was that the Indian
+4. Per Capita
+financial system, though extensive, was
+Credit (Rs.) 68 327 1,275 4,555 5,927
+5. Population per Bank limited in its ability to allocate resources
+Branch (thousand) 64 21 14 15 15
+efficiently. A number of structural bottlenecks
+Source : Statistical Tables Relating to Banks in India, RBI.
+emerged in the process. First, a combination
+funding the Government's budgetary needs. of an administered interest rate regime and
+Banks' statutory liquidity ratio, originally a
+directed credit controls prevented proper
+prudential requirement for solvency, was
+pricing of resources. Second, most financial
+steadily raised to provide a captive market intermediaries remained confined to markets
+for public debt. Although interest rates were
+relating to their area of operation because
+initially kept artificially low, even at the cost
+of balance sheet restrictions, leading to
+of financial repression, to contain the interest market segmentation. Finally, there was the
+cost of public debt, the return on government
+problem of missing markets, especially at the
+securities was steadily raised to enhance
+shorter end, with caps even on the inter-bank
+their attractiveness to the market. As it got rate. Hence, although the Indian banking
+increasingly difficult to get voluntary
+system has grown tremendously, it has a long
+subscriptions even at higher rates of return,
+way to go. Even relative to other developing
+the Government resorted to a large-scale countries, the ratio of bank assets/GDP for
+monetisation of the fiscal deficit by the end-
+India continues to be low (Chart 1).
+1980s. Concomitantly, the Reserve Bank had
+The role of banks as financial
+to raise reserve requirements in order to
+intermediaries can, therefore, be expected to
+contain the inflationary impact of deficit
+grow significantly in the years to come.
+financing. By the early 1990s, statutory pre-
+Surprisingly, the population serviced by a
+emptions of banks amounted to over 60 per
+bank branch is also much higher in the
+cent of deposit mobilisation. This process
+Indian case than in many other countries
+was accentuated by the Government
+(Chart 2).
+ownership of banks (Table 3).
+324March Reserve Bank of India Bulletin 2004
+It is against this backdrop that financial At the heart of financial reforms lay the
+sector reforms were initiated in the early need to contain the propensity of the
+1990s. There was clearly the need to reduce Government to preempt resources from
+the role of Government in the allocation of financial institutions through fiat. The 1990s
+resources in the economy. As this process saw three fundamental changes in the
+would unfold, a competitive environment was relationship between the fisc and the financial
+sought to be created in the financial sector to system. First, the Government securities market
+enhance the allocative efficiency of financial was transformed to a market-determined price
+markets as a whole. Such financial sector discovery process by switching over to an
+reforms would then accelerate the overall auction mechanism for sale. This enabled the
+economic growth process. rest of the segments of the financial markets
+325March Reserve Bank of India Bulletin 2004
+to price off this market. Second, the reduction IV. Sources of Finance for Indian
+in the statutory liquidity requirements to the Industries during the 1990s
+minimum of 25 per cent of demand and time
+It is now instructive to review the financing
+liabilities freed resources of the banking system
+patterns for industry during the 1990s. The
+for credit. However, public sector banks
+general impression that has gained ground is
+presently continue to hold about 40 per cent
+that bank finance for industry has gone down.
+SLR bonds voluntarily. Third, the phasing out
+A closer look at the major sources of industrial
+of the process of automatic monetisation of the
+finance as a proportion of GDP (Table 4) brings
+fiscal deficit, rendered a sense of autonomy to out clearly the following stylised facts. First,
+the Reserve Bank and enabled it to gradually banks have kept up their credit to industry. Not
+cut reserve requirements to the current level only has there been an increase in the
+of 4.5 per cent. proportion of conventional credit to GDP, in
+addition there has also been resource flow in
+The traditional model of industrial
+the form of investments in non-SLR instruments
+financing thus began to crumble by the mid-
+- such as commercial paper, corporate bonds
+1990s. The dismantling of the administered
+and equity. Second, financing from FIs to
+structure of interest rates allowed the
+1
+industry has clearly fallen. The decline has
+emergence of market-based interest rates so
+been sharper in recent years because of the
+that resources could be allocated by market
+conversion of ICICI into a bank as well as the
+signals. Besides, the gradual withdrawal of
+problems besetting Industrial Finance
+restrictions on both the assets and liabilities of
+Corporation of India. The key change that took
+the banks and non-bank financial institutions
+place in the late 1990s is the virtual collapse of
+enabled them to optimise their portfolios across
+the capital market as a source of industrial
+instruments of varying risk and tenor according
+finance. Correspondingly, as might be expected,
+to their commercial judgment, consistent with
+the demand for debt from the DFIs also fell,
+the process of price discovery. Further,
+which was compensated to a certain extent, by
+concessions, such as availability of government
+the participation of banks in subscribing to bond
+guarantees and central bank funding for
+issues and other debt instruments of corporate
+financial institutions, were gradually phased out
+entities through the private placement route. The
+in the process of market integration. By the late
+exuberance of investment activity in the mid-
+1990s, therefore, the Indian financial system was
+1990s also led to the creation of over capacity
+enabled to develop in such a way as to compete
+in industry, including some uncompetitive
+in the increasingly open economy.
+capacity that led to erosion of profits which, in
+1
+In order to obtain DFIs’ support to the industrial sector, estimates of sanctions and disbursements of DFIs, being
+in gross terms (i.e., without taking account of the repayments), may have been misleading. Instead, we have
+taken the investments and loans and advances of the major DFIs. In particular, in order to arrive at an estimate
+of DFIs’ support to industrial finance, we have added the following items, viz., investments & credit to industrial
+concerns by IDBI, equity investments, debentures & loans and advances of IFCI; investments in bonds & equity
+and Rupee and foreign currency loans of ICICI, credit by IIBI (since investments are negligible); loans & advances
+and investments (including government securities in absence of break-up) of SFCs; and loans & advances to
+industrial concerns and commercial investments of SIDBI.
+326March Reserve Bank of India Bulletin 2004
+Table 4 : Major Sources of Industrial Finance
+turn, perhaps explains the poor performance of
+(as percentage of GDP at current market prices)
+the stock market during this latter period. With
+Year Banks
+the recovery of corporate profits in 2002-03 and
+Non-SLR Capital Total
+its continuation in 2003-04, the stock market has Credit Investments DFIs Market
+1970s 1.8 0.3 0.1 2.2
+recorded high growth since May 2003. With the
+1980s 2.7 0.7 0.6 4.0
+prevailing low interest rates, and a recovery of
+1990s 2.6 1.0 1.2 4.8
+1992-93 to 1996-97 2.9 1.0 1.9 5.8
+the stock market, we can now expect some
+1997-98 to 2001-02 2.7 0.7* 0.6 0.2 4.2
+increase in industrial investment demand.
+* Non-substantial prior to mid-1990s.
+1. Banks' support includes conventional credit in the form of loans and
+Overall also, non-food credit has increased
+advances and bills rediscounted.
+2. Capital market support to the industrial sector has been taken to be new
+as a proportion of GDP in the past few decades
+capital issues by non-Government public limited companies (i.e., ordinary
+reflecting both the demand for credit per se as
+shares, preference shares & debentures) and their ordinary shares.
+Source : Handbook of Statistics on the Indian Economy 2002-03, RBI.
+well as an acceleration in the process of
+monetisation with the spread of branch banking. Thus there is reasonable evidence, at least
+This ratio continued to increase during the post- in the aggregative sense, to suggest that Indian
+reform period as well though it had fallen industry has not been starved of bank credit in
+somewhat in the early 1990s, even though the recent years. A related question is the adequacy
+process of monetisation is now more or less of finance is across all sectors. Were there any
+complete (Chart 3). This, in turn, suggests that specific sectors that did not get adequate
+there has been no credit constraint as far as finance? The picture is really no different when
+2
+we look at the sectoral numbers (Table 5) .
+industry is concerned during the late 1990s.
+2
+The demand for credit, when seen as an essential input to the production process, has to be linked to the value
+added. While for aggregate non-food gross bank credit, GDP at current prices would be the appropriate
+normalisation factor, for credit going to agriculture and industrial sectors, as well as, to the SSI sector, we have
+tried to capture their appropriate contribution in value added. For credit going to the agricultural and industrial
+sectors, we have taken GDP (at current factor cost) originating in ‘agriculture and allied activities’ and
+‘manufacturing’. As far as ‘GDP originating in the SSI sector’ is concerned, there is no readymade estimate –
+therefore, we have taken the GDP originating in unregistered manufacturing and added to it the contribution of
+the SSI sector in organised manufacturing as revealed from the Annual Survey of Industries [Mohan (2001)].
+327March Reserve Bank of India Bulletin 2004
+Table 5 : Sectoral Distribution of Non-food
+commercial sector and increasingly, the rest
+Gross Bank Credit
+of the world. With the increase in fiscal deficit
+(as per cent of relevant GDP)
+of the Government in the late 1990s, at a
+Year Agricultural Industrial SSI Credit/ Non-Food
+macro level, we could not expect an overall
+Credit/ Credit/ SSI GDP Gross Bank
+Agricultural Manu- Credit/GDP
+reduction in banks' subscription to SLR bonds.
+GDP facturing
+GDP
+However, if there had been buoyant private
+1 2 3 4 5
+sector credit demand we would have
+1980s 10.0 65.6 38.9 19.9
+observed hardening of real interest rates,
+1990s 9.2 68.4 43.8 20.6
+rather than the softening that has been
+1992-93 to
+1996-97 8.9 65.9 42.4 20.1
+observed in the last 2-3 years.
+1997-98 to
+2001-02 10.0 71.9 45.3 21.6
+The more serious issues in the flow of
+Source: (1) Handbook of Statistics on Indian Economy 2002-03, RBI, for
+resources to industry in the late 1990s thus
+sectoral deployment of credit data.
+centre around the problem of the gradual
+(2) National Accounts Statistics, CSO for manufacturing and
+agricultural GDP.
+shrinkage of development financial institutions,
+(3) Author's calculations for SSI-GDP.
+as a sector, on the one hand and the
+The correct way to evaluate adequacy
+lacklustre performance in the functioning of
+of the trend in sectoral credit is to look at it
+the capital market, on the other hand. There
+as a proportion of sectoral value added.
+is also the issue of corporate profitability which
+Insofar as the sectoral credit trends are
+might have affected the latter phenomenon.
+concerned, the above data indicate that the
+Comparison of Banks and FIs
+fall in the agricultural credit- agricultural GDP
+ratio during the 1990s has been arrested in
+The process of financial sector reform
+recent years. In fact, as a ratio to
+has changed the operating environment in
+manufacturing GDP, credit to the industrial
+which the financial institutions, banks and non-
+sector has experienced a steady upward
+bank intermediaries operate. Until the early
+trend. Interestingly, contrary to popular
+1990s, the role of the financial system in India
+impression in terms of the ratio to its GDP,
+was primarily restricted to the function of
+credit to the SSI sector has exhibited a steady
+channeling resources from the surplus to
+increase.
+deficit sectors. Reforms in the financial sector
+created a deregulated environment and
+It might still be argued that reduction in
+enabled relatively free play of market forces.
+the SLR stipulations from about 38.5 per cent
+It also altered the organisational structure,
+to 25 per cent should have spurred a larger
+ownership pattern and domain of operations
+quantum of bank credit than what has been
+of institutions and infused greater competition.
+achieved. At the same time, while the
+In order to appreciate the consequential
+reduction in statutory pre-emptions does
+impact on the resource flow, it is useful to
+enhance credit availability, the actual supply
+study the impact of financial sector reforms
+is contingent on credit demand and banks'
+on each segment of financial intermediaries.
+own allocations across the Government, the
+328March Reserve Bank of India Bulletin 2004
+Table 6 : Banking Sector Performance
+In the case of banks, there have been,
+(Per cent of assets)
+in particular, three clear elements of change.
+Variable G-3 (1999)
+First, banks now have greater operational
+India (1999)
+countries
+flexibility and functional autonomy in terms of
+Public Sector New Private
+Banks Sector Banks
+pricing and resource allocation. Second, the
+1 2 3 4
+strengthening of prudential norms has resulted
+Spread 2.8 2.0 2.0
+in the clean-up of balance sheets of banks,
+Other income 1.2 1.5 1.0
+and reinforced financial stability. Third, the
+Operating cost 2.7 1.7 1.8
+Loan Losses 1.0 0.8 0.3
+banking sector is facing increased pressure
+Net Profits 0.4 1.0 0.8#
+of competition, from both within the banking
+# Refers to pre-tax profits.
+system, with the emergence of new banks and
+Source : Report on Currency and Finance, 2001-02, Report on Trend and
+from other intermediaries and to some extent,
+Progress of Banking in India, 1999-2000, RBI.
+from the capital market.
+Financial Institutions
+There is very little doubt that the
+The operating environment of DFIs
+banking sector has recorded improvements
+underwent a radical change in the 1990s. DFIs
+in profitability, efficiency (in terms of
+are facing new challenges both on the asset
+intermediation costs) and asset quality in the
+and liability sides. Concessional sources of
+1990s. Within the commercial banking
+funds have dried up and financial institutions
+system, public sector banks however,
+are raising resources including short-term funds
+continue to have higher interest rate spreads
+at market related rates. On the asset side, the
+but at the same time earn lower rates of
+distinction between banks and DFIs is getting
+return, reflecting higher operating costs.
+blurred as both are offering long and short-
+Private sector banks, on the other hand,
+term financing. Further, both banks and DFIs
+appear to have lower spreads as well as
+together face competition from market based
+lower operating expenses comparable to the
+modes of financing.
+banking system in G3 countries (Table 6). At
+The difficulties faced by the DFIs in the
+the same time, asset quality is weaker so
+late 1990s are reflected in a gradual
+that loan loss provisions continue to be
+shrinkage of their balance sheets. Lending by
+higher. This suggests that, whereas there is
+the DFIs has fallen continuously over the last
+greater scope for enhancing the asset quality
+5-7 years. This has led to a growing body of
+of banks in general, public sector banks, in
+opinion that DFIs are intrinsically
+particular, need to reduce operating costs
+uncompetitive, especially because of a legacy
+further. Although higher administrative
+of high-cost long-term liabilities and poor asset
+expenses are often explained away by the
+quality. A closer look at the balance sheets
+large branch network, it should be borne in
+suggests a mixed bag.
+mind that banks in the G-3 countries actually
+The most striking feature is that the
+have a lower ratio of population per branch
+profitability of DFIs as a group remains, by
+ratio (see Chart 2).
+329March Reserve Bank of India Bulletin 2004
+and large, comparable to that of banks (Chart
+degree of manoeuverability enabling them to
+4). This is essentially because operating costs
+cut interest expenses faster in a scenario of
+of DFIs are lower than that of banks, because
+declining interest rates. Another issue is that
+these financial institutions do not have a wide
+while interest income for DFIs is typically higher
+branch network.
+than that of banks because of the longer tenor
+This advantage of low operating costs is, of commitments, the spread between the two
+has been narrowing in recent years with the
+however, largely neutralised by the fact that
+drying up of the demand for project finance as
+their interest costs are higher than banks
+(Chart 5). While it is true that interest costs well as the emergence of alternate sources of
+longer-term funding. Together with the rigidity
+are likely to be always higher because DFIs
+in interest expenses, this has been squeezing
+raise longer-term funds, the shorter tenor of
+the banks liabilities allows them a far greater the profitability of DFIs. An interesting fact is
+330March Reserve Bank of India Bulletin 2004
+of roles: banks were to fund working capital
+that the operating expenses of new private
+requirements while DFIs (and to the extent
+sector banks are comparable to that of the
+possible, the capital market) were to cater
+DFIs. This suggests that financial institutions
+to longer-term financing needs of the
+are likely, sooner than later, to face a challenge
+economy. The downscaling of operations of
+from new private sector banks whose interest
+DFIs, together with sluggishness in the
+costs are much lower (Chart 6).
+capital markets in recent years has created
+It is thus not entirely obvious,
+a gap at the longer end of the institutional
+conventional wisdom notwithstanding, that
+financing spectrum in the Indian economy.
+DFIs cannot be competitive. There is no doubt
+This inevitably brings us to the possible role
+that, with no access to current deposits, their
+that banks could play in bridging this gap.
+average cost of funds will always be higher
+The tenure of funds provided by banks
+than that of banks. But this is compensated
+either as loans or investments depends
+by lower operating costs since they typically
+critically on the overall asset-liability position.
+do not need a large branch network. But as
+An inherent difficulty in this regard is that
+banks continue to cut down their own
+since deposit liabilities of banks often tend
+operating expenses, DFIs will also have to
+to be of relatively shorter maturity, long-term
+gradually reduce their operating costs further
+lending could induce the problem of asset-
+in order to maintain their commercial viability.
+liability mismatches. The maturity structure of
+This underscores the need for DFIs to pay
+commercial bank deposits in 2002 shows that
+greater attention to their non-performing
+less than one fifth is of a tenor of more than
+assets, and to address legacy issues.
+three years, and less than 7.0 per cent for
+Bank Financing of Long Term Assets
+private banks (Table 7).
+The traditional model of corporate On the asset side, nearly 40 per cent has
+financing was based on a clear-cut partition
+already been invested in assets of over three
+331March Reserve Bank of India Bulletin 2004
+Table 7 : Maturity Profile of Bank Liabilities
+analysis of the relative roles of banks and
+(Percentage share in Total Liabilities)
+financial institutions in term lending for financing
+Maturity SBI Nationa- Foreign Indian Total
+growth suggests that there is a greater need
+Range lised Banks Private
+Banks Banks
+to think about the future of DFIs. The structure
+ 1 2 3 4 5 6
+of their relative costs suggests that, if the
+Up to
+legacy problems of DFIs are addressed they
+one year 19.3 35.5 61.9 56.5 37.8
+Over one year
+may not be intrinsically uncompetitive in their
+to 3 years 59.4 47.5 17.6 36.8 46.1
+financing operations. They will have to improve
+Over 3 years 21.3 17.0 20.5 6.7 16.1
+their operating efficiency through the use of
+TOTAL 100.0 100.0 100.0 100.0 100.0
+Source :  Statistical Tables relating to Banks in India, RBI.
+technology and other means in order to bring
+down operating costs further. Their comparative
+years maturity, mostly in investment
+advantage in relevant skills for appraising
+instruments, primarily SLR bonds. Only about
+projects will continue to give them an edge
+10 per cent is invested in loans and advances
+over commercial banks in their operations.
+(see Table 8).
+They will also need to diversify their operations
+In view of the large demand by the
+to take advantage of the new opportunities
+Central and State Governments for funds for
+offered by the opening of the capital market
+long-dated government paper, there is little
+and use of new investment techniques around
+flexibility left for extension of longer-term credit
+instruments.
+by banks to infrastructure, industry, agriculture
+Banks also have some capacity to invest
+and other productive sectors. Any larger
+in longer term assets, but this capacity will
+investment by banks in longer term assets
+remain highly limited until the fiscal deficit
+could result in asset-liability mismatches. This
+remains as high as it is and Government
+Table 8 : Maturity Profile of Bank Assets
+demand for investment in long dated bonds
+(as percentage share of Total Assets)
+remains high, even though they are of course
+Maturity SBI Nationa- Foreign Indian Total
+tradable. Some enhancement of their capacity
+Range lised Banks Private
+Banks Banks
+to invest in infrastructure, industry and
+ 1 2 3 4 5 6
+agriculture in longer gestation projects can be
+Loans and
+enhanced by allowing a limited recourse to
+advances 44.1 53.5 58.4 52.3 51.1
+longer term bond issues.
+Up to one year 19.0 21.9 38.3 25.9 23.1
+Over one year
+V. Capital Markets
+to 3 years 14.5 17.9 11.9 19.0 16.8
+Over 3 years 10.6 13.7 8.1 7.4 11.2
+The Indian capital market began to
+Investments 55.9 46.5 41.6 47.7 48.9
+expand in the late 1980s (Table 9). This was
+Up to one Year 9.1 3.9 18.8 14.8 8.5
+Over one year abetted by wide-ranging reforms in the capital
+to 3 years 11.3 6.0 9.7 10.7 8.6
+markets, in terms of reviving the process of
+Over 3 years 35.5 36.6 13.1 22.3 31.7
+price discovery, enhancing transparency and
+TOTAL 100 100 100 100 100
+improving trading and settlement practices.
+Source : Statistical Tables relating to Banks in India, RBI.
+332March Reserve Bank of India Bulletin 2004
+Table 9 : Capital Market Indicators
+While there was a sharp increase in
+(Percentage of GDP)
+market capitalisation as a percentage of GDP
+Year BSE Market New Equity Issues
+during the 1990s, the share of capital issues
+Capitalisation
+to GDP, a measure of resource mobilisation
+1 2 3
+1980s 9.2 0.2 by the capital markets, followed an inverted
+1990s 37.0 0.7
+U curve during the 1990s. The spurt in
+1992-93 to 1996-97 37.8 1.1
+capital issues beyond 1.0 per cent of GDP
+1997-98 to 2001-02 33.8 0.1
+during 1993-96 could not be sustained with
+2002-03 23.1 0.01
+Source : Handbook of Statistics on Indian Economy 2002-03, RBI. the onset of the economic slowdown in the
+latter half of the 1990s. As a result, capital
+The reforms in the capital markets during the
+issues, especially equity issues, dwindled to
+1990s in terms of market microstructure and
+the 1970s' levels (as a proportion of GDP)
+transactions have ensured that the Indian
+in the latter half of the 1990s. In fact, public
+capital market in particular is now comparable
+capital issues by non-Government public
+to the capital markets in most developed
+limited companies declined to 0.2 per cent
+markets. The early 1990s saw a greater
+of GDP during 1998-2002 from 1.9 per cent
+willingness of the saver to place funds in
+during 1992-97 and 0.6 per cent during the
+capital market instruments, on the supply side
+1980s. Besides, public equity issues by non-
+as well as an enthusiasm of corporate entities
+Government public limited companies
+to take recourse to capital market instruments
+declined to 0.1 per cent of GDP during 1998-
+on the demand side. The size of the capital
+2002 from 1.1 per cent during 1992-97 and
+market is now comparable to other developing
+0.7 per cent during the 1980s.
+countries but there is still a long way to go. It
+The market for corporate debt is still in
+is important to note that developed economies
+the process of development in the Indian
+with bank-based systems, such as Germany
+economy, as is the case with most
+and Japan, also have capital markets with
+developing economies. The private
+substantial market capitalisation in relation to
+placement market has emerged as an
+GDP (Table 10).
+important source of resource mobilisation in
+Table 10 : Capitalisation of Stock Markets
+the Indian debt market. The first steps in
+(Percentage of GDP)
+development of the debt market have been
+Economy 1990 1999
+taken through development of the
+1 2 3
+government securities market. The issue of
+Japan 98 105
+Germany 22 68
+government bonds through auction, and their
+UK 86 203
+active trading by banks has led to the
+USA 53 182
+emergence of a sovereign yield curve. Steps
+Indonesia 7 45
+Malaysia 110 184
+have also been taken, though still in their
+Thailand 28 47
+infancy, to enable active trading of
+India 12 41
+government securities in the stock
+Source : World Development Indicators, 2001.
+333March Reserve Bank of India Bulletin 2004
+Table 11 : Pattern of Sources of Funds for
+exchanges. As this market grows and as
+Indian Coporates
+steps are taken to regulate the private
+(Per cent of total sources of funds)
+placement market, the corporate bond
+Item 1985-86 to 1991-92 to 1992-93 to 1997-98 to
+market will also develop. Creditworthy
+1990-91 2000-01 1996-97 2000-01
+corporate borrowers will then be able to raise
+1 2 3 4 5
+1. Internal Sources 34.1 35.7 31.3 43.1
+longer term funds for financing their growth.
+1. External Sources
+Of Which 65.9 64.3 68.7 56.9
+After the exuberance of the stock market
+a) Equity capital 7.0 16.1 20.5 12.8
+in the mid-1990s and its decline thereafter, a
+b) Borrowings 36.2 32.0 33.2 28.3
+large number of individual investors took flight
+Debentures 10.3 6.2 5.2 6.1
+From Banks 12.7 10.0 10.7 9.4
+to safety in bank deposits, safe retirement
+ From FIs 8.4 9.5 8.3 9.8
+instruments and insurance. It remains to be
+c) Trade dues &
+seen when and how fast such savers return other current
+liabilities 22.5 15.9 14.8 15.3
+to the capital market so that it performs its
+Total 100 100 100 100
+intermediary function efficiently.
+Note : Data pertains to Non-government Non-financial Public Ltd.
+Companies.
+VI. Pattern of Industrial Finance among
+Source : Report on Currency & Finance, 1998-99, RBI for data up to
+1997-98 and articles on "Finances of Public Limited Companies",
+Indian Corporates
+RBI Bulletins (various issues) for subsequent years.
+Having run through the supply side of
+interesting trends emerge. The share of
+the story, let me now turn to the demand side
+equity increased in the 1990s. Besides, there
+of industrial finance in India. An interesting
+was a shift to equity from debentures,
+shift in the pattern of financing of the Indian
+especially during the mid-1990s when the
+corporate sector needs to be highlighted in
+equity issues commanded a large premium
+this context (Table 11). During the 1980s to
+in the public issues markets. The share of
+mid-1990s, internal sources as a percentage
+capital market-based intermediaries has
+of total sources of funds ranged between 30-
+increased somewhat pulling down the debt-
+35 per cent, while during recent years it has
+equity ratio. The overall share of borrowings,
+increased to more than 40 per cent; in fact
+at about one third, remains, by and large,
+for 2000-01, the proportion of internal
+intact. There has been a greater reliance on
+sources touched nearly 60 per cent.
+internal resources during the downturn during
+Correspondingly, there has been a reduction
+the latter half of the 1990s. It is not clear at
+in the reliance on external financing.
+this stage whether this trend would change
+with an upturn in the capital market.
+The question, however, remains as to
+whether this reflects the effect of substitution
+It is now appropriate to arrive at broad
+of internal sources for external sources or
+generalisations from the sources side of
+the scale effect of an external constraint. In
+financing. First of all, bank credit has
+terms of external funding, a number of
+increased, but only marginally; the important
+334March Reserve Bank of India Bulletin 2004
+Table 12 : Composition of Financial Savings
+aspect is that it has not gone down contrary
+Portfolio  of Indian Households
+to general belief. Second, banks continue to
+(Per cent of Financial Savings)
+prefer investing in government securities
+Item 1970s 1980s 1990s 1992-93 1997-98
+despite the reduction in SLR requirements.
+to to
+1996-97 2001-02
+Third, flows from DFIs have reduced, but they
+1 2 3 4 5 6
+may not be uncompetitive intrinsically. While
+1. Currency 18.8 16.1 11.9 12.5 10.0
+their interest costs are high, they have
+2. Net Bank Deposits 32.7 22.8 27.0 25.9 31.4
+managed to curtail operating costs. Finally, the 3. Social Security 41.0 47.8 44.2 39.4 54.2
+a) Life Fund 12.1 10.3 11.8 11.0 14.4
+contraction in the capital market during the
+b) PF & Pension
+last 5 years has been dramatic. Overall,
+Fund 26.3 23.8 21.9 20.5 23.9
+corporates have depended more on internal
+c) Net Claims on
+Govt 2.6 13.7 10.5 7.9 15.9
+sources of financing during the second half
+4. Non-Bank Saving
+of the 1990s.
+Instruments 7.4 13.3 17.0 22.3 4.4
+a) Net Non-Banking
+Deposits 1.1 3.7 5.6 9.9 1.9
+VII. Supply of Funds
+b) Shares &
+debentures 2.0 5.3 8.2 9.5 4.0
+Household financial savings are the
+c) Units of UTI 0.6 3.0 4.4 3.9 0.2
+main source of funds in the Indian financial
+d) Trade Debt 3.7 1.3 -1.2 -1.0 -1.7
+system. Private savings performance, at about
+5. Total 100.0 100.0 100.0 100.0 100.0
+25 per cent of GDP, has been reasonably
+Memo Item:
+impressive by international standards, perhaps Household Financial
+Saving (as % of GDP
+with the exception of some of the East Asian
+at current market prices) 4.6 6.8 10.0 10.2 10.4
+countries. Reflecting the gradual willingness
+Source : Handbook of Statistics on Indian Economy, 2002-03
+to invest in risk capital since the 1980s, the Notes :
+1. Net Bank Deposits = Bank Deposits - Bank Advances - Loans &
+share of financial scrips amounted to almost
+Advances from Co-Op Non-Credit Societies
+10 per cent of total household saving by the
+2. Net Non-Banking Deposits = Non-Banking Deposits - Loans & Advances
+from Other Financial Institutions.
+mid-1990s (Table 12). The late 1990s,
+3. Net Claims on Govt = Claims on Govt - Loans & Advances from Govt.
+however, witnessed a reversal of this process,
+4. Saving in Trade Debt is "Change in Trade Dues in respect of sundry
+creditors minus changes in loans and advances to sundry debtors",
+with a flight to the safety of bank deposits and
+from the Company Finance Studies.
+social security. The present indications are
+VIII. Options for Longer Term Finance
+that we can expect this continuing shift to life
+insurance, pension funds etc, although there
+Against the backdrop of the discussion
+could be a return to the capital market if it on various aspects of financing patterns,
+does well for some time. As regards the other
+sources of funds, maturity structure of assets
+sources of saving, the fiscal deficit continues
+and liabilities of banks and DFIs, it is apposite
+to act as a drag, leading to negative public to discuss the options available for financing
+sector dissavings, which pull down the overall
+investment for growth. There are, of course,
+savings of the country.
+many sources of project finance available:
+335March Reserve Bank of India Bulletin 2004
+banks, insurance companies, DFIs, pension requirement of funds going to social securities
+funds, leasing companies, investment augurs well as a potential source of productive
+management companies and individuals. It is investment.
+perhaps useful to begin by exploring the
+A second set of options centre around
+options available within the existing
+possible innovations within the existing
+institutional framework and then turn to other
+institutional framework. Banks (and FIs) could
+possible innovations.
+play an innovative role in project finance by
+Existing Institutional Framework utilising and improving on their appraisal
+expertise. This could be achieved through
+We have already observed that the
+longer-term credit enhancements, take-out
+maturity structure of the liabilities of banks is
+financing, special purpose vehicles (SPVs)
+essentially short-term in nature. On the asset
+and guarantees of corporate bonds. A typical
+side, they already hold large volumes of long-
+long-term project faces the highest risk in
+term government paper, which is in tradable
+initial years and cash flows usually stabilise
+form. The composition of assets suggests that
+after 5-7 years. The basic idea is that banks
+banks are less averse to taking on interest
+and FIs can take initial risks through medium-
+rate risk than credit risk. Given the portfolio
+term lending and as cash flows become
+choice, it seems to make sense for banks to
+secure, the loans could be securitised, and
+keep the maturity of their loans short. It is
+sold to those institutions that have a longer-
+therefore necessary to change the perception
+term liability structure. Another option is the
+of banks regarding credit risk. An added set
+marketisation of a mix of loans, such as,
+of institutional sources of finance is emerging
+Jumbo Mortgages. This kind of securitisation
+with the increasing magnitude of funds flowing
+of all kinds of assets is especially appealing
+to mutual funds, insurance and pension. The
+because it can encompass even loans to
+size of the mutual fund industry in the Indian
+relatively small-scale industries. The basic
+economy is still very small as compared with
+philosophy is for banks and DFIs to take on
+that of developed countries. Contractual
+the initial risks and thereafter package the
+savings are yet another source of project
+risks into different baskets to match varying
+finance. There are two sets of completely
+risk appetites in the market.
+opposing views on the investment of such
+savings. The first, advocates higher return and There is, of course, some long-term
+hence advocate investment in the equity bank lending that is already being extended.
+market, while the proponents of safety-first A new competitor to project finance is
+advocate investment in gilt-edged securities. emerging in the form of housing loans.
+Both sets of arguments are equally strong - Current indications are that housing finance
+and the international experience does not is likely to keep increasing, especially as the
+provide a definitive guide one way or the default rate is still relatively low. Clearly, banks
+other. At the same time, the increasing seem to prefer interest rate risk to credit risk,
+336March Reserve Bank of India Bulletin 2004
+and as long as the fiscal deficit is high, this Information Bureau as a credit registry is also
+option will always be available to them. likely to reduce information asymmetries and
+cut down on transaction costs such as project
+What does the future hold for project
+appraisal.
+finance from the DFIs? In the Indian case,
+ICICI is already a bank, but presumably has Development of the Corporate Debt Market
+the expertise to do project financing. IFCI is
+A necessary condition for the process
+in great difficulty. IDBI is in process of
+of asset securitisation is the evolution of a
+restructuring. A number of financial institutions
+deep and liquid corporate debt market. As I
+are still in the business of long-term project
+have already mentioned, the corporate debt
+financing: IDFC for infrastructure and SIDBI
+market has not fully developed in the Indian
+for funding small-scale industries. A serious
+context, though there is some activity in recent
+rethinking needs to be done about the future
+years, especially in the private placement
+of these DFIs. DFIs as has been observed
+segment.
+earlier, are not intrinsically non-competitive. If
+Several pre-conditions for the evolution
+their legacy problems can be sorted out, it is
+of a successful corporate debt market are now
+possible to evolve a future role for them. India
+in place. These include a well-functioning
+is not yet at a stage where it can fund growth
+market for government securities, well
+exclusively out of market-based approach.
+developed infrastructure for retail debt, a liquid
+There is very little alternative and it is
+money market, an efficient clearing and
+too early to give up the bank / DFI-based
+settlement system, a credible credit rating
+financing for industrial investment at the
+system and a formal regulatory framework. At
+present juncture because markets are not
+the same time, the lack of good quality
+deep enough to securitise loans. There are
+issuers, institutional investors and supporting
+other developments that are creating a more
+infrastructure continue to constrain market
+enabling environment for a long-term credit
+development. There is also the need to
+culture. There are several ways in which
+enhance public disclosure, standardise
+creditors rights are being strengthened, which
+products, put in place effective bankruptcy
+should go a long way in mitigating the risks
+laws and use technology to reduce transaction
+of large-scale project financing. These include
+costs further.
+initiatives such as the setting up of Debt
+Market Based Financing
+Recovery Tribunals (DRTs), the introduction of
+Corporate Debt Recovery(CDR) mechanisms
+A final set of possibilities hinge around
+and the emergence of asset reconstruction a shift in emphasis towards a market-based
+companies following the passage of the
+approach. Could the capital markets provide
+SARFAESI Act, 2002. It is hoped that all this
+the long-term funds to industry by directly
+would make securitisation of assets easier. tapping the long-term savings potential in the
+Besides, the institution of the Credit
+economy? Indian households are typically risk
+337March Reserve Bank of India Bulletin 2004
+averse and there has been a massive flight equity markets mainly because of better
+to the safety of bank deposits and contractual opportunities in the debt markets. Further,
+saving instruments. At the same time, the insurance companies and pension funds
+continuing increase in the saving rate of could be tapped, with appropriate risk
+households suggests that there is no supply management. Investment funds - a category
+constraint in terms of financial resources of non-banking financial companies in the
+available. Indian context - also provide an avenue for
+channeling funds into the stock markets,
+The challenge is really to harness these
+although the very logic of investment
+savings into risk capital. In a country like India,
+management carries an inherent bias for
+where a large number of retail investors enter
+operations in the secondary market rather
+the equity markets directly, there is great
+than the primary market. Venture capital
+potential to develop institutional intermediaries
+funds with specialisation in certain regions
+to tap these funds. In contrast, the investor
+and certain sectors provide another
+profile in most developed countries is relatively
+possibility, although in the Indian case thus
+more institutional, with mutual funds and
+far, their portfolio is still not very large and
+pension funds often accounting for a large
+often carries a preference for later-stage
+proportion of the trade. This effectively means
+projects with a smaller gestation lag rather
+that investors in India bear far more risks than
+than projects at the absolute initial stages.
+their counterparts in developed economies,
+who are able to spread their risk profile by IX. Conclusions
+say, buying units of a large mutual fund, with
+It is now time to take stock of where we
+the necessary technical expertise of
+stand. While reviewing the trends in industrial
+investment management. The emerging pool
+finance during the last three decades, certain
+of institutional investors in the equity markets,
+stylised facts stand out:
+therefore, needs to tap the savings potential
+l Bank credit to industry and agriculture
+much more effectively. The Unit Trust of India
+has increased as a proportion of their
+was able to successfully perform this
+respective sectoral GDP - but not as
+assignment of transforming household saving
+much as it might have compared with
+into equity financing till excessive returns
+the size of the reduction in SLR.
+eroded its very sustainability.
+l Given the current maturity profile of
+The expansion of the mutual fund
+their assets and liabilities and the
+industry thus becomes a target candidate for
+existing fiscal deficit, banks' ability to
+higher resource mobilisation from the capital
+lend in the medium- and long-term
+markets. The size of the mutual fund industry
+seems to be limited.
+in the Indian economy is still very small as
+compared with that of developed countries. l DFIs are not intrinsically uncompetitive
+Besides, mutual funds have been exiting the
+but they need to clean up their legacy
+338March Reserve Bank of India Bulletin 2004
+of bad debts, emphasise their Ian Domowitz, Jack Glen and Ananth
+strengths and enhance their market Madhavan, (2000), "International Evidence on
+orientation. Aggregate Corporate Financing Decisions".
+Mimeo, (Washington DC: World Bank).
+l Adequate savings are available in the
+economy. The issue is to channel
+Government of India, (1991), “Report of the
+them for investment for growth. Committee on the Financial System
+(Chairman: Shri M. Narasimham)”, Reserve
+The Indian financial system, thus, needs
+Bank of India.
+to look at new ways of doing business, in
+terms of knowledge-based banking and better Government of India, (1998), “Report of the
+management of information. It is necessary
+Committee on Banking Sector Reforms
+to tailor the new institutional funds to long-
+(Chairman: Shri M.Narasimham)”, New Delhi.
+term investments. Besides, the next stage of
+Ross Levine, (1997), "Financial development
+industrial financing would depend on an
+and economic growth: Views and Agenda".
+accelerated development of the bond market
+Journal of Economic Literature, Volume 35
+facilitating the securitisation of corporate
+pp. 688-726.
+lending.
+Rakesh Mohan, (2002), "Small Scale Industrial
+In terms of the broad framework of
+Policy: A Critical Evaluation", in Economic
+industrial financing, it is clear that there is
+Policy Reforms and the Indian Economy, ed.
+sufficient room for a greater role for market
+Anne Krueger, Oxford University Press, New
+financing. At the same time, this does not
+Delhi.
+mean that the Indian economy is ready for a
+Rakesh Mohan, ( 2003), "Developing the
+shift to a market-based system of finance. The
+Corporate Debt Market in India". Presentation
+panacea to the present challenges in industrial
+at the 3rd Invest India Debt Market Round
+financing hinges on the ability to design an
+Table, May 6. available at http://www.rbi.org.in.
+appropriate mix of the bank- and the market-
+based systems of financing.
+Reserve Bank of India, (2003a), “Report on
+Currency and Finance 2002-03” Reserve Bank
+References
+of India.
+Shankar Acharya, (2002), "Macroeconomic
+Management in the Nineties." Economic and Reserve Bank of India, (2003b), “Report of
+Political Weekly, 37, No.16. pp. 1515-38. Trend and Progress of Banking in India”,
+various issues Reserve Bank of India.
+James R. Barth, Gerard Caprio. Jr., and Ross
+Levine, (2001), The Regulation and Raghuram Rajan and Luigi Zingales, (2003),
+Supervision of Banks around the World: A Saving Capitalism from the Capitalists
+New Database, Washington DC: World Bank. NewYork: Crown Business.
+339

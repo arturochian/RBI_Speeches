@@ -1,0 +1,934 @@
+After the Crises: Assessing the Costs and Benefits of Financial 
+Liberalisation 
+ 
+th
+14 Chintaman Deshmukh Memorial Lecture 
+Reserve Bank of India, Mumbai 
+th
+15 February 2010 
+ 
+ 
+th
+Mr Governor, ladies and gentlemen, it is a great honour to have been invited to give the 14 
+Chintaman Deshmukh memorial lecture, and a great pleasure to be with you here in Mumbai. 
+The Reserve Bank of India has a high reputation as a centre of thoughtful analysis of  the 
+important issues of financial stability and optimal policy which concern policy makers 
+throughout the world, and a high reputation for having  helped steer India through the  recent 
+financial turmoil. It is about the origins of that turmoil and how we respond to it that I will 
+talk tonight.  
+   
+In Autumn 2008, the world financial system suffered a huge crisis which imposed great harm 
+on the world economy, and thus on the employment, wealth and welfare of many people 
+throughout the world.  In its wake, there is strong determination to learn the lessons of what 
+went wrong and to build a more stable global financial system for the future.  This has 
+involved a new institutional structure, with the creation of the international Financial Stability 
+Board, bringing together developed and emerging market central bankers, regulators and 
+financial ministers.  We are striving to ensure a strong and globally agreed response. 
+ 
+But we have been here before. Indeed, only 11 years before 2008, in Summer 1997, the 
+global financial system had also been rocked by an enormous financial crisis – the emerging 
+market and primarily Asian crisis of 1997-98.  And after that crisis there was a determination 
+to learn lessons, to improve the quality of regulation.  And there were new institutional 
+structures: the Financial Stability Forum, which was the direct pre-cursor of the Financial 
+Stability Board, was established in 1998, to ensure better surveillance of emerging risks, and 
+identification of the policy responses needed to avoid future crises.  Sadly that institutional 
+response was ineffective. 
+ 
+In part that is because the latest crisis came from a quite different direction.  And just as 
+many generals are said to have a tendency to fight the last war, so regulators and central 
+bankers may have a tendency to address the problems revealed by the latest crisis.  We must 
+avoid that mistake.  And one way to avoid that mistake is to draw lessons not just from the 
+latest crisis but from previous crises as well, identifying the general factors underlying both 
+this latest manifestation of financial instability and crises that went before.  So my aim this 
+evening is to ask what common lessons we can learn both from the Asian crisis of the 1990’s 
+and the latest developed world crisis.  And India is a very pertinent country in which to 
+attempt that analysis, since India managed in both crises to escape with relatively little 
+financial instability and relatively slight economic harm. 
+ 
+There are of course important differences between the two crises.  1997 was essentially a 
+crisis of emerging markets and a crisis in which instability of cross border capital flows 
+played a crucial role.  Swings in nominal and real exchange rates, first rising to unsustainably 
+high levels and then crashing dramatically, played a key role.  And the sudden depreciations 
+ 
+1 
+  
+produced inflationary pressures and capital flight, for which the prescribed medicine was 
+tighter fiscal and monetary policies. 
+ 
+By contrast, 2008 was in its origins a crisis of the US and European financial systems: rooted 
+in over-exuberant credit extension in developed markets, and in the development of complex 
+and opaque forms of securitised credit and of new and risky forms of maturity 
+transformation.  Exchange rate movements and international capital flows played only an 
+incidental role: capital flows to emerging markets did turn volatile in late 2008 but only in 
+response to the crisis, having played no fundamental causative role.  And the consequences of 
+the crash were deflationary rather than inflationary, in price as well as in output terms – so 
+that the prescribed medicine has been fiscal and monetary loosening. 
+ 
+But despite these major differences, the two crises also have strong common features, and in 
+particular both were rooted in, or at least followed after, sustained increases in the relative 
+importance of financial activity relative to real non-financial economic activity, an increasing 
+“financialisation” of the economy.   
+ 
+The Asian crisis came after a strong upsurge in the scale of financial capital flows to and 
+from emerging countries: an upsurge which was seen in equity portfolio flows, debt security 
+flows, and cross border bank capital flows (Exhibit 1).  This upsurge was also matched by a 
+longer term growth of financial capital flows between developed nations (Exhibit 2).  And 
+after the setback of the 1997 crisis, these capital flows, both between developed countries and 
+between developed and emerging countries, have resumed an even stronger upward path 
+(Exhibit 3).  Finally this upsurge has been accompanied over the last 30 years by a quite 
+striking increase in the volume of foreign exchange trading activity relative to global GDP 
+and trade. (Exhibit 4). 
+ 
+The crisis of 2008, meanwhile, came after several decades in which financial activity within 
+developed economies – whether measured by total bank assets to GDP, or by the scale of 
+credit and derivatives trading, or the scale of interest rate derivatives trading, had increased 
+dramatically (Exhibit 5).   
+ 
+On a whole series of measures, therefore, the sheer scale of financial activity has increased 
+dramatically both in absolute terms and relative to real economic variables such as GDP, over 
+the last 30 years.  This followed several decades in which no such trend had been apparent.   
+ 
+Of course, that increasing scale of financial activity reflects in part the globalisation of world 
+trade and long term capital flows, and the world of floating exchange rates which followed 
+the breakdown of the Bretton Wood system in the early 1970’s.  But it has also been 
+deliberately fostered by policies of financial liberalisation, with the size and sophistication of 
+financial sectors seen by an increasingly dominant conventional wisdom – the Washington 
+Consensus as it was labelled – as important positive drivers of national and global growth. 
+ 
+The crucial issue which we now need to address, after two terrible crashes in just 12 years, is 
+whether this increasing scale of financial activity truly has been beneficial, which elements 
+are beneficial and which harmful, and what trade-offs are required in public policy between 
+any benefits of increased financial liberalisation and sophistication and the instability which 
+seems at times to accompany it. 
+ 
+ 2 
+It is useful to begin that analysis by looking at the most macro and long-term indicators.  Is 
+there in economic history a clear correlation between the financial intensity of an economy – 
+measured in all the different possible ways – and the overall rate of economic growth?  The 
+answer is that at this macro level there is no clear and universal positive relationship.  
+Carmen Reinhart and Ken Rogoff in their recently published and excellent survey of eight 
+centuries of financial folly, crashes and debt defaults (“This Time it’s Different”), identify the 
+period 1945 to the early 1970’s as one of “financial repression” in which the role of the 
+1
+financial system was subdued in many countries.  And in some countries, for instance one 
+might argue in India, that “financial repression” probably was one among a package of 
+market restrictive policies which hampered economic growth.  But equally there were 
+countries which in that period achieved historically rapid growth with fairly “repressed” 
+financial systems (for instance Korea), and in the developed economies – the US, Europe, 
+and Japan – this period of financial repression was one of significant and relatively stable 
+growth, comparing fairly well with the subsequent 30 years of increased financial activity and 
+financial liberalisation. 
+ 
+And there does not appear to be any compelling proof that increased financial innovation 
+over the last 30 years in the developed world has had a beneficial effect on output growth.  
+Indeed a recent paper by Moritz Shularick and Alan Taylor documents the  growth of 
+leverage and credit extension which liberalisation and innovation has helped facilitate, but 
+finds little empirical support for the proposition that this liberalisation and innovation has led 
+2
+to a corresponding increase in trend growth rates for the countries in their sample.  
+ 
+So the broad historical macro facts do not provide compelling evidence that an increase in the 
+financial intensity of market economies is necessarily and always and limitlessly beneficial 
+for growth or welfare.   
+ 
+To progress beyond this very general conclusion, however, we need to consider both the 
+economic theory of why, and under what circumstances, financial liberalisation might deliver 
+economic benefit, and to consider the specific categories of financial activity which played 
+important roles in, first, the crisis of 1997 and then the developed world crisis of 2007 to 
+2009. 
+ 
+This lecture is therefore structured in five sections: 
+ 
+1. Contrasting economic theories: the neoclassical and the Keynes/Minsky approach 
+ 
+2.  The Asian crisis of 1997: are short term capital flows economically value-added? 
+ 
+3. The developed world crisis of 2007-09: did financial innovation deliver economic      
+value? 
+ 
+4. Possible implications for specific policies 
+ 
+5. Implications for our overall approach to financial deepening and liberalisation. 
+ 
+ 
+                                                 
+1
+ C. Reinhart and K. Rogoff  This time its different: Eight centuries of financial folly, Princeton , 2009   
+2
+ M. Schularick and A.M. Taylor :  Credit booms gone bust: Monetary policy , leverage cycles and financial 
+crises 1870-2008 ,NBER Working Paper No15512, November 2009  
+ 3 
+ 
+ 
+1. CONTRASTING ECONOMIC THEORIES : NEOCLASSICAL VERSUS 
+KEYNES/MINSKY ASSUMPTIONS  
+ 
+The predominant neoclassical school of economics has perceived increased financial activity 
+– greater market liquidity, more active trading, and financial innovation –as a broadly 
+3
+positive development. This is because extensive financial activity is essential to complete 
+markets. The first fundamental theorem of welfare economics, demonstrated mathematically 
+4
+by Kenneth Arrow and Gerard  Debreu, illustrates that a competitive equilibrium is efficient. 
+But this is only true if markets are complete i.e. if there are markets in which to strike all 
+possible desired contracts, including insurance contracts and investment contacts linking the 
+present and the future, as well as markets for current goods, services and labour. Therefore 
+the more liquid are financial markets and the more extensive is financial innovation, the more 
+efficient the economy will be.  Thus :  
+ 
+• More liquid commodity futures markets are beneficial because they enable users and 
+producers of commodities to hedge their risk more efficiently. 
+• Liquidity in the credit default swaps market enables investors and issuers of corporate 
+debt to achieve and continuously adapt their desired risk profile.  
+• The complex structured credit markets which grew from the mid 1990s on were   
+beneficial because they  enabled investors to select precisely that  combination of risk, 
+return and  liquidity which matched their specific preferences.  
+• And the wider the set of options for linking suppliers of funds with users of funds – 
+including via the provision of market liquidity which enables investors’ time horizons 
+to diverge from the contractual maturity of the  instruments themselves  – the more 
+efficient will be the allocation of capital. 
+• In each case therefore “innovation brings us closer to the Arrow-Debreu nirvana 
+5
+where  all possible markets exist and are complete.” 
+  
+Moreover, these advantages of financial markets apply not merely within an economy, but 
+between countries. The less restricted and the deeper the markets for capital flows between 
+countries, the more efficient will be the international allocation of capital, with globalisation 
+and financial liberalisation therefore naturally and beneficially linked.  
+ 
+Of course, these   propositions do not mean that there is no role for regulation of financial 
+services and financial markets. Neoclassical theory specifically identifies that competitive 
+equilibrium conditions can be prevented by the existence of market imperfections, and 
+recognises, as per the Lancaster- Lipsey conditions, that if a specific market is imperfect, 
+6
+liberalisation of other markets might be  suboptimal . But the neoclassical approach does 
+tend to dictate a particular regulatory philosophy, in which policymakers ideally seek to 
+identify the specific market imperfections preventing the attainment of complete and efficient 
+markets, and in which regulatory intervention should ideally be focussed, not on banning 
+                                                 
+3
+ I am  indebted to Jonathan Portes , Chief Economist  at  the UK Cabinet Office for sharing with me an 
+unpublished article which provides a particularly clear description of the differences between the Neoclassical 
+and Keynes / Minsky approaches  
+4
+ K. Arrow and G.Debreu, Existence of an equilibrium for a competitive economy, Econometrica,vol.22,  1954  
+5
+ The quote is from Jonathan Portes’s paper 
+6
+ Richard Lipsey and Kelvin Lancaster  “The General Theory of the Second Best , Review of Economic Studies 
+1956 
+ 4 
+products or dampening down the volatility of markets, but on disclosure and transparency 
+requirements which will ensure that markets are as  efficient as possible. 
+ 
+These propositions, and the strongly free market implications drawn from them, have played 
+a somewhat dominant role in academic economics over the last several decades, though with  
+dissenting voices always present. But they have been even more dominant among  
+policymakers in some of the finance ministries, central banks and regulators of the developed 
+world. Keynes famously suggested that “practical men, who believe themselves quite exempt 
+from any intellectual influences, are normally the slaves of some defunct economist”. But the 
+bigger danger may be that the reasonably intellectual men and women who play key policy- 
+making roles, are often the slaves to a simplified version of the predominant conventional 
+wisdom of the current generation of academic economists. Certainly in the case of the UK 
+Financial Services Authority, the idea that greater market liquidity is in almost all cases 
+beneficial, that financially innovation was to be encouraged because it was likely to expand 
+investor and issuer choice, and that regulatory interventions have to be specifically justified 
+by reference to the specific market imperfections which they are designed to overcome, 
+formed key elements in our institutional DNA in the years ahead of the crisis. And the 
+predominant tendency of the International Monetary Fund, both at the time of the Asian crisis 
+and in the run up to 2007-09, was to stress the advantages of free capital flows and financial 
+innovation, making reference to theories of market completion and allocative efficiency. 
+ 
+However, this benign view of limitless financial deepening - of increased trading activity and 
+innovation - is rejected by the Keynes/Minsky school of thought. Keynes, most famously in 
+Chapter 12 of The General Theory, argued that liquid financial markets did not ensure 
+allocative efficiency through the attainment of a rational competitive equilibrium, but were   
+instead subject, for inherent and unavoidable reasons, to self-reinforcing herd/momentum 
+effects. Professional investment was, he famously said, like a “pick the prettiest girl photo 
+competition”, in which the successful competitor was the one who correctly and most rapidly 
+predicted the preferences of the other competitors.  “It is not a case of choosing those which, 
+to the best of one’s judgment, are really the prettiest, nor even those which average opinion 
+genuinely thinks the prettiest. We have reached the third degree where we devote our 
+intelligences to anticipating what average opinion expects the average opinion to be. And 
+7
+there are some, I believe, who practice the fourth, fifth and higher degrees”. 
+ 
+Keynes  therefore believed that  the professional investor or trader, be it in equity markets, 
+currency markets, or, he would have said today, the CDS market, is “forced to concern 
+himself with the anticipation of impending changes, in the news and in the atmosphere, of the 
+kind by which experience shows that the mass psychology of the  market is most influenced”. 
+And he argued that pure speculation, unattached to fundamentals, could drive self-reinforcing 
+bubbles, which not only served no useful allocative role, but which produced important 
+destabilising effects. 
+ 
+Keynes’s argument received strong empirical support from Charles Kindelberger’s analysis 
+8
+of market manias, panics, and crashes through the ages. Hyman Minsky developed a theory 
+of the dynamics of the capitalist economy and of its financial institutions, in which sustained 
+good economic times were likely to produce a shift in the relative balance of financial 
+activity away  from hedging and rational allocative activities towards  purely speculative 
+                                                 
+7
+ John Maynard Keynes , The General Theory of Employment , Interets and Money , 1936 , Chapter 12  
+8
+ Charles Kindelberger , Manias,panics and markets , 1978  
+ 5 
+activities, which in turn could lead to sudden collapses in values, debt deflation traps and 
+9
+major  real economic disruption. And indeed some of the world’s most successful financial 
+speculators – in particular George Soros – have themselves argued that major liquid financial 
+markets are not driven to equilibrium by fundamental factors, but are subject to endlessly 
+10
+reflexive disequilibrium dynamics.
+ 
+There are different ways of explaining these disequilibrium dynamics: 
+ 
+• Keynes himself stressed the importance of inherent irreducible uncertainty as to the 
+future, under which condition a detached and nonrecursive assessment of future 
+11
+market prospects is close to impossible .    
+• Other writers stress the role of market imperfections such as disruptive principal/ 
+agent relationships as between end investors and the agents making trading decisions 
+12
+on their behalf . These principal/agent relationships can make it rational for 
+individual decision-makers to act in ways which result in price movements which in 
+their collective effect appear irrational and which cause economic harm. In a sense 
+therefore, these writers draw on the “rational economic man” assumptions of the 
+neoclassical school, but differ simply because they believe that the imperfections are 
+so deep rooted as to be inherent and that no amount of clever regulatory intervention 
+will ever overcome them: the potential instability and self-referential nature of liquid 
+financial markets therefore being for all practical purposes inherent even if not 
+absolutely inherent in the way that Keynes implied. 
+• Finally, the school of behavioural economics, associated in particular with the work of 
+Daniel Kahnemann, stresses the fact that human decision-making, for reasons rooted 
+in evolutionary biology and the design of our brains, cannot be seen as an entirely 
+rational process, but is at times inherently instinctive and influenced by crowd 
+psychology effects. 
+ 
+It is therefore notable that the school of thought which we can broadly label as Keynes/ 
+Minsky is not characterised by a single unifying theory equivalent to that of neoclassical 
+equilibrium.  As a result, as I will discuss in Sections 4 and 5, it is not easy to derive from this 
+way of seeing the world a simple and universally applicable  set of criteria for deciding 
+appropriate regulatory intervention,  such as can be derived  from the neoclassical approach. 
+But I will argue in Section 5 that it is better to live in the real world of complexities 
+imperfectly understood, than to construct for ourselves an intellectually elegant set of 
+assumptions which do not fit real world phenomena. And the evidence of the crises of 1997 
+and of 2007-09 to which I will now turn, suggest that we should be highly sceptical of the 
+benefits of general and limitless financial liberalisation. 
+ 
+ 
+2 .THE ASIAN CRISIS OF 1997  
+ 
+In respect to the 1997 crisis, the crucial contested issue in economics is the benefits and 
+disadvantages of short term financial capital flows.  As already shown, these flows increased 
+                                                 
+9
+ Hyman Minsky, Stabilising an Unstable Economy , 1986  
+10
+ George Soros, The new paradigm for financial markets , 2008  
+11
+ The distinction between mathenmatically modellable risk and inherent irreducible uncertainty is fundamental 
+to this insight ,. See Frank Knight Risk, Uncertainty and Profit ,1921 , for the classic statement of this  
+distinction  
+12
+ See e.g An institutional theory of momentum and reversal, Vayanos and Woolley, LSE , November 2008  
+ 6 
+dramatically in the decade running up to the 1997 crisis and the dominant conventional 
+wisdom of the time – as expressed for instance in the attitude of the IMF – was that these 
+flows were positive.  This was based on the neoclassical  argument that capital flows in 
+general (including short term portfolio flows as well as long term direct investment ) help  
+achieve a more efficient global allocation of capital, linking savers to business investments in 
+13
+a more efficient fashion .   
+ 
+Indeed it was right in the middle of the Asian crisis – at its Hong Kong meeting in September 
+1997 – that the IMF proposed that capital account liberalisation should be made a binding 
+commitment of IMF membership, going beyond the commitment to current account 
+convertibility included within the IMF’s original founding articles.  
+ 
+But while this was the conventional wisdom, a wide variety of studies have cast doubt on 
+whether free movement of capital, and in particular of short term capital, is at all  positive for 
+growth.The challenge  has been launched on both empirical and theoretical grounds. 
+ 
+• The empirical evidence has been very usefully assessed  by a working group of the 
+Committee on the Global Financial System (CGFS) , chaired by Rakesh Mohan, 
+14
+former deputy governor of the RBI. It notes that “despite the numerous cross 
+country attempts to analyze the effects of capital account liberalisation , there appears 
+to be only limited evidence that supports the notion that liberalization enhances 
+growth” and some of the protagonists in this debate, such as Dani Rodrik and Jagdish 
+15 16
+Bhagwati would go further and say that there is no compelling evidence at all. 
+Even those who broadly support capital account liberalization have therefore tended 
+to argue that liberalization could be beneficial under specific circumstances, rather 
+than that it has been demonstrably  beneficial in all cases 
+ 
+• Rodrik and Subramanian  have highlighted one reason why the apparent case for 
+financial globalisation might not apply in today’s circumstances. In the first period of 
+financial globalisation  – the 40 years or so before the First World War – international 
+capital flows to a significant extent took  the form of outflows from rich developed 
+countries (in particular the UK) and inflows to commodity producing countries which 
+lacked adequate domestic savings to develop their industries. But as  Rodrik and 
+Subramanian  point out, this is not the recent pattern. Net capital flows indeed have 
+been as likely to be from poorer  developing countries to rich  developed ones as vice 
+versa, and developing countries’ savings rates have usually not been a binding 
+constraint on growth. The case in favour of capital flows therefore has to assert that 
+intensive two-way flows of capital facilitate a more efficient allocation, rather than 
+asserting that net flows of finance to developing countries is key to the development 
+process. 
+ 
+• Meanwhile many analyses have illustrated that short-term financial capital flows (into 
+debt securities and via cross border bank lending) can be extremely volatile,  subject 
+                                                 
+13
+ See Stanley Fischer Capital account liberalisation and the role of the IMF in Should the IMF pursue capital accounting 
+convertibility, Essays in International Finance, Princeton 1998. 
+ 
+14
+ Capital flows and emerging market economies , CGFS Papers No 33, January 2009  
+15
+ D. Rodrik and A. Subramaniam, Why did financial liberalisation disappoint , March 2008  
+16
+ J. Bhagwati, “The capital myth: the difference between trade in widgets and dollars” , Foreign Affairs, May 
+1998  
+ 7 
+to what Reinhart and Rogoff label “bonanzas” followed by “sudden stops”. Bonanzas 
+seem to be strongly influenced by self-reinforcing herd effects, with some investors 
+caught up in over optimistic stories about a country’s prospects while  others  quite 
+rationally seek to ride  the self-reinforcing appreciation of the local currency or asset 
+markets for as long as the bonanza lasts.. Sudden stops and outflows meanwhile are 
+even more strongly self-reinforcing, with a contagious collapse of confidence 
+affecting not only countries where there is a least some new information which might 
+reasonably carry inference, but other countries treated by investors as in the same 
+broad category. As a result, not only domestic asset markets in emerging countries, 
+but foreign exchange markets as well, can be characterized by multiple and fragile 
+equilibria , such as we saw illustrated in the movement of Thai bhat, Korean won and 
+Indonesian rupee rates in 1997 (Exhibit 6) . 
+ 
+• In addition volatile short-term capital flows can complicate the conduct of domestic 
+monetary policy, facing authorities with a choice between allowing undesirably rapid 
+growth of domestic credit and money, or of accepting an exchange rate appreciation 
+which can undermine the competitiveness of  traded sectors in a fashion not justified 
+by long-term fundamentals. Moreover, short term capital inflows, in particular of 
+bank debt, can drive disruptive asset price booms in local markets such as commercial 
+real estate.  
+ 
+• As a result, a compelling argument has been developed that the balance of benefits 
+and disadvantages of capital flows varies by type of flow – an argument well 
+summarised in the CGFS paper.  This suggests a hierarchy in which long term capital 
+flows are better than short term; direct investment is better than portfolio; equity is 
+better than debt; with short term inter bank flows the least beneficial and potentially 
+most disruptive.    
+ 
+These arguments together make a compelling case for: 
+ 
+i) Believing that the positive benefits of short term capital flows may be very slight  
+even in the absence of shocks. 
+ 
+ii) Believing that these benefits can be significantly outweighed by the adverse impact of 
+financial shocks. 
+ 
+Against this criticism, the counter defense of capital flow liberalization has not sought to 
+deny the reality of potentially volatile capital flows, but has argued that this potential arises 
+only because of fundamental deficiencies in, for instance, the credibility of government’s 
+fiscal and monetary policy, or the quality of domestic financial system regulation and 
+governance.  These arguments recognise – in line with the Lancaster and Lipsey second best 
+theory – that market liberalisation can be harmful if applied in a context where many other 
+market imperfections and distortions exist.  But this insight is then used to support the 
+argument that capital flow liberalisation can be a good thing, provided that appropriate 
+supplementary reforms are made, and in the appropriate sequence.  An argument which 
+enables believers in the free market creed to hold that the faults in the system revealed by 
+1997 ultimately lay not in too much market liberalisation, nor in the inherent instability of 
+markets, but in inadequately complete application of good free market precepts.   
+ 
+ 8 
+This argument between those who believe that the potentially harmful volatility of financial 
+markets is inherent and unfixable, and those who believe that it can be fixed if credible 
+policies are in place and well communicated, is an old one.  In 1943, in a paper which input 
+to the Bretton Woods deliberations, the economist Ragnar Nurkse reviewed the floating 
+exchange rate regimes of the early 1920s, and concluded in particular that movements in the 
+French franc exchange rate between 1924 and 1926 illustrated “the dangers of cumulative 
+and self- aggravating movements… (which)… instead of promoting adjustments in the 
+balance of payments, are apt to intensify any natural disequilibrium and to produce what may 
+be termed “explosive” conditions of instability.” But Nurkse’s account was met by the 
+counter-argument of Friedman et al, that this apparently self-fulfilling unstable speculation 
+was a rational response to the uncertainties of  French policy, and that the key lesson 
+17
+therefore is the need for policy to be appropriate, well communicated and credible .  
+ 
+Faced with these alternative arguments  it becomes impossible, as Barry Eichengreen has 
+noted, ever to prove which argument is correct except if we were able to look directly into the 
+minds of financial speculators and possibly not even then.  But while proof is ultimately 
+unattainable there are three compelling arguments for not seeing the “conditions and 
+sequencing” argument as at all conclusive: 
+ 
+• Rodrik and Subramaniam’s point that even if such “conditions and sequencing” 
+could in theory remove the disadvantages of short term capital flows, we have to 
+make decisions in a real world where governments are equipped with imperfect 
+tools and are subject to short term political pressures, and where therefore their 
+ability ever to get “conditions and sequencing” right is inherently imperfect. 
+ 
+• The evidence of economic historians such as Kindelberger who have documented 
+the tendency of  many different types of markets to be subject to manias, panics 
+and crashes. 
+ 
+• And the explanations advanced by Keynes, Minsky, Soros, Kahneman and others, 
+as to how a combination of rational incentives and psychological tendencies can 
+be expected to produce self-reinforcing momentum effects. 
+ 
+Overall, therefore, I believe that the case that short term capital flow liberalisation is 
+beneficial is, as Jagdish Bhagwati argued in his famous 1998 article “The Capital Myth: The 
+Difference between Trade and Widgets and Dollars” based more on ideology and argument 
+by axiom than on any empirical evidence.  Though also undoubtedly, as Bhagwati argued, 
+based on interests.  For what we saw in respect to capital flow liberalisation in the 1990’s ( as 
+in respect to domestic financial liberalisation in developed countries) was  the assertion of a 
+self-confident ideology which also happened to be in the direct commercial interest of major 
+financial services firms with powerful political influence in the major and developed 
+economies and in particular in the US.   
+ 
+That combination of ideology and interests has proposed an over-simplistic conventional 
+wisdom of self-equilibrating exchange rates and optimal capital flows.  Instead we need to 
+recognise that in global short-term capital and related FX markets we face the risk of 
+                                                 
+17
+ See Barry Eichengreen Globalising Capital, Princeton 2008 page 49-55 for discussion of this debate. 
+ 9 
+potential instability and overshoot.  What we should do about that is less obvious.  It does not 
+necessarily follow that comprehensive capital flow controls are the required answer: there is a 
+reasonable argument that while the theoretical and empirical case against constraints on 
+short-term capital flows is quite poor, the pragmatic case against them (or at least against 
+their comprehensive application) is quite strong, simply because they may be unenforceable 
+18
+and tend to produce other distortions .  But I will return to that issue in Section 4, simply 
+arguing for now that foreign exchange markets and short term capital flows are not self-
+equilibrating, but at times subject to inherent and self reinforcing instability.   
+ 
+3. THE DEVELOPED ECONOMIES’ FINANCIAL CRASH OF 2007-09 
+Acute awareness of that potential instability, revealed by the 1997 crash, produced a policy 
+reaction in some emerging market countries which played a contributory role in the origins of 
+the 2008 crash.  Developing countries sought to insure themselves against future crises via 
+policies which delivered large current account surpluses and the accumulation of Forex 
+reserves. And the investment of these reserves in low risk instruments – such as US treasury 
+bonds and agency debt – drove down global risk-free rates, facilitating credit extension in 
+several developed countries – in particular the US – and provoking a search for yield uplift 
+which was met (so it seemed) by the cleverness of complex financial innovation.  
+But these macro imbalance-driven developments interacted with, and gave further impetus to, 
+trends in developed economy financial systems which were already underway and whose 
+common feature was a quite startling increase in the scale and complexity of financial 
+activities.  I showed earlier (Exhibit 4) the huge increases in the value of foreign exchange 
+trading activity relative to global GDP from the early 1970s on: some of this related to 
+emerging market currencies, but most of it to the currencies of the major developed 
+economies.  I also showed the huge increase in inter-financial institution balance sheet  
+claims which began in the 1970s and continued  up to the crisis.(Exhibit 5)  From the 1980s 
+and 1990s on,  these trends were accompanied by: 
+• The  emergence of a huge market in interest rate derivatives , with the  notional value 
+of  OTC  interest rate contracts rising from close to zero in 1987 to over $400 trillion  
+in 2007 (Exhibit 7). 
+• Huge growth from the mid-1990s in a series of inter-related credit markets.  New 
+“technologies” of  pooling and tranching  enabled the growth of an over $2 trillion  
+market in private label asset-backed securities, supporting  a new  “originate and 
+distribute” model of credit extension (Exhibit 8). Global credit derivative contracts 
+(CDS) outstanding grew from zero in the mid 1990s to over $60 trillion in 2007, with  
+the scale of this “hedging” activity massively outpacing the growth of the underlying 
+credit instruments which CDS enabled investors or issuers to hedge (Exhibit 9). And  
+Collateralised Debt Obligations grew from zero in the early 1990s  to over $250 
+billion by 2005, with the notable development of synthetic CDOs  – credit exposures 
+manufactured through the use of the CDS market, rather than out of the underlying 
+liabilities of non-financial counterparties (Exhibit 10 )  
+                                                 
+18
+ See Richard Cooper, “ Should capital-account convertibility be a world objective?”, in “Should the IMF Pursue capital 
+account convertibility?”, Princeton 1998, for a discussion of this argument .   
+ 10 
+ 
+• And the  immense growth of commodities futures trading, with the volume of oil  
+futures trading, for instance,  growing  from far less than the  volume of physical oil  
+produced and consumed in the world in the early 1980s  to over ten times the volume 
+in 2008 (Exhibit 11).? 
+ 
+As with the growth of international capital flows and of related Forex trading, so with a 
+whole series of other financial activities, the last two decades has thus  seen a dramatic 
+increase in the scale of financial activity relative to the real economy, accompanied by a wave 
+of complex financial innovation. 
+And as with international capital flows, so with increased financial intensity and innovation, 
+the predominant official point of view before the crisis was that this increased financial 
+intensity had delivered important economic benefits. 
+A chapter in the IMF’s  Global Financial Stability Review (GFSR )  of April  2006,  devoted 
+to  assessing “The influence of credit derivatives and structured credit markets on financial 
+stability” set out clearly the policymakers’ conventional wisdom which in turn rested quite 
+explicitly on the key assumptions of neoclassical theory: 
+• It noted with approval that credit derivatives “enhance the transparency of the 
+market’s collective view of credit risks… [and thus ] … .provide valuable information 
+about broad  credit conditions and increasingly set the marginal price of credit”. In the 
+neoclassical model, such price transparency delivers greater market efficiency and 
+thus takes us closer to the efficiency-maximising equilibrium.  
+• It also noted with approval that such greater transparency “improves market 
+discipline”, mirroring the arguments for short term capital flows which see market 
+discipline on domestic policy makers as a strongly positive function. 
+• And it argued that these benefits, far from being accompanied by any dangers of 
+instability, were likely to be accompanied by greater financial stability, since more 
+complete markets make possible a better dispersion of credit and liquidity risks to 
+those investors whose preferences and own liabilities make them the most suitable 
+holders.  “There is a growing recognition”, it therefore noted, “that the dispersion of 
+credit risk by banks to a broader and more diverse group of investors has helped make 
+the banking and overall financial system more resilient… The improved resilience 
+may be seen in fewer bank failures and more consistent credit provision”. 
+In this confidence in the benefits of financial liberalisation, the IMF was not alone.  There 
+were of course some economists who raised fundamental objections to the conventional 
+wisdom – Nouriel Roubini and Robert Shiller in particular – and specific concerns were often 
+expressed, including within the IMF GSFR from which I have quoted, about developments in 
+particular credit markets and about the capacity of risk management systems always to cope 
+with increased complexity.  But the predominant view in policy-making circles was not only 
+sanguine about increased financial intensity and financial innovation but positive. And the 
+dominant intellectual ideology of the day was largely embraced by regulators who as a result 
+were highly susceptible to the argument that if a particular regulation threatened financial 
+ 11 
+innovation or market liquidity it was by definition inappropriate. An argument often 
+reinforced of course by the influence of self-interested political lobbying: Bhagwati’s 
+combination of “ideology and interests” was clearly influential in relation to some key 
+measures of domestic financial liberalisation, (such as the removal of leverage restrictions on 
+investment banks in the US),  as well as in its assertion of the benefits of short term capital 
+flows.  
+Of course, it is now obvious that the conventional wisdom in favor of increased financial 
+intensity and innovation failed to allow for the potential downside of induced instability. This 
+was because it was based on the assumption that financial markets are rational and 
+equilibrating, and rejected or ignored the Keynes/Minsky insight that  financial markets can 
+be subject to self- reinforcing swings of irrational exuberance and then despair .  
+Thus, as we have seen, the IMF, along with many other authorities, welcomed the increased  
+transparency of credit prices provided by the CDS market, and saw it as a benefit that the 
+marginal price of credit ( i.e. the pricing of loans to the real economy ) could more accurately 
+reflect “the market’s collective view of credit risk”. But that market collective view of credit 
+risk proved to be subject to an extreme irrationality which played havoc with the real 
+economy.  This chart (Exhibit 12) shows CDS spreads for a composite of  major financial 
+groups between 2002 and 2008.  It illustrates that the collective view of the market was that 
+risks to bank credit-worthiness had fallen steadily between 2002 and 2007,  reaching  a 
+historical low in the early summer of 2007, the very eve of the worst financial crisis  for 70 
+years.  Neither CDS spreads nor equity prices for banks (also shown on this chart) provided 
+any forewarning of impending disaster: instead they validated and strongly  reinforced a 
+surge of over-exuberant and underpriced  credit extension to  the real economy.  CDS prices 
+indeed helped bring the marginal price of credit in line with the collective judgment of the 
+market:  the problem was that they set too low a price because the market overshot a rational 
+level.  Just as with international capital flows, so in the market for credit securities and credit 
+derivatives, intense financial activity can generate bonanzas of over- exuberant financing, 
+followed by sudden stops and a contagious lack of confidence. 
+But alongside this now obvious point, it is also worth noting that even the supposed benefits 
+of increased financial  intensity – the benefits which we might wish to trade off against the 
+dangers of instability – are at best unproven.  As with capital flow liberalisation, so with the 
+explosion of the complexity of structured credit and credit derivatives, the argument that it 
+delivered allocative efficiency benefits or  direct welfare benefits because investors were 
+better able to meet their preferences for precise combinations of risk, return and liquidity, has 
+tended to be made by axiom, with no attempt to consider how great the value of such benefits 
+could possibly be. 
+Admittedly it would be extremely difficult to measure that benefit in any empirical fashion, 
+other than via very macro analysis, for instance that of Schularick and Taylor to which I 
+referred  earlier.  But we should at least recognise that any benefits must be subject to  
+declining marginal returns: that if liquidity up to a point is beneficial, there must be a point 
+beyond which still further increases in liquidity can only deliver only the most minimal  
+incremental benefit. In an article in the Financial Times last August, Professor Benjamin 
+Friedman of Harvard University questioned how much economic value added could possibly 
+arise from arbitrageurs being able to spot microscopic divergences in market prices a few 
+seconds (or now with algorithmic trading, milliseconds) before other arbitrageurs do the same 
+– reaching as it were, a Keynesian pretty girl judgment minutely before everybody else 
+ 12 
+19
+reaches the same judgment .  Professor Friedman’s challenge has, I believe,   been too often 
+absent in our response to arguments which condemn possible regulatory approaches on the 
+grounds that they will reduce liquidity in specific markets.   
+4. POSSIBLE IMPLICATIONS FOR SPECIFIC POLICIES  
+The crucial issue looking forward is how we create a more stable financial system for the 
+future.  There is considerable agreement on key measures required: more capital within the 
+banking system, counter-cyclical capital, higher levels of liquidity, more capital against 
+trading books in particular.  And there is a focus on the problems of moral hazard and lack of 
+market discipline created if market participants believe that some banks are “too big to fail”.  
+But as we pursue this agenda, it is important that we keep thinking not just about the latest 
+crisis, but about the common features of this and past financial crises, and that we are 
+adequately radical in our analysis of what went wrong. In particular we need to keep asking 
+whether we believe that the financial system could be made self equilibrating if only we 
+could identify and remove specific market imperfections and poor incentives, or whether 
+complex financial systems and markets are potentially unstable for inherent reasons, in which 
+case we need tools to lean against irrational exuberance and tools perhaps to limit the scale of 
+financial activity. 
+Implications for specific policy may follow in at least three areas: 
+ (i) First, while action to deal with systemically important “too big to fail” banks is 
+necessary, we must not assume that it is sufficient. Any idea that it is sufficient rests on  
+strong confidence in the neoclassical propositions. 
+ (ii) Second, developed countries need to design new tools to control the volatility of the 
+credit cycle, identifying credit extension itself as a crucial variable of macro-economic 
+and financial stability policy. 
+(iii) Third, we need to develop a balanced approach to the benefits of market liquidity, 
+using higher capital requirements against trading activity to reduce unnecessary propriety 
+trading, and not excluding a potential role for financial transaction taxes. 
+(i) Addressing too-big-to-fail : necessary but not sufficient 
+In response to the financial crisis of 2007-09, authorities in many developed countries have 
+ensured the stability of the financial system by underpinning the liquidity and solvency of 
+major banks. This has typically entailed a combination of capital injections, exceptional 
+central bank liquidity provision, and government guarantees of medium term bank funding. 
+These measures have played a crucial role in restoring confidence. But they have also 
+reinforced the problem of moral hazard. For whereas when some smaller banks have become 
+insolvent  authorities have been able and willing to impose losses on non-insured depositors 
+and wholesale funds providers, in the case of large systemically important banks authorities 
+have in all cases chosen to rescue the entire bank group and to impose losses only on equity 
+holders (through dilution ) and on  no other category of funds providers, not even on those 
+who have subscribed to subordinated debt capital. This threatens to reinforce the belief that 
+                                                 
+19 th
+ Benjamin Friedman , Overmighty finance levies a tithe on growth, Financial Times , 26 August 2009  
+ 13 
+some banks are too big to fail, undermining any market discipline on the risk-taking of banks 
+in that category. 
+Finding a solution to the “too big to fail” problem is therefore a vitally  important part of the 
+international regulatory agenda, and a key priority of the Financial Stability Board and in 
+particular of its Standing Committee on Regulatory and Supervisory Cooperation which I 
+chair. The options under consideration include capital surcharges for large systemically  
+important banks to reduce the probability of failure; the development of contingent capital 
+instruments which would automatically convert to loss-absorbing equity well before failure; 
+and the development of recovery and  resolution plans (“living wills”) which require banks to 
+be internally organised in a fashion which would make it possible for the authorities to 
+execute options other than the rescue of the entire group as a single entity. An important 
+related set of policy options are those which might limit the extent to which deposit-taking 
+banks are involved in risky propriety trading activities, an area where the Obama 
+administration has recently brought forward proposals 
+These policies to restrict or more efficiently manage the risks created by size or breadth of 
+activities are rightly seen as means by which to protect taxpayers against the risk that they 
+will in future have to repeat the expensive rescue operations of the last two years. They are a 
+necessary part of the regulatory response. But they are not a sufficient response to the crisis 
+for four reasons:  
+• First, because the most important economic costs of the crisis did not actually derive 
+from the direct costs of taxpayer rescue. Central bank liquidity support is typically 
+provided at a mix of market and penal rates and will in many cases turn out to be 
+profitable for the public authorities; debt  guarantees will in most cases not be called; 
+and public equity stakes in banks, even if sold at a loss, typically amount to only a 
+few percentage points of GDP. The direct public costs of rescuing insolvent or illiquid 
+banks in developed countries are therefore unlikely to exceed at  most 5-10% of GDP, 
+and may well be much less. That was the case in Sweden in the 1990s and will likely 
+be the case in the UK and the US after  this crisis. But consensus forecasts suggest 
+that, for instance, UK government debt to GDP is likely to increase from less than 
+40% before the crisis to something like 90% after. The vast majority of this 50% 
+increase therefore derives not from the explicit cost of rescue, but from macro- 
+economic volatility, essentially caused by volatility in the supply of and demand for 
+credit, first excessively exuberant and then excessively constrained. 
+• Second, we should note that over-exuberant supply of credit could be provided by 
+multiple mid-size banks as much as by large ones.  In the US, while the early stages 
+of the crisis were dominated by the large universal banks involved in both commercial 
+banking and trading – such as Citibank or  Bank of America – in the present stage of 
+the crisis large bad debt losses are arising among numerous mid-size regional banks 
+excessively involved in commercial real estate lending.  In the UK, while some of our 
+problems arose in the very large combined commercial and trading bank RBS, equally 
+large problems arose in the fairly straightforward commercial bank HBOS, involved 
+in plain old-fashioned bad commercial real estate lending.  And there is no reason to 
+believe that those problems would have been any less if HBOS had been two to three 
+smaller banks rather than one large one. 
+• Third, while  limits on the proprietary trading activity of major commercial banks 
+could play a role in reducing their  probability of failure, and thus of cost  to the 
+ 14 
+taxpayer, we cannot ignore the systemic risks and volatility which can be created by 
+nonbank financial institutions which are heavily involved in trading activities 
+particularly if they take majority transformation risks.  Lehman Brothers was not a 
+deposit- taking bank, but its failure still provoked the extreme stage of the crisis.   
+• Fourth, the problems of over-exuberant supply of credit could arise even if all credit 
+was extended in securitised form, rather than on balance sheets. It would be possible 
+to make the banking system utterly safe, but still face the problem of volatile credit 
+extension. Indeed one of the origins of the crisis was the fact that the development of 
+securitised credit, by creating more transparent prices of credit, and by making it 
+possible to lay off credit risk in liquid markets, increased the extent to which credit 
+pricing and credit risk assessment became self-referential and circular.   Some bankers 
+were no longer asking themselves: “what does credit analysis tell me about the 
+appropriate price for this credit given the inherent risks?” but instead were simply 
+observing the transparent price of credit in securitised credit and CDS markets and 
+treating this as definitionally appropriate, treating a low price of credit risk as proof 
+that credit risks were low, rather than using credit analysis to reach judgments on 
+credit risk independent of the unwisdom of liquid markets. These problems could 
+exist in an entirely securitised credit system and are not removed simply by making it 
+possible to wind up banks without cost to the taxpayer.  
+As a result, while the “too big to fail” agenda is extremely important, we should be very wary 
+of assuming that it will in itself solve the problems of financial instability. Indeed, any idea 
+that it is a sufficient response rests on strong confidence in the neoclassical proposition that 
+financial markets can be made self-equilibrating if only we can discover and correct the 
+crucial imperfections which prevent the attainment of the Arrow-Debreu nirvana – in this 
+case the poor incentives and lack of market discipline created by “too big to fail” banks.  If 
+instead we believe – in line with the Keynes/Minsky school – that  financial systems and 
+markets are inherently subject to self-reinforcing herd and momentum  effects which create 
+instability, then we will need to combine the “too big to fail” agenda with other policy 
+responses. 
+(ii) New tools to address volatile credit extension  
+A central focus of such policy tools should be the dynamics of credit extension and related 
+20
+asset bubbles, particularly in residential and commercial real estate.  Where credit is both 
+supplied and demanded on the basis of expectations of capital gain (rather than solely on the 
+basis of debt servicing capability deriving from cash flow), prices and quantities in both the 
+market for assets (e.g. commercial real estate) and the market for credit can be subject to self-
+reinforcing bubble effects (bonanzas of credit)  followed by sudden stops (falling asset prices, 
+credit crunches and debt deflation) which, unless offset with aggressive fiscal and monetary 
+policy, can cause severe economic harm. Excessive and underpriced credit extension to 
+commercial real estate sectors in particular has played a major role in almost all banking 
+crises of the last several decades. 
+However, constraining such excessive credit extension through the classic monetary policy 
+tool of the interest rate is unlikely to be effective given the huge divergence in the interest 
+                                                 
+20
+ These  dynamics are  described here only at a very high level but will be addressed in much greater detail in a 
+th
+lecture to Cass Business School , London on March 17 2010 , entitled “ What do banks do, what should they 
+do?”   
+ 15 
+rate elasticity of demand for credit between different sectors which pertains during periods of  
+over-exuberant asset price inflation, with, for instance, an interest rate rise likely to cause 
+harmful effects in  the traded goods sector (both through direct interest cost effects and via 
+the exchange rate) long before it slows lending to commercial real estate. 
+Constraint will therefore almost certainly require the development of new macro-prudential 
+tools, new mechanisms to take away the punch bowl before the party gets out of hand. These 
+could include discretionary variation of capital requirements through the cycle, either across 
+the board or in relation to specific sectors such as commercial real estate. Or new regulations 
+which seek directly to influence borrower as well as lender behaviour, such as limitations on 
+allowable loan-to-value ratios: new tools which entail moving away from the belief that a 
+stable equilibrium will be delivered if only markets are efficient and classic monetary policy 
+21
+tools appropriately aligned.   
+But while I say “new” tools, they are of course not new in India, and you have been using 
+them recently and very effectively.  Nor are they entirely new to developed countries. Rather 
+they were tools we used to have 30 to 40 years ago, but rejected as old-fashioned and 
+unneeded in our over-confident embrace of neoclassical propositions.  
+(iii) A balanced approach to market liquidity  
+Alongside these tools of macro-prudential management, we also need a more open mind 
+about  the benefits and the potential downside of increased market liquidity, and a more 
+balanced regulatory approach.   
+For many years, the benefits of increased market liquidity have been an article of faith, 
+frequently deployed to argue against tighter regulation.  And increasing liquidity clearly is 
+valuable up to a point. It widens the set of contractual options available to individuals and 
+Corporates.  In current or close to current markets such as Forex and commodities spot and 
+forward, it reduces the cost of operations for end-users in the market.  In markets  which form 
+part of the capital allocation mechanism, linking savers to investments (e.g. via  equities and 
+bonds), it provides a wider set of options for investors, enabling them to provide funds which 
+are long term contractually committed to issuers, while allowing them the option of only 
+holding for a short period of time.  This in theory has a direct welfare benefit (by providing a 
+closer matching of available options to investor preferences), and may under some 
+circumstances foster a higher rate of savings and investment than would otherwise result. 
+And we need to recognise honestly that more liquid markets require speculators – traders 
+taking positions specifically in order to make trading profit, and these speculators may under 
+some conditions be well informed, provide market discipline and help generate prices which 
+inform efficient decisions. 
+But Keynes believed that “Of the maxims of orthodox finance, none, surely, is more anti-
+social than the fetish of liquidity, the doctrine that it is a positive virtue on the part of 
+institutional investors to concentrate their resources upon the holding of “liquid” 
+22
+securities” . And scepticism about the limitless benefits of market liquidity and of the 
+speculation required to make it possible, is justified on two grounds: 
+                                                 
+21
+ The case for such tools and the complexities involved in their application are discussed in a Bank of England 
+Discussion Paper “The role of macroprudential policy”, November 2009 
+22
+ J M Keynes, The General  Theory, Chapter 12  
+ 16 
+• First, the fact that the benefits of market liquidity must, as already discussed, be 
+subject to declining marginal utility.  The benefits deliverable by the extra liquidity 
+which derives from flash and algorithmic trading, exploiting price divergences present 
+for a fraction of a second, are clearly of minimal value compared with the provision of 
+reasonable liquidity on a  day by day basis. 
+ 
+• And second, the fact that, to a degree which is difficult to predict and unstable over 
+time, greater market liquidity and a greater role for speculators can produce 
+destabilising and harmful herd and momentum effects. 
+Our mental model of the benefits of extra liquidity should therefore not be one in which more 
+liquidity is always beneficial, but perhaps as  shown on this chart (Exhibit 13) one in which 
+the benefits are subject to diminishing marginal  utility and in which there is  an offsetting 
+and rising danger of a negative effect arising from the potential for destabilising speculative 
+activity - but with the severe complication that the point of optimal benefit is impossibly 
+difficult to define with any precision, that  it varies by market and over time, and that we have 
+highly imperfect instruments through which to gain the benefits without the disadvantages. 
+There is, for instance, no economic value that I can discern from the operation of speculation 
+in  currency “carry trades” which are among purest examples  of what Professor John Kay 
+labels “tailgating strategies” – riding an unsustainable trend in the hope that you will be 
+23
+clever enough to get out just ahead of the crash. But there may be no instruments which can 
+eliminate carry trade activities without undermining useful Forex market liquidity of value to 
+nonfinancial corporations. 
+But the fact that we do not have perfect discriminatory instruments does not mean that a more 
+nuanced assessment of the benefits of market liquidity will have no implications for public 
+policy. Instead three implications follow: 
+• The first is that in setting trading book capital requirements for commercial and 
+investment banks, we should shift from a bias in favour of liquidity to a bias to 
+conservatism. If regulators believe that the level of capital required for prudential 
+purposes needs to increase, and the industry argues that this will restrict liquidity in 
+some specific markets, we should be more willing to question whether the liquidity 
+serves a useful economic purpose and more willing in some cases to wave it goodbye. 
+• The second is that policymakers need to be concerned with the potential danger of 
+destabilising speculative activity even if it is performed by non-banks. Speculative 
+trading activity can cause harm, even when it poses no threat to commercial bank 
+solvency. If necessary, highly leveraged hedge fund speculation should be constrained 
+by leverage limits. 
+• And third, we should certainly not exclude the potential role for financial transaction 
+taxes which might, in James Tobin’s words, “throw some sand in the wheels” of 
+speculative activity. Now it may well be the case that a generalised and internationally 
+agreed financial transactions tax, whether on Forex flows or on a wider set of 
+financial transactions, is not achievable. One of the interesting features of the 
+transaction tax debate is that it is littered with articles by academics who have been 
+                                                 
+23 th
+ See John Kay , “Tailgating blights markets and motorways”,  Financial Times, January 19 , 2010  
+ 17 
+convinced of the theoretical case in favour of a financial transaction tax, but who have 
+subsequently failed to promote the idea. In 1989, Larry Summers co-authored an 
+article entitled “When financial markets work too well: a cautious case for securities 
+24
+transaction tax”  but in office subsequently he did not pursue it. Rudi Dornbusch 
+argued in 1990 that “It’s time for a financial transactions tax”, but was subsequently 
+25
+sceptical about the feasibility of comprehensive capital controls . But at very least 
+we should take financial transaction taxes out of the “index of forbidden  thoughts” 
+and we should certainly be open to the application by emerging countries of tax 
+constraints on inward speculative capital flows, such as Chile imposed in the 1990s 
+and Brazil has recently introduced.  
+5. FINANCIAL DEEPENING AND LIBERALISATION: AN OVERALL APPROACH  
+And more generally, the sensible conclusion on the overall benefits of financial intensity and 
+financial liberalisation, would seem to be that it is valuable up to a point in some markets, but 
+not in all markets and not limitlessly   There is a strong case that the development of a 
+modern financial system, combining banks and corporate bond and equity markets, retail and 
+wholesale insurance services is strongly favorable for economic growth. Walter Bagehot 
+argued in Lombard Street that the sophistication of the nineteenth century British banking 
+system enabled the UK more effectively than some continental European countries to 
+mobilize savings which might otherwise have lain dormant, and there are a number of studies 
+which illustrate either cross sectional or time series correlations between the development of 
+26
+basic banking and financial systems and economic growth.  It is highly likely that in India 
+financial deepening, in the sense of the extension of basic banking services and sound credit 
+extension to sectors of the population currently largely outside the banking system, would be 
+positive for welfare and growth. 
+Well developed corporate bond markets which enable non-bank debt finance to flow in a 
+simple transparent form to corporate borrowers and can play a major beneficial role in 
+financing investment. And competition in basic banking services, including competition by 
+global banks with transferable skills and willing to make long term commitment to a country 
+is likely to prove a beneficial form of liberalisation.  
+But we cannot extrapolate from the beneficial impact of financial deepening and 
+sophistication up to a point, and assume that still more financial deepening, innovation and 
+complexity is limitlessly beneficial. That if a good basic banking system benefits a country so 
+too does ever more active trading in all categories of derivative. And it is possible (Exhibit 
+14 ) that beyond some point, increased financial intensity, measured by the many sorts of 
+indicators which I considered earlier, may cease to deliver positive benefits or indeed have 
+negative effects.   
+                                                 
+24
+ L.H Summers and V.P. Summers , Journal of Financial Service Research , 1989  
+25
+ Rudiger Dornbusch, “It’s time for a financial transactions tax”, The International Economy , 
+August/September 1990. Note that while Dani Rodrik has argued  that Dornbusch’s subsequent scepticism 
+about capital controls  ( “Capital controls: an idea whose time is past” 1997) is inconsistent with Dornbusch’s 
+earlier position, in fact it is quite possible to be consistently opposed to legislated  prohibition of capital flows 
+but in favour of  taxing them .   
+26
+ See , e.g. I.R.G.King and R.Levine “ Finance and growth: Schumpeter might be righ”“ Quarterly Journal of 
+Economics” 1993 , or Rouseeau and Sylla, Emerging Financial Markets and Early US Growth, NBER WP 
+7448  
+ 18 
+We do not know for sure and the truth is likely to differ between different markets.    The 
+problem for regulators and central bankers is that this conclusion does not provide us with 
+nice easy answers on which to base policy.  It might be optimal simultaneously to seek to 
+make one market (say spot equities) more liquid and more efficient in a technical sense, while 
+in another market (eg, complex bi-lateral CDS contracts) to be indifferent if capital 
+requirements and collateral management rules result in the market dwindling in size.  Such a 
+complex conclusion will make many people uneasy. It is much easier to proceed in life on the 
+basis of a clearly defined and simple credo which provides the answer to all specific issues. 
+But it is more likely to produce good results if we live in the real world of complex trade-offs 
+and of relationships which are true up to a point. 
+ 
+ 19

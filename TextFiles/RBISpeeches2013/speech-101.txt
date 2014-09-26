@@ -1,0 +1,1422 @@
+A Revolution in Monetary Policy: 
+1
+Lessons in the Wake of the Global Financial Crisis
+ 
+Joseph E. Stiglitz 
+It is a real pleasure for me to be able to deliver this lecture in memory of the Reserve Bank of 
+India's first Indian Governor, who set an example and a tradition which has resulted in the 
+Reserve Bank of India being viewed as one of the exemplars of central banks around the world.  
+As I shall comment later, one could not help but notice this in the aftermath of the 2008 Global 
+Financial Crisis—which to a very large extent was brought about by failures of central banks in 
+the United States and Europe.  C.D. Deshmukh understood not only the importance of the 
+financial sector to the functioning of an economy, but that to ensure that the financial sector 
+fulfills its roles requires regulation—otherwise, there is a risk that it won't do what it should and 
+that it will do what it shouldn't.  He did not succumb to ideology that has plagued central banks 
+in so many countries:  he understood that the state may have to play an important role in 
+providing credit, either directly or through regulation, especially as part of the early stages of the 
+development process and in the rural sector. 
+ 
+The themes that I will take up today would, I think, resonate with Governor Deshmukh.  I want 
+to lay out a vision of what Central Banks should do, a vision that is markedly different than that 
+which was fashionable in the years before the Great Recession.   
+ 
+It is understandable that the global financial crisis should give rise to considerable reflection 
+among macroeconomists, and especially monetary theorists and policymakers.  After all, their 
+models didn’t predict the crisis—the most important economic event in three quarters of a 
+century.  Economics is supposed to be a science, and the test of any science is its ability to 
+predict; and if a sub-discipline can’t predict something of this importance, then it suggests 
+something is wrong.   
+ 
+I say suggests because devotees of the model claim that there are always random exogenous 
+shocks that cannot be anticipated.  But this crisis was not an exogenous shock:  the credit bubble 
+that brought the economy down was endogenous.  It was a shock created by the market itself.  
+And it was the kind of shock that the theory said couldn’t happen: for if markets are rational, 
+there won’t be bubbles.   
+ 
+This is but one example of the many flaws in the prevalent paradigm that were exposed by the 
+crisis.  In this lecture, I do not want to dwell so much on the flaws in the economic theories and 
+                                                            
+1
+ This is lecture is given in Mumbai on January 3, 2013, to commemorate C.D. Deshmukh, who capped his 21 years 
+in the Indian Civil Service with an outstanding stint as Governor of the Reserve Bank of India from 1943-1949. 
+During his tenure, he oversaw the Bank’s transformation to a nationalized institution, promoted regulation of banks, 
+and established India’s first financial institution for the provision of long-term credit to industry. He later served as 
+Union Finance Minister, India's Special Financial Ambassador to America and Europe, and among many other 
+notable achievements, made his mark in academia and public service. It is my honor to give this lecture in 
+recognition of his deep contributions to India and to his field. 
+1 
+ models that dominated mainstream thinking, including thinking inside many central banks, but 
+on the central policy stances that typically followed—sometimes quite loosely—from those 
+theories and models.   
+ 
+These theories and models not only contributed to  the failure to see the crisis coming, but led 
+some leading central bankers to argue that its effects were contained, even after the bubble 
+2
+broke.  They were also extra-ordinarily influential in shaping the policies that both contributed 
+to the crisis and to its rapid spread around the world, and have contributed to the lack of 
+effectiveness in responding to the crisis.  A half decade after the beginning of America’s 
+recession, more than six years after the breaking of the bubble, unemployment in Europe and 
+America remains unacceptably high, the GDP in many countries is still below the level attained 
+before the crisis, a few countries are mired in depression, and the global economy is on the verge 
+of another recession. 
+ 
+In this lecture, then, I will enunciate 14 lessons for monetary policy that I believe emanate from 
+the recession.  Some are controversial.  Most reflect a marked departure from the stances taken 
+by at least many monetary authorities.   
+ 
+1. Self regulation doesn't work 
+The notion that financial markets are self-regulating seems slightly quaint now, but we should 
+not forget how widespread and deeply believed that doctrine was.  That that was so is testimony 
+to the ability of ideology to prevail over the lessons of history and theory.  Financial markets 
+have repeatedly been prone to bubbles, which when they burst would bring havoc in their 
+3
+wake. Conflicts of interest and predatory and abusive practices had repeatedly marked financial 
+markets.  These were among the reasons that the sector had become highly regulated.  To think 
+that somehow, things would have suddenly changed, beginning around 1980, was sheer fantasy.   
+ 
+Indeed, advances in economic theory had explained why unfettered markets—and unfettered 
+financial markets in particular—were likely not to be efficient or stable, and why they were 
+likely to be marked by abuses and exploitation.   
+ 
+The general theory of imperfect and asymmetric information, developed in the 1970s and 80s, 
+had shown that whenever information is imperfect and asymmetric (that is, some individuals 
+know things that others do not) and risk markets incomplete—that is, always—the economy is  
+                                                            
+2
+ Bernanke said, as late as March 2007, that “the impact on the broader economy and financial markets of the 
+problems in the subprime market seems likely to be contained.” Statement of Ben S. Bernanke, Chairman, Board of 
+Governors of the Federal Reserve System, before the Joint Economic Committee, U.S. Congress, Washington, DC, 
+March 28, 2007. 
+3
+ See, for example, Charles Kindleberger’sManias, Panics, and Crashes: A History of Financial Crises (New York: 
+Basic Books, 1978). 
+2 
+ 4 5
+not likely to be (constrained) Pareto efficient.  Adam Smith’s invisible hand was invisible 
+because it was not there.  The theory also explained why risk markets are likely to be 
+incomplete—why key risks could not be insured against. 
+ 
+The theory  explained too why markets in which information was important were not likely to be 
+fully competitive—for instance, someone who offered the same product at a lower price would 
+not attract the entire market, as assumed in the conventional theory, simply because not everyone 
+would know about the offer.    
+ 
+Moreover such markets could well be characterized by rationing—unemployment and credit 
+rationing were real phenomenon, with important economic consequences. 
+ 
+Finally, markets in which information problems were important were likely to be marked by 
+severe agency problems—where those making decisions might not fully reflect the interests of 
+those on whose behalf they were supposed to be acting.  Managers might not maximize 
+shareholder value, let alone societal welfare. 
+ 
+These issues are of particular relevance to financial markets, precisely because information is at 
+the center of what financial markets do.  They are supposed to allocate scarce capital resources 
+and manage risk, but what makes these tasks difficult and interesting are information 
+imperfections, ascertaining the returns and risks associated, for instance, with different assets, 
+determining which risks are best suited for different individuals, etc.  That America’s financial 
+markets did an abysmal job in this, their central function, should be obvious.  The failures were 
+not, however, that of a single bank, or an isolated banker:  they were systemic, suggesting that 
+the problems that gave rise to them were systemic, as indeed they were. 
+ 
+Further, the reason that we care so much about failures in the financial system (or even of a 
+single large bank) is that there are systemic consequences—there are large externalities on the 
+rest of the economy.   
+ 
+The implication is that there is a need for strong governmental regulation of financial 
+institutions.  Much of the rest of this lecture will be concerned with the design of a good 
+regulatory system.  
+ 
+This brings me to the second important lesson: 
+                                                            
+4
+ B. Greenwald and J. E. Stiglitz,  “Externalities in Economies with Imperfect Information and Incomplete Markets,”  
+Quarterly Journal of Economics, Vol. 101, No. 2, May 1986, pp. 229-264 
+5
+ The term “constrained Pareto optimal” refers to the fact that the costs of creating new markets and obtaining more 
+information are included in the analysis:  information is not a free good.   
+3 
+  
+2. Regulation is needed for a well-functioning market and economy. 
+ 
+Financial sector regulation is required both because it is a sector characterized by large market 
+failures, and where there are systemic consequences (large externalities) arising from these 
+market failures.  Regulators need to bear this in mind, as they think both about the need for 
+regulation and its design.  In subsequent sections (in particular, points 3-7 below), I touch on the 
+multi-faced nature of this regulation, a long list thatincludes ensuring the safety and soundness of 
+individual banks and systemic stability; maintaining competition; promoting access for all; 
+protecting consumers and investors from exploitation, predation, manipulation, and a wide range 
+of abusive practices that have become part of every-day business in the sector; and enhancing 
+transparency.  While regulations and regulators may be imperfect, the track record of success—
+in India, and even in the United States in the decades after the last great crisis, the Great 
+Depression—shows that good regulation is both possible and can make a difference.     
+In the aftermath of the financial collapse in 2008, Alan Greenspan, the chairman of the Federal 
+6
+Reserve, lamented about the flaw in his reasoning.  He was surprised that the banks had not 
+managed their risk better.  I was surprised at his surprise:  after all, banks had repeatedly not 
+managed risk well.  Why did he think they would do so in the twenty first century, when they 
+had done such a bad job in previous centuries?  Moreover, anyone looking at the incentive 
+structures facing banks and bankers should have understood that they had incentives to engage in 
+excessive risk taking and short sighted behavior.  They acted as any economist should have 
+predicted that they would.   
+Even if there had not been such perverse incentive structures, those in the financial sector have 
+often been prone to irrational exuberance.  Even Greenspan had commented on this.  History was 
+replete of instances of such irrational exuberance.  What distinguishes banks from other 
+institutions is that in this sector, irrational exuberance has systemic consequences—there are 
+large externalities.  Bankers with irrational exuberance are gambling with other people’s money, 
+But the problems go deeper.  Bank managers and industry leaders often seem to show 
+remarkable ignorance of some of the basic principles of risk—including the Modigliani-Miller 
+theorem, which asserts that increasing leverage doesn’t increase market value—it doesn’t create 
+wealth, it simply shifts more risk upon the residual equity base.  (Of course, there could be an 
+                                                            
+6
+ In Congressional testimony on October 23, 2008, Greenspan described being “in a state of shocked disbelief” that 
+the lending institutions’ self?interest had not protected shareholders’ equity. Testimony available at 
+http://democrats.oversight.house.gov/images/stories/documents/20081023100438.pdf (accessed December 14, 
+2012).   
+4 
+ increase in value because of market imperfections, either because (a) market participants are 
+irrational, and don’t fully understand the increased risk imposed on equity; (b) shareholders as a 
+whole may gain because of the shift of risk to the government, resulting from an increase in what 
+might be termed the “bail-out subsidy”; or (c) distortions in the tax code.  But none of these are 
+7
+reasons to countenance an increase in leverage.)
+Thus, the widely held notion in the banking community that increased capital requirements (say 
+under Basel III) will increase the cost of borrowing either reflects a profound misunderstanding 
+of risk among those in the banking community; and/or their understandable desire to increase the 
+subsidy the sector gets from the public, disguising this in terms of the benefits to their customers; 
+and/or their understanding of risk, but their understanding that other market participants don’t 
+understand risk.   
+This implies that there should be strong regulations on the incentive structures of banks—it is 
+not just the size of the bonuses that should be of concern, but the design.  Higher deposit 
+insurance fees levied on banks engaged in higher levels of risk taking might also discourage 
+excessive risk taking, offsetting the implicit subsidy associated with government bailouts.  But 
+because of pervasive irrationalities, we cannot rely on incentive structures to curb excessive risk 
+taking.  There have to be strong restrictions on the risk taking, including the degree of leverage.  
+Excessively rapid expansion of a bank's assets, particularly within a given area, are almost a 
+sure sign of excessive risk taking.  There need to be “speed bumps.”  The costs of such 
+restriction—a slight postponement of perhaps some socially profitable lending—is far less than 
+the benefit—avoiding the kind of financial collapses that have occurred repeatedly. 
+It is natural to ask why so many financial institutions chose to adopt incentive structures that 
+seem so perverse.  Traditionally, one of the purported virtues of the market economy is that it 
+provides not just strong incentives but well designed incentive structures.  That has obviously not 
+been the case.  The explanation lies in deep rooted failures in corporate governance.  Much of 
+our thinking about the market economy is based on simple models of Marshallian nineteenth 
+century economics, with little relevance to understanding the functioning of managerial and 
+corporate capitalism of the twenty-first century.(This illustrates a more general theme, to which 
+we return later in this lecture:  The financial sector cannot be viewed as separate from the rest of 
+the economy.  It is affected by the laws and mores that affect other sectors—laws like those 
+related to bankruptcy and corporate governance, and mores such as those that affect the 
+acceptability of exploitation and the primacy of material values and incentives.  I will have little 
+                                                            
+7
+ For a more extensive discussion of these issues see “On the Need for Increased Capital Requirements for Banks 
+and Further Actions to Improve the Safety and Soundness of America’s Banking System,” witness testimony of 
+Joseph E. Stiglitz to the Senate banking Committee, August 3, 2011, available at 
+http://banking.senate.gov/public/index.cfm?FuseAction=Files.View&FileStore_id=97cec3e1-2d1d-44fa-acd9-
+a0a1bc640bc4 (accessed December 14, 2012),  and A.R. Admati, P.M. DeMarzo, M.F. Hellwig and P. Pfleiderer, 
+2010, “Fallacies, Irrelevant Facts, and Myths in the Discussion of Capital Regulation: Why Bank Equity is Not 
+Expensive,” Stanford University Working Paper No. 86.  
+5 
+ to say about these issues of social mores, except to note that as trust and social capital weakens, 
+the need for public regulation is enhanced.)   
+There needs to be deep reform of corporate governance laws, providing in particular better 
+provisions for say in pay.    
+The problems of distorted incentives are especially important with financial institutions which 
+cannot be allowed to fail because of the systemic consequences.  This brings me to the third 
+major lesson: 
+3. Banks that are too big to fail, too interconnected to fail, and/or too correlated to fail 
+present a real danger to the financial system and the economy 
+ 
+Financial institutions which are too big to fail, too interconnected to fail, or too correlated to fail 
+have an incentive to gamble:  if they win, they walk off with the profits, if they lose, the public 
+picks up the losses.  But the problems are deeper:  banks have an incentive to become too big, 
+too intertwined, and too correlated to fail; and because of the implicit guarantee that is provided 
+to such institutions, they have an advantage over other institutions.  The private returns to growth 
+in size and to interconnectedness exceed by a large measure the social returns (which may, in 
+fact, be negative.)   
+One aspect of “correlated” risk taking is the herding behavior that marks credit bubbles.  Such 
+irrational bubbles are a major source of macroeconomic volatility.  In the past, regulation has 
+typically focused on the safety and soundness of individual banks, but once we recognize the 
+central role of the correlated behavior of banks in causing macroeconomic fluctuations, we have 
+to ask how can we design a regulatory structure to reduce the scope and severity of such finance 
+induced fluctuations. 
+There should be strong regulations restricting the size and interconnectedness of banks.  (Some 
+of these restrictions relate to derivatives and CDS’s, are discussed under point 6  below.)Taxes 
+on large banks should be levied to “level the playing field." 
+Reducing the risk of “too correlated to fail” is more complex, and requires ensuring a diversity 
+8
+of financial institutions, with different ownership, incentives, and objectives.  This argues 
+strongly against the universal bank model.  While more specialized financial institutions may 
+face a greater risk of bankruptcy, the risk of systemic failure is greater where all banks are 
+universal banks, and the social costs of systemic failure is an order of magnitude greater than 
+the costs of the failure of individual institutions.  (Much of that cost can be handled through 
+diversification of the ownership shares.) 
+                                                            
+8
+ This was a key point emphasized in The Stiglitz Report: Reforming the International Monetary and Financial 
+Systems in the Wake of the Global Crisis, with Members of the Commission of Experts of the President of the 
+United Nations General Assembly on Reforms of the International Monetary and Financial System, New York: The 
+New Press, 2010.  
+6 
+ Macro-prudential regulation is essential to prevent the growth of credit bubbles and other forms 
+of macroeconomic volatility.  Of particular concern is collateral based lending—where the value 
+of the collateral, and thus the magnitude of lending, increases in a bubble, thus reinforcing the 
+bubble.  By demanding high lending standards and increased collateral in boom periods, the 
+financial system can act as an automatic stabilizer, rather than the automatic destabilizer that it 
+is under current arrangements. 
+4. The Pervasive Imperfections in Competition need to be curbed 
+ 
+In most countries, the financial sector is far from perfectly competitive.  In many markets, even 
+in advanced countries, there are only one or two lenders to small businesses.  In many countries, 
+banks have acted collusively to obtain outsized returns from their control of the payments 
+mechanism.  In most countries, the persistence of returns that are far higher than could be 
+justified by effective competition in certain lines of business are suggestive of limitations of 
+competition.  
+Imperfections of information naturally give rise to imperfections in competition, so we should 
+not be surprised that even in countries where there are many banks, markets are far from 
+competitive.  Because markets that are fully transparent are more competitive, and less 
+profitable, there are strong market incentives for reducing and impeding transparency.   That is 
+just one of the reasons that we need strong regulation ensuring transparency, including—and 
+especially—for derivatives (see the discussion below).  
+But even with reasonable laws governing transparency, effectively enforced (not the situation 
+today), in many areas within the financial markets competition is likely to remain limited.  We 
+can however circumscribe the worst practices.  Modern technology has, for instance, made it 
+possible to have an efficient electronic payments mechanism, where it would cost but a fraction 
+of a cent to transfer money from a customer's bank account to the merchant from which he has 
+purchased a good.  But the banks, in their attempt to extract monopoly rents out of their control 
+of the payments mechanism, have resisted the creation of this kind of an electronic transfer 
+mechanism. 
+There need to be strong restrictions on credit card fees, interchange fees charged merchants, 
+and other anti-competitive practices.  Restrictions on the size and ranges of bank activities and 
+the interconnectness of banks would not only increase systemic stability, it would also enhance 
+competitiveness. 
+5. Consumer and investor  protection:  information asymmetries and exploitation 
+In most countries, the financial sector has been actively engaged in exploiting poorly educated 
+and financially uninformed users.  They have engaged in deceptive practices, and even in market 
+manipulation and fraudulent practices with seemingly sophisticated customers.  They have 
+demonstrated a remarkable level of moral turpitude.  This has contributed not only to creating 
+7 
+ high levels of inequality—moving money from the bottom and middle of the pyramid to the 
+top—but also to a lack of trust in markets and the market economy.  Markets cannot function 
+well without such trust—and this is another way in which the banks have exhibited enormous 
+adverse externalities.   More generally, there are large costs to the sector's rent seeking activities-
+-money doesn't move from the bottom to the top costlessly; the benefits to those at the top are 
+less than the losses to the rest. 
+ 
+There needs to be strong consumer protection legislation, a regulatory framework along the 
+lines of the USConsumer Financial Protection Bureau.  There need to be strong restrictions on 
+usury, overdraft fees, credit card fees and penalties, predatory lending, etc.   
+ 
+But the consumer protection agency needs to do more than just protect against abuses of the 
+private financial sector.  It needs to innovate—to design, for instance, mortgage products that 
+help ordinary citizens manage the risks of home ownership.   
+ 
+The London Interbank Offered Rate (Libor)scandal illustrates the potential depth of the 
+consequences of unfettered markets:  there is a $350 trillion derivative market and somewhat 
+smaller loan market  indexed to a number that we now know is manipulatible and manipulated, 
+that doesn’t represent what the words seem to suggest it represents.   
+ 
+The continuation of the market linked to Libor is itself scandalous.  There is ample evidence that 
+even today it does not reflect any true lending rate:   is it conceivable that interbank lending rates 
+for a particular bank whose cds’s spread have soared barely move?   
+ 
+Contracts should be indexed to T-bill rates, which are less manipulable, and may be even more 
+linked to the kinds of risks which these indexed contracts are suppose to handle. 
+But even if the T-bill rate is less correlated with the risks that individuals care about, the 
+advantages in the reduction of potential for manipulation and exploitation make the movement 
+away from Libor desirable. 
+ 
+6. Derivatives and CDS's:  We need tomakeMarketsWorklike Markets 
+ 
+Derivatives and CDS’s bring together many of the issues discussed so far:  the market is far from 
+competitive, with a few big banks deriving significant returns (in the billions) from these 
+activities, making it understandable why they resist regulation so strongly.  The lack of 
+transparency facilitates market manipulation and a lack of competition, enhancing bank profits, 
+but at the same time posing significant systemic risk, which became so evident in the 2008 crisis.  
+There is also an element of regulatory arbitrage, or what might more accurately be described as 
+regulatory deception.  If regulators treat a bank’s holding of a risky bond combined with a CDS 
+(supposedly aninsurance policy on the bond) as if the bank were holding a safe asset, it allows 
+8 
+ the bank to lend more money—to leverage its portfolio even more.  But the insurance may be 
+phony insurance—sold at a low price because the benefits would never be paid by the insurance 
+company because in the event of the insured against event occurring, the insurance would 
+default:  this was precisely what happened with AIG. 
+Moreover, by failing to net out their positions and by not trading through exchanges, the banks 
+increase systemic risk and reduce transparency, another instance of externalities imposed upon 
+others.   Indeed, they reduce the overall efficiency of the market, since the standard arrangements 
+undermine principles of market decentralization. For example, with large credit default swaps 
+not cleared through an adequately capitalized clearing house, knowing the risk of default of any 
+one firm required knowing the risk position of every firm with which it was financially 
+interlinked—in a vast, difficult, simultaneous equation system.    
+Transparency and the euro-crisis 
+The euro crisis has once again brought out the consequences of the lack of transparency in 
+derivative positions.  No one knew for sure the full consequences of a Greek restructuring, partly 
+because no one knew who bore the risks, or what banks may have taken a speculative 
+positioning.  One of the explanations for the ECB’s hard-to-justify position that the restructuring 
+should be done in a way that was not a credit event—that is, so that the banks who had bought 
+insurance would not be repaid—was that they were more concerned with the banks who had 
+taken  a speculative position.   
+Government insured financial institutions (whether the insurance is explicit, or implicit—as a 
+result of being too big to fail) should not be allowed to issue derivatives.  While it is not clear 
+whether such financial products are insurance products or gambling instruments, they are not 
+loans, there is no justification for government encouraging them through implicit or explicit 
+insurance.  There is no evidence of compelling economies of scope to offset the market distortion 
+arising from such subsidies.   
+Derivatives should be traded over adequately capitalized exchanges and positions should be 
+transparent.Some critics have worried that trading over exchanges will concentrate risk;there 
+could be systemic consequences to the failure of an exchange.  The response is to increase 
+capitalization and to require all those who make use of the exchange to be jointly and severally 
+liable for the losses.  The rest of society should not have to bear the consequences of their failure 
+at risk management.   
+It should be clear that Dodd-Frank went only a little way towards addressing the problems posed 
+by derivatives.  A fundamental flaw of Dodd-Frank was that it did not recognize the deep 
+disparity between private rewards and social returns; it did not recognize that market participants 
+had incentives to design transactions in ways that increased systemic instability and decreased 
+the economy’s efficiency, either in gathering and disseminating information or in assessing or 
+distributing risk. 
+9 
+  
+Derivatives and other new financial productions were championed as part of financial 
+innovation.  But as Paul Volcker pointed out, it was hard to see that any of this financial 
+innovation had led to faster real economic growth.  It had contributed to more inequality—to 
+greater wealth for the bankers—but it was hard to see societal benefits.  Indeed, it has been 
+associated with more instability.   
+ 
+We now understand better why that is the case.  Much of the financial innovation was not 
+directed at improving the efficiency of the economy and enhancing the ability of ordinary 
+Americans to manage the risks which they faced.  Some of the innovations were directed at 
+improved ways of exploiting poor Americans;some at regulatory arbitrage;some at new forms of 
+market deception.  In each of these cases, there were marked discrepancies between social and 
+private returns.  Whenever there are such discrepancies, not only will markets not be efficient, 
+innovation will not be directed at enhancing societal welfare. 
+ 
+The one part of the agenda that seemed to have some rationale was called “completing the 
+market.”  Since the earlier work of Arrow and Debreu, one of the widely recognized market 
+failures was the absence of key risk markets.  The notion was that the new products enabled 
+individuals to manage risks better.  Ironically, they were typically priced by using “spanning” 
+theorems—the new products were viewed as a linear combination of existing products, or at least 
+near enough so to be able to base prices on these related products.  In this view, the real 
+advantage of the new products was the lower transactions cost.  But as those in the financial 
+sector heralded these benefits, total transactions costs soared—to the point that just profits in the 
+financial sector amounted to 40 percent of all corporate profits.  
+ 
+But there is a basic result called the theory of the second best, which says that when there are 
+many market distortions, eliminating one of them may actually make matters worse.  In the 
+presence of imperfect risk markets, for instance, removing trade barriers may make everyone in 
+9
+both countries worse off.  In the presence of imperfect risk markets, capital market 
+10
+liberalization may increase volatility in consumption and make the economy worse off.
+ 
+In this case, matters may be even worse.  When individuals have different assessments of risk 
+(the probability of a given event), they can through buying and selling derivatives create pseudo-
+wealth—both parties believe that they will win the bet, and hence both believe that they are well 
+off.  In reality, of course, this is just a zero sum game, and next period, one will be proven right, 
+the other wrong.  But at that point, there can be large destruction of this pseudo-wealth, with 
+                                                            
+9
+ See D. Newbery and J. E. Stiglitz, “Pareto Inferior Trade,”  Review of Economic Studies, 51(1), January 1984, 
+pp. 1-12. 
+10
+ See J. E. Stiglitz, “Capital Market Liberalization, Globalization, and the IMF,” in Capital Market Liberalization 
+and Development,J.E. Stiglitz and J.A. Ocampo (eds.), New York: Oxford University Press, pp.76-100.  
+10 
+ severe macroeconomic consequences.  Of course, if only two individuals engaged in such bets, 
+the macroeconomic consequences would be negligible.  But when they are engaged in by large 
+numbers, there can be severe consequences. 
+ 
+This provides a still further reason for restricting derivatives—or at the very least, making sure 
+that they are not facilitated and subsidized, implicitly or explicitly, by government policy. 
+ 
+Unfortunately, not only do we encourage the derivatives through allowing them to be sold by 
+government-insured institutions, we implicitly encourage them through bankruptcy laws that 
+give them priority in bankruptcy. 
+ 
+It is imperative for government to try to correct discrepancies between social returns and private 
+rewards because in the presence of such distortions, not only will markets be inefficient, but 
+innovation will be misdirected. 
+ 
+Legal frameworks—corporate governance laws, competition laws, bankruptcy laws, financial 
+sector regulations—provide the rules of the game, affect the distribution of income and the 
+relationship between social and private returns, and can be thought of as providing (implicitly) 
+the basis of industrial policy, encouraging some sectors at the expense of others.  The legal 
+framework in some countries, such as the United States, has resulted in a distorted and bloated 
+financial sector.   For example, among the reforms needed in our bankruptcy law are the 
+following: 
+ 
+Bankruptcy law should treat derivatives junior to workers and senior creditors.Bankruptcy law 
+should be used to encourage transparency:  any derivative not registered would be junior to all 
+other claimants; and losses on derivatives that are not fully disclosed would not be tax 
+deductible. 
+ 
+7. The shadow banking system 
+ 
+Prior to the crisis, many thought that the shadow banking system did not pose systemic risk.  An 
+investment bank that failed would (some believed) have no systemic consequences.  We now 
+know that that is not true.  Even a large insurance company can pose systemic risk.   
+Much of the shadow banking system arose to circumvent regulations imposed on commercial 
+banks.  And much of the theory providing justification for the shadow banking system has been 
+put into question by the crisis.  For instance, while the benefits of risk diversification through 
+securitization are well recognized, the crisis has exposed the downside to securitization:   
+One of the arguments for institution- (bank-) based lending is the internalization of information 
+externalities.  Securitization offered advantages in risk diversification, but these advantages were 
+11 
+ more than offset by the attenuation of the quality of information.  A great deal of attention has 
+been focused recently on the failures of the rating agencies; but the problems associated with the 
+inadequacy of incentives for gathering good information are partially inherent and have long 
+been recognized: if markets perfectly conveyed information (as the advocates of informationally 
+11
+efficient markets claimed), then there would be no incentives to gather information.  Earlier, 
+we noted that private decisions with respect to sharing and transferring risk are not, in general, 
+socially optimal.  Even worse, the way private markets balance risk and information efficiency is 
+not, in general, optimal.  Systems that disperse risk inherently weaken “accountability” and 
+incentives not just for gathering information, but for ensuring the “quality” of the financial 
+products being produced.   
+12
+If diversification leads to an attenuation of incentives for obtaining good information, it can 
+lead not only to poorer overall performance, but more instability.  Hence, the trade-off is 
+markedly different than has traditionally been envisaged in the securitization literature, where it 
+was presumed that securitization would lead to enhanced systemic stability.  Different policy 
+frameworks (rules of the game) can lead to different financial architectures; and different 
+financial architectures balance the trade-offs differently, some better than others, some 
+enhancing the ability to absorb small risks, but making the economy more prone to systemic risk 
+in the event of a large shock, or a set of correlated smaller shocks.   
+The shadow banking system has to be tightly regulated, e.g. with tight leverage (capital and 
+liquidity) requirements—and because wholesale deposits may be even more fickle that consumer 
+deposits in commercial banks, the requirements may even have to be higher.  Originators of 
+securities have to have “skin-in-the game,” i.e. they have to retain at least a 10% stake in the 
+security.   
+There need to be deep reforms in the credit rating agencies.  The quasi-public role (delegating 
+responsibility in ascertaining which securities are safe enough to be held by a pension fund) 
+needs to be re-examined.  There needs to be standardization of the ratings.  There needs to be a 
+rating of the rating agencies performance.  They need to be held more accountable.(Litigation in 
+Australia where the credit rating agencies were found culpable is a beginning in doing so.) 
+ 
+8. The centrality of banks and the necessity of central banks using a full range of 
+instruments 
+                                                            
+11
+See Sanford Grossman and J. E. Stiglitz, “Information and Competitive Price Systems,” American Economic 
+Review, 66(2), May 1976, pp. 246-253, and Sanford Grossman and J. E. Stiglitz, On the Impossibility of 
+Informationally Efficient Markets,” American Economic Review, 70(3), June 1980, pp. 393-408. 
+12
+As in Calvo, Guillermo A. and Mendoza, Enrique G., 2000. “Rational contagion and the globalization of securities 
+markets,” Journal of International Economics, Elsevier, 51(1), pp. 79-113 
+12 
+ Banks, and their failures, were central to the crisis of 2008.  But curiously, banks play little role 
+in standard macroeconomics models, in which the financial sector is often summarized in a 
+money demand-and-supply equation.  These models typically didn’t model the banking sector 
+carefully—or at all.   Such a reduced-form approach may suffice in normal times, but not now, or 
+13
+in other times of crisis, such as the East Asia crisis.
+ 
+The importance of banking (including the shadow banking system), as opposed to the provision 
+of credit through markets, is rooted in information economics.  In particular, they are the 
+repository of institutional knowledge (information) that is not easily transferred, and the 
+internalization of information externalities provides better incentives for the acquisition of 
+14
+information, but, as we have noted, at the cost of a lack of direct diversification of risk .
+It should now be clear why an analysis of banking has to be central in any macroeconomic 
+analysis:  A key channel through which monetary policy affects the economy is the availability 
+of credit and the terms at which it is available.  It is the lending rate that firms can borrow at that 
+they care about—not the interest rate at which the government can borrow.  The spread between 
+the two can and does vary greatly; banks are central to the setting of the lending rates at which 
+small and medium sized enterprises can borrow.  Government policy can affect the spread 
+through both conventional monetary instruments and a variety of regulatory policies, and 
+monetary authorities need to be sensitive to the various  market forces which might affect the 
+spread, so that they could take offsetting actions.   
+If we are to understand the impact of monetary policy, we must better understand how what 
+Central Banks do (either in conventional open market operations, reserve requirements, interest 
+provided on reserves, or regulatory requirements) affects the behavior of banks and the shadow 
+banking system.  This is especially so because banks are still the locus of most SME borrowing, 
+and because variability in SME investment and employment is central to understanding 
+macroeconomic variability.   
+15
+Greenwald and Stiglitz provide a beginning of a research program of creating macroeconomic 
+models where banks play a central role and are explicitly modeled.  Credit availability too plays 
+a central role—rightly so, because credit markets are often characterized by credit rationing.  If 
+there were no credit rationing, there would be no liquidity crises. 
+                                                            
+13
+ The irony is that many of the proponents of these models made a great fuss over the fact that they were structural, 
+i.e. deriving savings behavior from intertemporal utility maximizing behavior.  
+14
+Though shareholder risk diversification can still occur.  The fact that this is so raises questions even about the 
+validity of the risk argument for diversification through securitization. 
+15
+ B. Greenwald and J.E. Stiglitz, Towards a New Paradigm in Monetary Economics, Cambridge: Cambridge 
+University Press, 2003. 
+13 
+ Already, though, there are clear policy prescriptions both about policies aimed at macro-stability 
+(preventing crises) and in restoring the economy after an economic crisis—prescriptions that 
+may differ markedly from those arising out of the standard conventional (DSGE) models.    
+Quantities (credit availability) and liquidity can be as, or more important, than interest rates.  
+The interest rate that matters is the lending rate, not the Treasury bill rate, and this should be the 
+focus of attention. 
+Credit availability and the terms at which banks lend money is affected by the T-bill rate (which 
+in turn is affected by open market operations) but also by a host of regulatory measures, such as 
+capital requirements.  These regulatory instruments have first order macroeconomic 
+consequences and should be treated as macroeconomic instruments.  In some cases, they can be 
+far more effective.  Increasing margin and down payment requirements would have been far 
+more effective in curbing the tech and housing bubbles than just adjusting interest rates.   
+Changes in technology and market structure and some regulations can affect the effectiveness of 
+other instruments.  In particular, the elimination of regulation Q has meant that changes in T-bill 
+rates have a smaller wealth-effect on banks, so that much of the effect of conventional monetary 
+policy is through substitution effects, which typically are far weaker.   
+Most importantly, central banks need to use all of the instruments at their disposal.The 
+artificially self-imposed constraint adopted by many central bankers influenced by neo-liberal 
+doctrines—that central bankers should limit themselves to adjusting short term interest rates—
+has been costly.  It was predicated on the false notions that markets were always efficient, and 
+therefore central banks should minimize their interventions.  But all central banks intervene—
+that is why they were created.  And there is no theorem that says that optimal intervention should 
+be limited to short term rate setting.  Indeed, in other contexts,such as tax policy, we know that 
+optimal intervention (taxation) involves imposing a multiplicity of interventions(taxes)—it is 
+16
+better to have a large number of small interventions than one large intervention .   
+The crisis has forced many Central Banks to rethink their doctrinaire policies.  Even the Fed has 
+become more active in the use of alternative instruments.  I should say a word a few words later 
+about one such instrument, quantitative easing.   
+9. Broader objectives—beyond inflation—as well as more instruments 
+ 
+In the aftermath of the crisis, it is evident that the single-minded focus of some central banks on 
+inflation was misplaced.  The losses in welfare from low to moderate inflation were of orders of 
+magnitude smaller than the losses from the financial collapse.  But the underlying hypothesis, 
+held by many central bankers, that keeping inflation low was necessary, and almost sufficient, 
+                                                            
+16
+ P.P. Ramsey, "A Contribution to the theory of Taxation." Economic Journal (1927), 47-61. 
+14 
+ for stable and strong growth has been shown to be wrong—and was never really justified by 
+sound economic models.   By diverting attention from what was really important,inflation 
+targeting may accordingly not only have failed to enhance macro-stability, it may actually have 
+contributed to instability. (Of course, high levels of inflation are a problem, but they are often 
+symptomatic of other more general problems in the economy.) 
+ 
+The period immediately before the crisis showed another aspect of the destabilizing effects of 
+inflation targeting:  developing countries exposed to an adverse supply shock which results in 
+“imported” inflation increased interest rates, slowing the economy down even more, and 
+imposing even greater costs on workers already suffering from high food and energy prices.  The 
+only way that the increased interest rate would have had a significant effect on inflation was by 
+imposing such stress on the non-traded sector and on wages that prices of non-traded goods and 
+labor declined enough to offset the rising international prices.  But then the cure would have 
+been worse than the disease.   
+ 
+The more general point is that the response to any shock to the economy should depend on the 
+nature of the shock.  If it is, for instance, a demand shock, then it may be appropriate to curb 
+demand through interest rate policy.   
+ 
+This and the preceding point illustrate another more general one:  for years, Tinbergen's 
+approach to policy has been extremely influential.  If the number of instruments equals the 
+number of  objectives, it has been argued that one should "match" instruments with objectives, 
+and different institutions should be assigned an instrument and a target for which they are 
+responsible.  The central bank should be responsible for inflation, using its instrument of choice, 
+the interest rate.  Tinbergen focused on controllability, but this system has been argued for on the 
+basis of accountability:  there is a simple metric (the level of inflation), in this view, by which 
+central bank performance can be judged.   
+ 
+But Tinbergen's analysis was conducted in a highly stylized linear model, in which with n 
+instruments one could control n objectives.  In a complex non-linear system with risk—including 
+17
+instrument uncertainty —and where one is concerned not just with the ultimate equilibrium 
+(which in practice may never be attained) but with real-time performance--one should use all the 
+instruments at one's disposal, and coordination among policymakers is essential.  There are no 
+general theorems on decentralization—to the contrary, what theorems we have relate to the 
+dangers of decentralization.   
+ 
+                                                            
+17
+ That is, one cannot be sure about the consequences of any action.  See, e.g. B. Greenwald and J.E. Stiglitz, 
+“Toward a Theory of Rigidities,” American Economic Review, 79(2), May 1989, pp. 364-69. 
+15 
+ In practice, this means that monetary and fiscal policy needs to be coordinated, and it makes no 
+sense for the body controlling one of these to be allegedly independent, while the one responsible 
+for the other is politically accountable, a point to which I shall return shortly. 
+Central banks should broaden their objectives beyond inflation.  They need to focus too on 
+employment, growth, and financial stability.  And monetary policies need to be coordinated with 
+fiscal policies. 
+10. The complex effects of monetary policy: asymmetries, irreversibilities, sectoraleffects, 
+distributionaleffects 
+ 
+ Monetary authorities need to be especially sensitive to asymmetries in "controllability" and the 
+costs associated with the conduct of monetary policy.  While monetary policy may be an 
+effective instrument in constraining output, it may be far less effective in stimulating the 
+economy in a deep downturn.  This, in turn, implies asymmetries in the conduct of monetary 
+policy.  There is always going to be uncertainty, for instance in judging the level of employment 
+or growth at which inflation starts to increase or in judging whether there is a bubble.  But a 
+slight restraint on the economy in dampening a potential bubble has a miniscule cost relative to 
+the costs imposing by the breaking of a bubble.   
+ 
+This is an example where there are long–term, hard-to-reverse effects of mistakes.  There are 
+other examples:  prolonged high unemployment gives rise to hysteresis effects, as skills atrophy.   
+ 
+So too, advocates of monetary policy as a control instrument (over fiscal policy) stress its 
+flexibility, the ability to fine tune policies as new information comes in.  But they fail to note that 
+some parts of the economy are more interest-sensitive than others, and some parts are more 
+sensitive to the availability of bank credit than others.  Hence loosening and tightening of credit 
+induces more volatility in some sectors than others, and because of imperfections in risk markets, 
+this imposes significant costs on these sectors.  In a sense, the way monetary policy is conducted 
+distorts the economy.   
+ 
+At the same time, the way monetary policy is conducted can have significant distributional 
+effects.  While it is often asserted that inflation is the cruelest tax, in advanced countries at least 
+we have protected the poor against much of the consequences, since social security and other 
+programs are often indexed to inflation.  With competitive labor markets, wages tend to rise with 
+inflation, and so even workers are protected.  (Sometimes it seems that this is not the case, but 
+that is because the shocks to the economy that set off inflationary episodes often are shocks that 
+affect labor productivity; we confuse correlation with causation.)  Inflation has redistributive 
+effects--against holders of long term bonds.  But fighting inflation by raising interest rates and 
+increasing unemployment also has distributive effects—not only is the cost of the higher 
+unemployment borne directly by workers, but workers suffer doubly as the higher 
+16 
+ unemployment exerts downward pressure on wages, and triply, as lower GDP leads to lower tax 
+revenues and cutbacks of public programs aimed at the bottom and middle.   
+ 
+Not only have monetary authorities often failed to note the significant distributive effects of their 
+policies, the models on which they rely have not given them the prominence that they should.  
+Even if one did not put much weight on inequality, inequality can have large macroeconomic 
+18
+effects.   My own work (summarized in my recent book The Price of Inequality) highlights 
+this.  So too did the International Commission of Experts appointed by the President of the UN 
+19
+General Assembly examining the causes of the 2008 crisis.  And so too has the IMF, which has 
+20
+noted the systematic relationship between inequality and instability.
+ 
+While I can't in this brief lecture go into all the channels through which this occurs, let me note 
+one that was evident in the run up to this crisis.  As incomes of most Americans stagnated and 
+declined, they incurred greater indebtedness as they strived to maintain their standards of livings 
+and to keep up with those at the top who were doing so well.  Had monetary authorities not offset 
+the effects of growing inequality (because the marginal propensity to consume of those at the top 
+is so much lower at the top than at the bottom and middle, as income shifts from the middle and 
+bottom to the top total consumption demand is lowered) by lowering interest rates and relaxing 
+regulations, thereby helping create a housing bubble, aggregate demand would have been 
+lowered, and unemployment would have increased.  But such actions provided only a temporary 
+palliative.  The temporizing was sowing the seeds of destruction:  it was simply a matter of time 
+before the bubble which sustained the economy, offsetting the effects of the growing inequality, 
+broke.  But the period of recovery, during which actual output remains substantially below 
+potential output, may be longer and the costs far greater than the benefits and duration of the 
+bubble.  And this is especially so when the underlying problem is not addressed; for the 
+downturn itself gives rise to adverse distributional effects which weaken the economy further.   
+ 
+Monetary authorities need to be more sensitive to the distributive and sectoral consequences of 
+their policies, and to the fact that some mistakes--letting bubbles grow, or allowing 
+unemployment to rise in an excessive zeal for fighting inflation--have long term consequences 
+which are hard to correct.   
+ 
+11. Limited effectiveness of monetary policy and the channels of monetary policy:  
+exploiting market imperfections 
+                                                            
+18
+The Price of Inequality: How Today’s Divided Society Endangers Our Future, New York: W.W. Norton,  
+2012; see also J. E. Stiglitz, “Macroeconomic Fluctuations, Inequality, and Human Development,” Journal of 
+Human Development and Capabilities, 2011, 13(1), pp. 31-58. 
+19
+ Available as The Stiglitz Report: Reforming the International Monetary and Financial Systems in the Wake of the  
+Global Crisis,Op.cit. 
+20
+ See Andrew G. Berg and Jonathan D. Ostry, “Inequality and Unsustainable Growth: Two Sides of the Same 
+Coin?,” IMF Staff Discussion Note, April 8,  2011, available at 
+http://www.imf.org/external/pubs/ft/sdn/2011/sdn1108.pdf (accessed December 14, 2012).  
+17 
+  
+This discussion has highlighted one of the lacuna in the models used by many monetary 
+authorities--the lack of attention to distribution.  Earlier remarks highlighted other lacuna--the 
+lack of attention to banks and the details of the financial system more broadly.  But these are not 
+21
+just mistakes of modeling, about which I have written more extensively elsewhere , but they 
+lead to misguided views about the channels through which monetary policy affects the economy, 
+and indeed, the very reasons that monetary policy affects the economy.  And without 
+understanding these channels, one can't understand why sometimes monetary policy is less 
+effective than at other times, nor can we design policies to maintain stability or restore the 
+economy to full employment. 
+22
+The effectiveness of monetary policy hinges critically on certain market imperfections.
+Some years ago, I proved a generalization of the Modigliani-Miller (MM) theorem, which had 
+23
+shown the irrelevance of corporate financial policies, for the public sector.  I showed that, 
+under the idealized conditions under which the MM theorem held, public financial operations, 
+such as a change in the maturity structure of government debt, should have no effect. (The result 
+could also be thought of as a generalization of the Barro-Ricardo theorem, suggesting that 
+government debt itself had no effect.)  In a simple model with infinitely lived individuals, putting 
+aside any distributive effects, we owe money to ourselves, so government debt is simultaneously 
+a liability and an asset.  That that is so provides an important critique to those excessively 
+worried about government debt, at least when it is internally held (it’s another matter when the 
+                                                            
+21
+J.E. Stiglitz, 2011, “Rethinking Macroeconomics: What Failed and How to Repair It,” Journal of the European 
+Economic Association, 9(4), pp. 591-645;J. E. Stiglitz, Freefall: America, Free Markets, and the Sinking of the 
+World Economy, New York, W.W. Norton, 2010. 
+22
+ This section of my lecture is adapted from my paper, “Monetary Policy in a Multi-PolarWorld," presented to an 
+IEA Roundtable  on capital flows at Izmir, Turkey on November 1-2, 2012 
+23
+ That work itself was based on my generalization of the MM theorem (J. E. Stiglitz, “A Re-Examination of the 
+Modigliani-Miller Theorem,” American Economic Review, 59(5), December 1969, pp. 784-793; J. E. Stiglitz, “On 
+the Irrelevance of Corporate Financial Policy,” American Economic Review, 64(6), December 1974, ), work which 
+itself, together with J. E. Stiglitz “Information and Capital Markets,” in Financial Economics: Essays in Honor of 
+PaulCootner, William F. Sharpe and Cathryn Cootner (eds.), Prentice Hall, New Jersey, 1982, pp. 118-158;reprinted 
+in The Selected Works of Joseph E. Stiglitz, Volume II: Information and Economic Analysis: Applications to Capital, 
+Labor, and Product Markets, Oxford: Oxford University Press, 2013, pp. 55-84), explained the limitations on the 
+theorem .  For instance, in  “On the Irrelevance of Corporate Financial Policy,” American Economic Review, 64(6), 
+December 1974, pp. 851-866,  I showed the irrelevance of corporate financial policies in a general equilibrium 
+model, under much more general conditions than those that Modigliani and Miller had established the result.   
+I subsequently extended these results to the public sector in “On the Almost Neutrality of Inflation: Notes on 
+Taxation and the Welfare Costs of Inflation,” in Development in an Inflationary World, M. June Flanders and Assaf 
+Razin (eds.), New York: Academic Press, 1981, pp. 419-457; “On the Relevance or Irrelevance of Public Financial 
+Policy: Indexation, Price Rigidities and Optimal Monetary Policy,” in Inflation, Debt and Indexation, R. Dornbusch 
+and M. Simonsen (eds.), MIT Press, 1983, pp. 183-222 and of Economic Education, 19(2), Spring 1988, pp. 171-
+177; and “On the Relevance or Irrelevance of Public Financial Policy,” in The Economics of Public Debt, 
+Proceedings of the 1986 International Economics Association Meeting, London: Macmillan Press, 1988, pp. 4-76. 
+18 
+ debt is held by foreigners, because then the debt amounts to a diminution in the country’s “net 
+worth.”) 
+The intuition, of course, is simple, and it is the same that underlies the Barro-Ricardo analysis (in 
+its general equilibrium form):  if the government borrows more now (say, instead of paying for 
+current expenses by raising taxes), to be repaid at some later date, the effect can and will (in 
+general equilibrium) be precisely offset by the representative consumer saving more, and using 
+the funds to repay the government debt later.  But in the general equilibrium  formulation, there 
+can be multiple heterogeneous individuals, and the result holds, assuming, of course, that those 
+who would have paid the taxes now pay the “equivalent” amount later, i.e. that there are no 
+distributive consequences to the postponement of the taxes.  And the same holds if the 
+government decides to raise more funds by a sequence of short-term borrowings, rather than by 
+long term debt. 
+The empirical evidence is overwhelming that the Barro-Ricardo theorem, and my 
+24
+generalizationof it, are wrong.  The question is not the validity of the proposition, but why it 
+fails.  And what insights does this provide us into capital markets and the workings of monetary 
+policy?   
+Distributive effects, capital constraints, and seeing through the public veil 
+It should be obvious, as we have already noted, that it is hard to avoid distributive effects and 
+political economy considerations (the absence of which are essential to the validity of the Barro-
+Ricardo result).  In the limiting case, with an overlapping generations model, the decision to 
+postpone financing for current expenditures through taxes has potentially important 
+intergenerational effects.  To be sure, there may be partially offset through changes in 
+intergenerational transfers, but the fact is that most individuals do not leave any significant 
+25
+bequests to their children , in which case there can’t and won’t be such offsetting bequests.   
+A variety of capital market imperfections provide the basis of the strongest theoretical critique.  
+If, for instance, individuals would have want to have borrowed more, but are constrained from 
+                                                            
+24
+See for example, D.S. Johnson D S, J.A. Parker, N.S. Souleles, 2006, “Household Expenditure and the Income 
+Tax Rebates of 2001,” The American Economic Review,  96(5): 1589-1610. Anecdotally, when Bush cut taxes 
+dramatically in 2001 and 2003 the average savings rate fell to near zero—it did not increase as the Barro-Ricardo 
+analysis would have suggested.  Of course, there were many other things going on, and defenders of the theory 
+might argue that were it not for the tax cut, savings would have been even lower, i.e. minus 2 or 3% of GDP.  But 
+with credit constraints already binding for so many individuals—and with the bottom 80% of America already 
+consuming 110% of their income—it is hard to believe that in the absence of the tax cuts, the savings rate would 
+have been that low.   
+25
+ In fact, most individuals have almost no wealth--and hence no bequests of significance.  See, for example, E.N. 
+Wolff and M. Gittleman, “Inheritances and the Distribution of Wealth Or Whatever Happened to the Great 
+Inheritance Boom?” BLS Working Paper 445, January 2011, who find that between “1989 to 2007, 21 percent of 
+American households at a given point of time received a wealth transfer and these accounted for 23 percent of their 
+net worth.”  
+19 
+ doing so, the existence of an incremental future liability will not induce them to start saving.  
+The borrowing constraint will simply be less binding than it was before.  By the same token, 
+were the government to decide to tax more and borrow less, the individual facing a borrowing 
+constraint won’t be able to offset the effect through increased borrowing.   
+In reality, most individuals do not fully incorporate future tax liabilities into their budget 
+constraints—and even less so, do they incorporate the “risk pattern,” so that changes in the risk 
+pattern, as a result of a change in say the maturity structure of debt (or a shift from unindexed 
+debt to indexed debt) are not offset by corresponding changes in their portfolios.  (As another 
+example:  as the Fed bought long term bonds, there was the obvious risk that should it reverse 
+26
+the purchases as the economy recovers, there would be a capital loss.  The expectation of such 
+a capital loss, with full integration of the public and private budget constraints, should have had a 
+contractionary effect on consumption, offsetting the intended expansionary effect.  The Fed 
+suggested it might hold the bonds to maturity, using other ways of tightening credit, e.g. by 
+paying interest on deposits at the Federal Reserve, in effect enabling it never to realize the capital 
+losses.  But these only mask the reality that (the present discounted value of) government 
+revenues are less than they otherwise would have been; they don’t change the predicted adverse 
+effect on consumption, assuming full integration of public and private budget constraints  and 
+27
+full rationality.  ) 
+Monetary policy in a world of interest bearing money 
+It is clear that the idealized world of Modigliani-Miller provides an inadequate description of the 
+28
+economy.  There is a widespread assumption that monetary policyhas some effects.   
+But modern monetary theory lives in a half-way house of incompletely articulated assumptions of 
+imprecisely defined market imperfections and distributive effects, leading to speculative 
+observations about possible channels through which monetary policy might yield  effects, with 
+ambiguous quantitative significance. 
+Today, for instance, with cash management accounts, T-bills can, in effect, be used as money for 
+purposes of transactions.  In the standard model in which interest rates are determined by the 
+demand and supply for money, an open market operation entailing an exchange of T-bills for, 
+say, “money”, doesn’t change the effective supply of money, since T-bills themselves can be 
+                                                            
+26
+ The general point that it is hard to explain why temporary interventions (such as associated with IMF short term 
+loans to a country) should have long term effects in models with rational expectations was made in Stiglitz [1999] 
+27
+ The irony is that government insists that banks use mark to market accounting, but the central bank doesn’t do so 
+for itself.   
+28
+ My own earlier work on asymmetric information and stressing the importance of bankruptcy provided part of the 
+critique.  Higher debt ratios may entail higher (expected) losses from bankruptcy and may have signaling/screening 
+effects.  (Stiglitz, J.E., 1969, 1982,   Op.cit .  But these “limitations” are not relevant, at least for countries like the 
+United States, where there is essentially no risk of soverign default. 
+20 
+ used for transactions, and so such an exchange (open market operations) shouldn’t  have any 
+effect on interest rates.  And this is especially so in a world in which T-bills are yielding close to 
+zero nominal interest rates. 
+Institutional constraints, credit availability, profit maximizing risk-averse firms, and the liquidity 
+trap 
+But it is possible in a world of banks with institutional rigidities that such open market operations 
+could have an effect.  For an increase in deposits held by the banking system in the Federal 
+Reserve (“base money”) can, through the credit multiplier, lead to increased lending.  I say, can, 
+29
+not necessarily will.  For banks are (for the most part) profit maximizing risk averse firms , and 
+they may decide the best way to allocate their portfolios is not to issue new loans to, say, SME’s, 
+but to buy government bonds from the household sector or from abroad, or simply to hold the 
+excess liquidity at the Fed.  This can give rise to a liquidity trap, though one that is distinctly 
+different from that discussed by Keynes (where it arises because the demand function for money 
+becomes infinitely elastic at low interest rates) and some more recent commentators focusing on 
+the zero lower bound on the interest rate.  
+We have already referred to one reason that today, monetary policy may be much less effective 
+than in the past:  with the abolition of Regulation Q, restricting competition in the setting of 
+deposit rates, the wealth-effects of monetary policy are largely eliminated, implying that 
+monetary policy exerts its effects through much weaker substitution effects.   
+But in deep downturns, there are two further reasons for the inefficacy of monetary policy:  the 
+interest insensitivity of investment (and consumption) and the blocking of credit channels, so that 
+the impact of monetary policy on the flow of credit is diminished.   
+The distinction between the situation confronting Keynes in the Great Depression and that of 
+today is important:  Keynes was confronting a situation where prices were falling at 10% a year, 
+so real interest rates remained in excess of 10%, so it was plausible that the inability to lower real 
+interest rates represented a constraint on the ability of monetary authorities to ignite the 
+economy.  Today, however, there is moderate inflation, of say 2%, so that real (T-bill) interest 
+rates are negative.   To be sure, at a sufficiently negative real interest rate, individuals might be 
+spurred to consume more and firms to invest more, but within reasonable ranges,  further 
+lowering  (expected) real T-bill interest rates, to say -4%—even were that feasible— is unlikely 
+to spur much further investment or consumption.   
+                                                            
+29
+ I should be more cautious:  given the agency issues that were revealed so vividly in the crisis, they might be better 
+described as managerial enterprises, maximizing the well-being of the managers, subject to certain constraints on the 
+access to credit.  In either case, we have to describe the behavioral responses to a change in, say, base money or T-
+bill interest rates. 
+21 
+ There are some obvious reasons for this interest inelasticity:  with firms sitting on excess 
+capacity, even large changes in interest rates are not likely to induce much more investment.  
+Why would firms acquire even more excess capacity, just because the interest rate is lowered?  
+30
+Moreover, as Greenwald and I have explained in our earlier work , because of information 
+imperfections, capital markets are imperfect; and because of capital market imperfections, firms 
+act in a risk averse manner.  In deep downturns, firms are likely to be particularly risk averse, 
+and so particular unresponsive to even moderate changes in interest rates.   
+Today, large firms are sitting on some $2 trillion dollars of cash.  It is hard to believe that small 
+changes in T-bill rates are going to result in large changes in their willingness to convert those 
+cash holdings into real investments.   
+For many smaller businesses, however, the real constraint is the lack of availability of credit (a 
+problem that simply cannot be analyzed in a model with perfect capital markets).  For these 
+firms, credit availability is far more important than interest rates.  Providing more liquidity to 
+banks does not necessarily lead either to more lending or to lower lending rates (Greenwald-
+Stiglitz, 2003).   
+The ineffectiveness of temporary interventions:  QE as an example 
+One of the arguments often put forward in favor of monetary policy is its flexibility—the ability 
+to change interest rates quickly up and down.  But while that is undoubtedly an advantage (over 
+the much slower process of adjustments of tax rates or government expenditures—though not of 
+well-designed automatic stabilizers built into sound fiscal and financial frameworks), there has 
+been a long standing theoretical conundrum:  why should policy measures that are seen to be 
+31
+(and often announced to be) temporary have much of an effect?
+Consider, for instance, the temporary intervention of Quantitative Easing—buying long term 
+bonds now, under the presumption that the economy will recover in say a couple of years, in 
+which case the action will be reversed.  Apart from slight changes in endowments (increases in 
+the levels of state variables like human and financial capital) that might have been induced by the 
+temporary intervention, at the later date, asset prices will be the same as they would have been 
+                                                            
+30
+ 1993, 2003, Op. cit. 
+31
+ Temporary interventions can have long term effects if (a) they move the economy from one equilibrium to 
+another, in a model in which there are multiple equilibria; (b) there are large substitution effects, so that, for 
+instance,  investment that might have occurred in a later period occurs earlier; or  (c) it can generate large 
+“permanent” income effects, with longer last effects on the evolution of the economy.  Many of the interventions 
+associated with monetary policy have none of these characteristics.  See, for instance, my Keynote address before 
+the 1998 Annual Bank Conference on Development Economics, “Knowledge for Development: Economic Science, 
+Economic Policy, and Economic Advice,” in Annual World Bank Conference on Development Economics, B. 
+Pleskovic and J. Stiglitz (eds.), Washington: World Bank, 1998, pp. 9-58. 
+ 
+22 
+ before the intervention.  Knowing this, it is hard to see why there should be large changes in 
+asset prices (share prices) today.  With lifetime budget constraints essentially unchanged, it is 
+hard to see why there should be any significant changes in consumption  during the period of the 
+temporary interventions, even if there should be some changes in asset prices during that period.   
+Moreover, as we noted earlier, the capital gain on long term government bonds that individuals 
+might enjoy today as long term interest rates fall will be offset either by a capital loss on their 
+holdings when the intervention is reversed and/or by the capital loss that the government will 
+realize when it sells back the long term bonds back to the public at a time when long term 
+interest rates are lower.  If public and private life-time budget constraints are largely integrated, 
+then these effects are offsetting, and it is hard to believe that there will be large effects on 
+aggregate demand.   
+Market imperfections and why QE may have some effects 
+Of course, in models with less than perfect rationality, high degrees of risk aversion, and 
+significant capital market imperfections, such temporary interventions can have some effects.   
+The financial press continually describes the response to low interest rates as leading to a “drive 
+for yield.”  There is, of course, no general theory that would suggest that as yields go down, 
+individuals act in a less risk-averse manner; quite the contrary, the adverse wealth effects might 
+more plausibly lead to more risk-averse behavior.But such behavior, if widespread, could  in turn 
+lead to an increase in the price of stocks—even if “rationally”  the forces leading to this increase 
+(above what the prices would otherwise be) are just temporary.  The standard wisdom from the 
+advocates of QE are that the higher stock prices will lead to more consumption.  We have 
+questioned, though, whether that is so, if they rationally expect the intervention to be temporary.  
+ But there is a more fundamental problem:  if the reason for the increase in stock prices is the 
+“drive for yield,” then it reflects a worsening of the life-time budget constraint as a result of 
+lower interest rates, and net, that should have ambiguous effects on consumption, with wealth 
+and substitution effects operating in opposite directions.   
+But there is another set of effects that may be operating that may also imply that QE can have an 
+adverse effect on consumption (and aggregate demand).  The standard model ignores the effects 
+of distribution, including across generations.   Those that go into retirement at, say, t, and had 
+been planning to sell their assets, will, if QE results in an increase in stock or bond prices, now 
+receive more from them that they otherwise would have received, and this group may consume 
+32
+more than they otherwise would have.
+                                                            
+32
+ But those among the elderly who expect to live long will obtain  lower yields as they re-invest the proceeds, and 
+this will largely cancel out these benefits. 
+23 
+ But once we start focusing on distributive effects, we need to take into account other effects 
+associated with the lowering of interest rates:  those prudent older people who had invested in 
+say government bonds will find their incomes lowered as interest rates are reduced, and for many 
+of these, a lowering of income translates quickly into a lowering of consumption.  Their 
+consumption is cash-constrained, and their cash flows will be diminished.   
+There are many other potentially significant effects that are typically ruled out in the “standard” 
+model:  lower interest rates lead to more capital intensive technologies, laying the seeds for a 
+“jobless” recovery; lower interest rates can lead to asset price booms, increasing the prices of oil 
+and other commodities which act much like a tax on consumers.   
+Market imperfections and the ineffectiveness of QE 
+While capital market imperfections help explain why monetary interventions like QE might have 
+larger effects than one would have expected in a “perfect markets” model, capital market 
+imperfections also help explain why QE may have less of an effect than expected.  (The most 
+important reason for the limited effect of QE in the United States is globalization of financial 
+markets, and that is discussed in the next part of this lecture.)   
+As we noted earlier, what matters for aggregate demand is the availability of credit and short and 
+long term lending rates, and even with quantitative easing, credit availability and the spread 
+between T-bill rate or other rates set by the Fed and the lending rate are endogenous variables.  
+In deep downturns, changes in conventional monetary policies may have limited effects, 
+especially if the monetary authorities have not done what they should have done to ensure the 
+health of the institutions responsible for the flow of credit. 
+One of the hoped for effects was that lower long term interest rates would lead to lower 
+mortgage rates, which in turn would lead to large numbers of Americans refinancing their 
+mortgages, and the lower interest rates would effectively put cash in the pockets of households, 
+leading to more consumption.   
+Note that underlying this analysis are implicit assumptions about distributive effects of interest 
+rate changes.  Lower interest payments by households corresponds to lower receipts of interest 
+by lenders.  In representative agent models, the effect would be a wash.  More realistically, given 
+large differences in the marginal propensities to consume of creditors and debtors, the 
+redistribution from creditor to debtor should increase consumption (as the advocates of QE 
+hoped.  In the presence of capital constraints (limiting borrowing by households), the effect is 
+even stronger. 
+However, in more general models focusing on capital and institutional constraints, the effects are 
+more complex and ambiguous.  For instance, in the presence of institutional constraints on 
+24 
+ banks, lower revenues/profits for the banks translates into less lending, an effect which could be 
+stronger than that generated by differences in marginal propensities to consume.   
+The many and growing imperfections in the mortgage market help explain the ineffectiveness of 
+33
+monetary policy, including quantitative easing.  There has been increasing concentration --to 
+the point where no one would describe the market as a competitive one.  Without precisely 
+specifying the appropriate model of tacit collusion or oligopoly, it is certainly conceivable that 
+the banks would not pass on to consumers the full benefits of the lower long term government 
+rates; they would limit the supply of mortgages so much as to increase their spread, their profit 
+margins.  And this is precisely what has happened.  (This is especially the case because of the 
+multiplicity of conflicts of interests that have been creating under existing institutional 
+arrangements.  The banks also derive large revenues as “service providers,” from servicing 
+existing mortgages, and the contracts as service providers also provide them with incentives not 
+to refinance.)  The result is that the consumer benefits (and thus the increase in aggregate 
+demand through that channel) have been less than had been touted.  Critics suggest that, like so 
+many of the Fed’s programs, the real beneficiaries are the banks, especially the large banks that 
+control the lion’s share of the mortgage market.  If that is the case, the short run benefit to the 
+economy, at least through this channel, will be limited. 
+Another market imperfection may have reduced the benefits derived from QEIII even more.  
+Mortgages that could easily be refinanced have already been refinanced; borrowers who have not 
+have either insufficient income or are “underwater.”  The mortgage could be refinanced only if 
+there were a principal write down.  In a standard model with rationality, it would pay both 
+lenders and borrowers to engage in debt restructuring.  Foreclosures are expensive for everyone 
+involved, including the communities in which they occur.  There is enormous dead weight loss.  
+But principal write downs entail a recognition of losses faster than would otherwise be the case, 
+especially since the change in accounting regulations in 2009 that allowed even impaired 
+mortgages not to be written down.  That would make the seeming profits in the short run lower, 
+even if it would make long run profits higher.  But agency problems pervade the banking system, 
+and bank management has incentives to focus on the short run.  Moreover, some banks may face 
+                                                            
+33
+ William C. Dudley, President of the Federal Reserve Bank of New York, noted in a recent speech, “Federal 
+Reserve MBS purchases have succeeded in driving down mortgage rates to historically low levels. But these 
+purchases would have had still more effect on the economy if pass-through rates from the secondary market to the 
+primary market had been higher […]The incomplete pass-through from agency MBS yields into primary mortgage 
+rates is due to several factors—including a concentration of mortgage origination volumes at a few key financial 
+institutions and mortgage rep and warranty requirements that discourage lending for home purchases and make 
+financial institutions reluctant to refinance mortgages that have been originated elsewhere.” William C. Dudley, 
+“The Recovery and Monetary Policy”, Remarks at the National Association for Business Economics Annual 
+Meeting, New York City, 15 October 2012, available at 
+http://www.newyorkfed.org/newsevents/speeches/2012/dud121015.html. 
+25 
+ high costs in raising funds (a natural capital market constraint, arising in part from the high level 
+34
+of non-transparency of the banks.)
+ In short, the level of refinancing may be far smaller than would be the case if financial markets 
+were perfect, but analyzing the extent to which there will be refinancing, and the impact on 
+banks and aggregate demand, entails a complex analysis of institutional constraints and 
+35
+imperfections.   Monetary policy ignores these at its peril.   
+Balancing  
+Here, I do not wish to argue for the quantitative importance of any of the effects that I have 
+described.  What I do contend is that once one moves away from the “perfect markets” model, or 
+the “almost perfect markets model” in which we know that monetary policy should have no (or 
+negligible) effects, we have to be careful in thinking through the source of “imperfections” and 
+their consequences. 
+Too much reasoning on the impacts of monetary policy interventions has been based on an 
+almost incoherent pastiche of analyses based on “rationality,” “rational expectations,” and “well 
+functioning markets” overlaying a variety of forms of imprecisely specified and explained 
+market imperfections.  I’ve alluded to some examples already:  while there is ample discussion 
+of markets “discounting” future actions, temporary measures, it is still believed, can have 
+36
+significant effects.
+Some of the disappointments with QEII and QEIII would not have come as a surprise, if 
+monetary authorities had grasped better the nature of market imperfections as they existed at the 
+time of the implementation of these policies.  Given the role that local (community) and regional 
+banks play in the provision of credit to SME’s, given the weaknesses that persist in these banks, 
+given the role that collateral plays for such lending, given that real estate is the predominant form 
+of collateral, and given that real estate prices remain persistently and markedly below the level 
+before the crisis, it should be no surprise that QE would have limited effects on SME lending.  
+                                                            
+34
+ Still further problems are posed by the conflicts of interest between the holders of the first and second mortgages.  
+See J. E. Stiglitz, Freefall: America, Free Markets, and the Sinking of the World Economy, New York: W.W. 
+Norton, 2010.  Still further problems have resulted from the put-backs of flawed mortgages and the surrounding 
+litigation:  risk-averse banks now realize that there is more risk associated with the process of mortgage origination 
+and securitization than they had realized.    
+35
+ The list of imperfections in the mortgage market is not meant to be exhaustive.  Institutional arrangements, for 
+instance, make it difficult for lender A to refinance a mortgage held by lender B, and lender A often has little 
+incentive to refinance the mortgage—it will simply lower his revenues.  More broadly, the mortgage servicers have 
+little incentive to facilitate mortgage restructurings.  There is Congressional legislation under consideration as this 
+paper goes to press attempting to deal with some aspects of these issues.  
+36
+ They can, but typically only through substitution effects (a temporary investment tax credit or VAT tax), or 
+through redistributive effects (e.g. the recapitalizations of the banking system, transferring, often in a non-
+transparent way, resources to the banks at the expense of others.) 
+26 
+ Given that large firms were sitting on large amounts of cash, it should be no surprise that QE 
+might have little effect on lending to large firms and/or investment by these firms.   
+It is at least conceivable in a situation where there is excess capacity in industry and real estate 
+and excess leverage in households, that the adverse effects of QE described earlier (including the 
+adverse  consumption effect among the elderly) could outweigh any inducement towards more 
+investment or consumption among firms or households, and so lowering interest rates could have 
+an adverse affect on aggregate demand.    
+The realization that it is partly because of--and in some cases mainly because of--market 
+imperfections that monetary policy has the effects it does (or does not have the effects it is 
+supposed to have) complicates monetary policy in many ways.   
+It means that the simplistic notion, current in recent years, that all one needs to focus on is the 
+real interest rate is simply wrong--even if one could figure out which real interest rate one 
+should focus on.  
+It implies too that the current fad to suggest that the reason that monetary policy is ineffective 
+today is the zero lower bound is misguided.  We are not in a Keynesian liquidity trap.  
+ It implies too that the effectiveness of monetary policy can be increased if monetary authorities 
+work on increasing the effectiveness of the credit channel--strengthening the banks that are 
+responsible, for instance, for SME lending and eliminating blockages in the mortgage market.   
+These insights help us understand why QE II and QE III have not been effective--and are not 
+likely to be. 
+27 
+  
+12.   Access to credit 
+ These experiences also highlight a point which is especially important in developing countries:  
+lower T-bill rates do not necessarily translate into more access to credit.  Access to credit for 
+SME's is especially important for growth; and private financial systems, on their own, may not 
+37
+provide adequate access.  (Emran and Stiglitz  provide a partial explanation for why this is so:  
+it is difficult to ascertain who will be good entrepreneurs, and repay their loans; those who prove 
+themselves good get poached away by others.  It is thus difficult for those providing capital to 
+appropriate the full value of the information associated with their lending activities.) 
+Governments and central banks need to have explicit programs to encourage lending to certain 
+groups/sectors that are underserved.   
+This may entail partial government guarantees and direct government lending programs and 
+specialized institutions (like development banks) as well as regulatory interventions (like CRA 
+lending requirements in the United States and geographical requirements.)   
+It is important that such requirements be imposed not only on domestic institutions but also on 
+foreign banks. 
+ 
+13.   International finance 
+Globalization has changed the way that monetary policy operates, and its effectiveness.  Capital 
+and financial market liberalization was supposed to help stabilize financial markets, but the 
+evidence is to the contrary:  it has brought new and higher levels of instability, without bringing 
+the promised growth.   
+Even the IMF, long the champion of capital market liberalization, has suggested that capital 
+38
+account interventions may be desirable.
+These changes in view are not a surprise.  Liberalization/globalization played a central role in the 
+rapid movement of the 2008 crisis from the United States around the world.  The world of 
+liberalization has been one marked by far higher levels of volatility--and in the advanced 
+countries far lower rates of growth--than  the era before liberalization.  Closer studies of financial 
+                                                            
+37
+ S. Emran and J.E. Stiglitz, 2009, “Financial Liberalization, Financial Restraint and Entrepreneurial 
+Development,” working paper, Columbia University, available at 
+http://www2.gsb.columbia.edu/faculty/jstiglitz/download/papers/2009_Financial_Liberalization.pdf (accessed 
+December 14, 2012). 
+38
+ See, e.g., Jonathan D. Ostry et al., “Capital Inflows: The Role of Controls,” IMF Staff Position note 10/04, 
+February 19, 2010, available at http://www.imf.org/external/pubs/ft/spn/2010/spn1004.pdf (accessed December 14, 
+2012). 
+28 
+ market liberalization have shown that the flow of funds to SME's is often reduced, with 
+consequent adverse effects on economic growth.   
+QEII too has heightened these concerns.  In a world of globalization, money goes where the 
+returns are highest--and not necessarily to the country increasing liquidity.  Thus, some argue 
+that the major impact of the increased liquidity by the Fed  has been to increase demand in 
+emerging markets (and perhaps to support asset price increases globally); and in response to the 
+overheating to which it has contributed in the emerging markets, the central banks there have 
+tried to undo the effects of what they view as the US competitive devaluation and have 
+constructed impediments to the free flow of capital.  In effect, they have tried to offset, in their 
+country, the expansionary effect of US Fed policy. In short, money has been going where it’s not 
+needed, and not going where it’s needed.  Why should an investor with access to funds invest 
+them in the United States or Europe, where there is excess capacity and a long term slump, rather 
+than in the high return booming emerging markets?  In the older, closed economy models, they 
+had no choice:  but in a globalized world with free capital markets, they do.  From a global point 
+of view, one needs to ask:  of what value is there for the Fed to increase liquidity, which then 
+moves to other parts of the world, and the Central Banks in these countries then take largely 
+offsetting actions? 
+(One of the effects of that policy that may have increased US aggregate demand is a lowering of 
+its exchange rate.  But this attempt at competitive devaluation is a beggar-thy-neighbor policy, 
+one to which emerging markets have rightly responded, suggesting that the US policy of 
+quantitative easing has let loose a “currency war.”) 
+Advances in economic theory have helped us to understand what was wrong with earlier models, 
+which assumed that risk diversification associated with liberalization would obviously enhance 
+stability and efficiency; and why the promised gains have not been materialized.  The standard 
+models made strong assumptions not only about perfect markets (including the absence of 
+information imperfections and asymmetries) but also about the absence of non-convexities, so 
+essentially by assumption, risk diversification worked.  But as I showed in some recent papers, in 
+39
+the presence of such non-convexities, financial market integration may increase risk.  A host of 
+papers have now shown that greater interlinkages (among financial institutions, across countries) 
+40
+may lead to a greater risk of systemic failure.
+                                                            
+39
+ “Contagion, Liberalization, and the Optimal Structure of Globalization,” Journal of Globalization and 
+Development,  2010, 1(2), Article 2, 45 pages; and “Risk and Global Economic Architecture: Why Full Financial 
+Integration May be Undesirable,” American Economic Review, 100(2), May 2010, pp. 388-392.  
+40
+ See, e.g. S. Battiston, D. Delli Gatti, M. Gallegati,  B. Greenwald, and J. E. Stiglitz,  “Default Cascades: When 
+Does Risk Diversification Increase Stability?”  Journal of Financial Stability, 2012, 8(3), pp.138-149; Gallegati, M., 
+B. Greenwald, M. Richiardi, and J. E. Stiglitz (2008), “The Asymmetric Effect of Diffusion Processes: Risk Sharing 
+and Contagion,” Global Economy Journal, 8(3), Article 2; Stefano Battiston, Domenico Delli Gatti, Mauro 
+Gallegati,  Bruce Greenwald, and J. E. Stiglitz, 2012 "Liaisons Dangereuses: Increasing Connectivity, Risk Sharing, 
+29 
+ Advances in economic theory have also highlighted some of the reasons that foreign banks are 
+different from domestic banks:  their risk profile is different, and they face greater asymmetries 
+of information (e.g. about which small firms are likely to be good).  Imperfections and 
+asymmetries of information help also explain the high level of volatility associated with foreign 
+41
+capital flows.
+There is now an emerging consensus among economists on several aspects of policy concerning 
+cross border capital flows: 
+(a) Just as there is a need for financial sector regulation, there is a need for regulation of 
+cross-border flows—countries should be cautious both about capital and financial 
+42
+market liberalization. 
+(b) Cross-border flows and foreign banks behave differently in important respects from 
+domestic sources of funds and domestic banks, and therefore there is a need for a 
+different regulatory regime.  Of course, foreign financial institutions will oppose these 
+regulations.   
+(c) Of particular concern is that many international agreements, signed in the hey-day of 
+neoliberalism, restrict the ability of governments to impose adequate regulatory regimes, 
+and these need to be changed. 
+(d) There is a need for closer cooperation among monetary authorities around the world, 
+and  
+(e) Larger central banks, the Fed and ECB in particular, need to recognize that they can 
+impose large externalities on other countries; by contrast, the externalities imposed by 
+any small country are limited.   
+14.   Institutional design:  The failure of independent central banks 
+43
+Modern development economics has stressed the importance of good institutions.  Before the 
+crisis, American financial institutions and American regulatory institutions (including the Fed) 
+were often held up as models for others to imitate.  The crisis has not only undermined 
+confidence in these institutions, but has also exposed deep institutional flaws.  It has shown that 
+one of the central principles advocated by Western central bankers—the desirability of central 
+                                                                                                                                                                                                 
+and Systemic Risk,"  Journal of Economic Dynamics and Control, 36, pp. 1121-1141; Haldane, A. G. (2009), 
+“Rethinking the Financial Network,” address to the Financial Students Association, Amsterdam, April, available at 
+http://www.bankofengland.co.uk/publications/speeches/2009/speech386.pdf; and Haldane, A. G. and R.M. May 
+(2010), “Systemic Risk in Banking Ecosystems,” University of Oxford mimeo. 
+41
+See Greenwald and Stiglitz, 2003, op. cit 
+42
+ Reflective of this new trend, the IMF has recently supported the imposition of capital controls in certain instances, 
+a major change in their stance, since 1997, when they tried to change their charter to give them a mandate to impose 
+capital market liberalization.  See  Ostry et al., op. cit.  For a discussion of that older debate, see J. E. Stiglitz, 
+Globalization and its Discontents, New York:  WW Norton, 2002.   
+43
+ See, for instance, the World Bank, 2002, Building Institutions for Markets:World Development Report 2001-2002, 
+Washington, D.C.: The World Bank.  
+30 
+ bank independence—was questionable at best.   In the crisis, countries with less independent 
+central banks—China, India, and Brazil—did far, far better than countries with more 
+44
+independent central banks, Europe and the United States.  Elsewhere I have provided part of 
+the explanation.  There is no such thing as truly independent institutions.  All public institutions 
+are accountable, and the only question is to whom.  America's central bank was captured by Wall 
+Street:  it came to reflect the ideology and interests of the financial sector, which it was supposed 
+to regulate.  As we saw earlier in this lecture, it glossed over central issues like externalities and 
+agency problems, as it came to believe in self-regulation.  The pervasive conflicts of interest--
+with the New York Fed President being at the center of bailouts of the very banks that had 
+played a role in his appointment--were a model of bad governance.  The Fed had allowed the 
+development of a financial structure that was rife with conflicts of interests, and had turned a 
+blind eye to practices that not only exploited the poor, but put into jeopardy the American and 
+global financial system.   
+The notion of the desirability of an independent central bank was predicated on the belief that 
+monetary policy was a technocratic matter, with no distributional consequences.  There was a 
+single policy that was best for all—a view to which the simplistic models that the central banks 
+employed may have contributed, but which was not supported by more general models.  There 
+does not, in general, exist a Pareto superior monetary policy.   
+That in turn implies that delegating the conduct of monetary policy and regulations to those who 
+come from and reflect the interests of the financial market is going to result in policies that are 
+not necessarily (and weren't) in society's broader interests. 
+Even if one wanted independence, one could have combined independence with broader 
+representativeness--making sure that consumers who were hurt by banks' predatory and 
+exploitive behavior, merchants who were hurt by banks' anti-competitive behavior, or workers 
+who were hurt by higher levels of unemployment--had a greater voice in the conduct of 
+45
+monetary policy and regulation.
+The crisis has called into question the notion of independence on other grounds:  monetary 
+authorities have been engaged in quasi-fiscal operations, giving away tens of billions of dollars, 
+in ways that are non-transparent, and often seem capricious.  The Fed saved some banks, 
+throwing tens of billions of dollars at them, but let other banks go.  It saved some bondholders, 
+but not others.  The loans by the Fed and ECB to banks at low interest rates--which they could 
+then use to buy higher yielding bonds--was, in effect, a gift worth tens of billions of dollars, a 
+                                                            
+44
+ J.E. Stiglitz, Freefall, Op. cit.; The Price of Inequality, Op. cit. 
+45
+ See J. E. Stiglitz, “Central Banking in a Democratic Society,” De Economist (Netherlands), 146(2), 1998, pp. 199-
+226. (Originally presented as 1997 Tinbergen Lecture, Amsterdam, October). 
+ 
+31 
+ gift from the public, but which circumvented the usual public appropriations process.  It is 
+unconscionable that such power over the purse be given to a non-elected body.   
+Monetary authorities need to be held more accountable, especially when they are engaged in 
+policies with strong distributive consequences and which are quasi-fiscal in nature.  Monetary 
+institutions need to be designed to ensure that they are more reflective of societal interests.   
+ 
+Concluding Comments 
+Some years ago, in joint work with my colleague Bruce Greenwald, we provided a critique of 
+traditional models in which the effects of monetary policy are mediated just through interest 
+rates, and interest rates reflect the balancing of the demand and supply of money.  We pointed 
+out that with most “money” being interest bearing, the traditional view that the interest rate is the 
+opportunity cost of holding money is just wrong; furthermore, most transactions are not income 
+generating, but rather the exchange of assets, so even if money were required for transactions, 
+there would still be no simple and stable relationship between money and the level of economic 
+activity (since the ratio of asset transactions to income can be highly variable.)  Further, most 
+transactions do not require money; credit is typically an effective substitute, and when it is not, 
+one needs to explain why not.   
+Over the past thirty years, macroeconomics has made a valiant struggle to place itself on firm 
+micro-foundations, but it chose the wrong micro-foundations—that based on the perfects markets 
+models that were just then becoming discredited, as the economcs profession gained deeper 
+insights into the related effects of transactions costs, imperfections of competition, absence of 
+risk markets, and imperfections and asymmetries of information.  Most disappointing, the 
+standard models for the most part didn’t even provide structural foundations for the financial 
+sector.  (And when they attempted to do so, it was as a result of peculiar and unconvincing 
+assumptions.  For instance, cash-in-advance models simply assume that credot is not an effective 
+substitute for cash.)   
+In the 1930s there was an active debate between two approaches to the determination of the 
+interest rate, the Keynesian approach, based on the demand for money used for transactions 
+46
+purposes, and that of Robertson , based on the demand and supply of loanable funds.  In some 
+ways, our approach represents a further development of the work of Robertson, with two 
+important changes.   
+                                                            
+46
+ See, for instance, D. Robertson, 1951,"Some Notes on the Theory of Interest," a contribution to Money, Trade and 
+Economic Growth, Essays in Honor of Professor J. H. William (New York: Macmillan, 1951); reprinted in Sir 
+Dennis Robertson, Essays in Money and Interest (Manchester: Collins, 1966), pp. 203-22. 
+.  
+32 
+ First, in his model, the supply of loanable funds was based just on savings.  In ours, there is a 
+critical role for banks, who make assessments of the credit worthiness of potential borrowers.  
+Imperfect and asymmetric information is central.  (Such information tends to be local and 
+specialized; foreign lenders (suppliers) of funds have different information than domestic 
+lenders, so that their allocation of funds is markedly different.  This is one of the reasons that 
+there is a need for special regulation of cross-border capital flows and foreign banks.) 
+Secondly, in both Keynes and Robertson, demand always equals supply; yet in models with 
+imperfect and asymmetric information, there can exist rationing equilibrium. Indeed, such 
+equilibria are pervasive. 
+Thus, traditional models (of both the Keynesian and Robertsonian version) have little to say 
+about the determination either of credit availability or of the spread, the difference between the 
+T-bill rate and the lending rate.  If there is a difference, it only reflects a difference in 
+(objectively determined) risk.  With risk neutral lenders, the expected payments are the same.  In 
+the absence of a theory of credit rationing, it is hard to explain a liquidity crisis—and without a 
+theory of liquidity (credit availability) it is hard to know how to respond to a liquidity crisis. 
+In the Greenwald-Stiglitz models, monetary policy is largely mediated through the banking 
+system.  The lowering of interest rates may (or may not) be reflected in a commensurate 
+lowering of lending rates or a commensurate increase in credit availability.  Indeed, there is a 
+new version of a liquidity trap—not caused (as Keynes suggested) by a high elasticity of the 
+demand for money, but by a low responsiveness of bank lending, even as the central bank 
+provides the banking sector with more liquidity.  This is precisely what has been happening in 
+the United States and Europe; and the theory developed by Greenwald and Stiglitz anticipated 
+and predicted this kind of liquidity trap well before it became evidenced in the aftermath of this 
+crisis. 
+Keynesian models of monetary economics  came into fashion in the last Great Crisis, the Great 
+Depression.  The world has changed much since then; and our understanding of economics too 
+has advanced.  And yet, in some circles, we are wedded to ways of thinking that have not kept 
+pace.  Worse, in the interlude between the Great Depression and the Great Recession, some were 
+lulled into believing that markets normally worked well; and the old classical model, slightly 
+modified, came back into fashion.  There was, as I have already noted, an irony in this, for 
+among the advances in economics (game theory and theories of imperfect and asymmetric 
+information) was an enhanced understanding of what was wrong with that model, and why it 
+provided such a poor description of what was going on, both in normal times and even more so 
+47
+in times of crises.
+                                                            
+47
+ For a broader discussion of the evolution of these two strands of thinking, see B. Greenwald and J. E. Stiglitz, 
+“Keynesian, New Keynesian and New Classical Economics,”, Oxford Economic Papers, 39, March 1987, pp. 119-
+133  .  Within the so-called New Keynesian tradition, there have also been two traditions.  One following Keynes 
+33 
+ These alternative theories provided the foundations of a new theory of financial markets--an 
+understanding of why financial markets are typically not perfectly efficient, and of how 
+imperfect financial markets actually work.  The effects of monetary policy are, of course, 
+mediated through financial markets, so this new theory of financial markets is central to 
+48
+monetary theory.  Modern monetary policy has to be based on these foundations.
+Monetary policy (understood broadly, to include financial regulatory policy) is of such 
+importance in part because the financial sector is so important:  the financial sector has been 
+likened to the brain of an economy, and if the financial sector does not work well, the economy 
+does not work well.  In many countries around the world--including the US and the EU--the 
+financial sector has not done what it should have done and done what it shouldn't have done; the 
+costs of their failures in the US alone amount to trillions of dollars.   
+In this lecture, I hope I have tried to describe what monetary policy based on a deeper 
+understanding of the functioning of financial markets might look like.  Most of the propositions 
+that have been at the center of monetary policyfor the past quarter of a century need to be 
+rethought.  Monetary policy has not served our economies and societies well.  It has arguably 
+49
+contributed to the growing inequality that has marked most countries around the world.  But of 
+this there can be no doubt:  It has not only failed to stabilize the economy in the way that was 
+hoped; but  the way that some central banks have conducted monetary policy and regulation has 
+50
+been at the center of our greatest crisis in three quarters of a century.  This should be the 
+grounds for a revolution in monetary policy. 
+ 
+                                                                                                                                                                                                 
+ignored the details of financial markets, and, following Hicks’ interpretation of Keynes, focused on wage and price 
+rigidities.  The other focuses explicit on financial market imperfections (e.g. H.P. Minsky’s, “The Financial 
+Instability Hypothesis,” The Jerome Levy Economics Institute of Bard College, Working Paper No. 74, May 1992; 
+as well as the work of Greenwald and Stiglitz to which I referred earlier), and encompasses an analysis of the 
+consequences of deflation (following the work of Fisher [I. Fisher, “The debt-deflation theory of great depressions,” 
+Econometrica1 (1933), pp. 337–357)].  See B. Greenwald and J. E. Stiglitz  “New and Old Keynesians,” Journal of 
+Economic Perspectives, 7(1), Winter 1993, pp. 23-44. 
+48
+See Greenwald and Stiglitz, 2003, Op. cit. 
+49
+ See, in particular, Chapter 9 of J. E. Stiglitz, The Price of Inequality, Op. cit. 
+50
+ Thus, I take strong issue with Bernanke who has tried to suggest that there was nothing wrong with standard 
+macroeconomic and monetary theory; there were only some minor flaws in its implementation.  See Ben Bernanke, , 
+“On the Implications of the Financial Crisis for Economics,” address delivered September 24, 2010 at Princeton 
+University, available at http://www.federalreserve.gov/newsevents/speech/bernanke20100924a.htm, (accessed July 
+28, 2011).   
+34 
+ 

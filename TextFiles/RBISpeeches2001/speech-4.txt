@@ -1,0 +1,193 @@
+Forex Markets in India: Some Thoughts
+It gives me great pleasure to address this gathering of forex professionals from all over
+the country. Looking at the list of speakers from the central bank who have addressed this
+august assembly in the past, I find that you have opted for change by inviting the
+regulator/supervisor rather than the exchange rate policy maker and manager from RBI.
+Although I am not very certain as to why, may be the fact that I was on your side of the
+market till a few months ago might have prompted this change!
+Ever since I accepted this invitation, I have been pondering about the contents of this
+address. I shall not obviously be speaking at great length either about RBI’s Exchange
+Rate policies or Management. We have left nobody in doubt about our intentions in this
+regard, i.e., ensuring orderly market conditions and combating excess volatility. Having
+achieved this to a great degree of success, even in the face of turmoil all round us, this is
+perhaps the ideal forum for an informed debate as to how we should move forward.
+It was Keynes who once remarked that knowing nothing about the past makes a man as
+primitive as knowing nothing about the future. In other words, one cannot live in the
+present alone. Although in the financial markets, future need not have a link to the past,
+nevertheless, it is important to know a bit of the past to make informed predictions about
+the future. The outline of my address would therefore be to take a bird’s eye view of the
+past, reflect on the present scenario and charter a road map for the future.
+In a market oriented economy, segmented markets tend to obscure the transmission of
+public policies and often result in sub optimal allocation of resources. In India for a long
+time the pace of development in the financial market segments like the money market,
+foreign exchange market, government securities market and the capital market have been
+slow and consequently the markets remained segmented. A comprehensive package of
+reform measures recommended by the Narasimham Committee in 1991 became the
+starting point of gradual deregulation of the financial sector and the integration of various
+segments of the financial market. However, it was the implementation of the
+recommendations of the Sodhani Committee on foreign exchange markets that furthered
+the course of integration between call money market and the foreign exchange market.
+The linkage between the call money and forex market existed in a small way in the past
+as banks were permitted to maintain nostro account surpluses or avail of overdrafts to a
+limited extent. This has further strengthened following the introduction of FCNR (B)
+Scheme and particularly after the permission was accorded to borrow and lend overseas
+upto 15% of Tier I capital. This linkage is often more pronounced in times of volatile
+market conditions.
+The emerging linkages among money, Government securities and foreign exchange
+markets have required the RBI at times to use short-term monetary measures alongside
+meeting demand-supply mismatches to arrest excessive volatilities in the foreign
+exchange market.  While there is no settled conclusion about the appropriateness of an
+exchange rate regime, the primary objective of the Reserve Bank, as stated earlier,
+continues to be the maintenance of orderly market conditions no doubt, in a regime where
+exchange rate is determined by demand and supply conditions.  Some of the recent
+empirical work in the Indian context do suggest evidence of growing integration between
+money, debt and foreign exchange markets with relatively weak convergence of capital
+markets.  In the aftermath of terrorist attacks in the US, the Indian financial markets have
+sometimes exhibited some tendencies to be in tandem with the movements in global
+financial markets, reflective of the growing inter-linkages between domestic and
+international markets on the one hand and among various segments of the domesticfinancial market on the other, as a result of financial sector reforms and increasing
+globalisation led by IT.
+In this context, I would like to highlight some critical data regarding the forex market.
+There is a widespread feeling that market volumes have dropped significantly on account
+of certain measures taken by the Reserve Bank in the past like withdrawing the freedom
+to rebook cancelled forward contracts, placing restrictions on swaps etc. But the data
+collected by the Reserve Bank belie this belief.  The average monthly turn over in the
+merchant segment of the forex market increased from USD 20 billion in 1999-2000 to
+USD 23 billion during 2000-01.  The average monthly turn over in the inter bank foreign
+exchange market has also increased to USD 90 billion in 2000-01. A recent survey of the
+foreign exchange market turn over during April 2001 by the BIS in which 43 countries
+including India participated reveals the interesting fact that while forex turn over world
+over has declined considerably as compared to 1998, India bucks this trend by showing
+an increased turn over.
+Let me now turn to the specific issues relating to the Indian forex market that would need
+to be addressed. The market is skewed with a handful of public-sector banks accounting
+for the major share of the merchant transactions and the private and foreign banks having
+a greater share of inter-bank business. It is conducive for healthy market development to
+have much larger number of players active in the market with enhanced volumes of
+business.  The presence of increased number of players and larger volumes alone lend
+certainly greater depth to the forex market leading to a more efficient functioning.
+Forex derivatives have not picked up sufficiently. The development of a vibrant
+derivatives market in India would critically depend on the growth in the rupee based
+derivative products, which in turn depends on a well developed and liquid forward dollar-
+rupee market. This would in turn require development of a deep and liquid inter-bank
+term money market.  In this regard, making tax laws pertaining to derivatives
+unambiguous and liberal will go a long way in the development of an active derivative
+market.  In our market in its present stage, the focus of reforms should be the growth of
+rupee-based derivatives. The RBI took a major step in this context by putting in place an
+Asset-Liability Management (ALM) system for the banks. But any attempt at making
+ALM as a catalyst for the development of more vibrant and integrated financial markets
+would need to recognize the following characteristics of the Indian financial system.
+1) Retail nature of the Indian banking system that makes it difficult to get real time
+information. The answer lies in spreading technology based solutions.
+2) Absence of a clear-cut transfer pricing system, firstly on account of lack of
+centralization of treasury operations and secondly on account of the absence of a
+rupee yield curve across maturities. A recent article by Zagorski in the Capital
+Markets News published by the Federal Reserve Bank of Chicago highlights the
+importance transfer pricing system. To quote “ without a well-implemented funds
+transfer pricing system the impact of interest rate risk is buried within the results
+of the other operating units. Thus a bank would not be able to accurately measure
+the profitability of either its Treasury unit or its business units, and would not
+precisely understand the volatility of its net interest margin”.
+3) Absence of adequate instruments to hedge interest rate risks.
+There is also a need to put comprehensive risk management system in place.  Risk
+management concepts, such as, value at risk (VaR) need to be developed and
+implemented in the Indian market. Technological upgradation in forex transactions,
+clearing and settlement is a pre-requisite for developing a proper risk management
+system.  The setting up of Clearing Corporation of India is a step in this direction.  The
+2Clearing Corporation of India, in addition to government securities, will also handle
+inter-bank forex settlements, which will go a long way in enhancing the efficiency and
+security of our settlement system for government and forex securities. The objectives of
+the forex clearing arrangement is to provide market infrastructure to mitigate and manage
+settlement risks while also reducing the costs associated with these transactions.  The
+Corporation which is planning to act as a central counterparty for effecting clearing and
+settlement through de facto multilateral netting is in an advanced stage of
+operationalisation.  It is in the interest of the Authorised Dealers that they become
+members of the Clearing Corporation at the earliest and undertake the changes required
+in regard to their back office software systems to get them integrated with the CCIL
+system.  I understand that shortly FEDAI will be organising a Seminar to help its
+members expedite the formalities of taking up membership of Clearing Corporation to
+hasten the process of implementation of the project. Reserve Bank attaches considerable
+significance to an early operationalisation of the forex clearing system.
+In the context of integration of Indian financial market with international markets, the
+move towards capital account convertibility, which has an important bearing on our forex
+market, assumes paramount significance.  Some of the preconditions/signposts for capital
+account convertibility, as mentioned in the CAC committee report, such as, fiscal
+consolidation, mandated inflation rate, consolidation of the financial sector, adequacy of
+foreign exchange reserves, sound BoP situation, etc., need to be adhered to properly
+before rupee is made fully convertible on capital account.  As CAC integrates both the
+real as well as the financial sectors with the international economy, the impact of external
+impulses would be felt more strongly, which makes it imperative to have the
+preconditions in place before full capital account convertibility is allowed.
+In the present context, the major thrust of RBI Policies would continue to focus on the
+development of deep, liquid and integrated financial markets.  The importance attached to
+the forex market would be evident from preamble to the newly enacted Foreign Exchange
+Management Act.  One of the main objectives of the FEMA is to promote the orderly
+development of the foreign exchange market in India.
+In this context let us identify issues that are of immediate concern both to the market and
+the regulator.
+The first issue that would need to be addressed relates to depth and liquidity in the market
+particularly in the forward segment.  It is well known that barring well developed
+markets, forward markets are rather shallow in many of the emerging countries. Why?
+Given the constraints in such emerging markets are there any solutions?
+In most of the developing markets, liquidity is not there for maturities are not available
+beyond one year period.  I believe that this would be the case in most of the markets
+where there are restrictions on capital movements.  In other words, in markets dominated
+by trade related flows and which are not financially driven, where capital controls exist,
+liquidity across the spectrum as seen in the developed markets, may prove to be difficult
+at least in the early stages of development of the market.  The question that we would
+need to address is within these constraints, how can the liquidity improve?  Indian
+experience suggests that there could be two impending factors in this regard. First is the
+absence of a well developed local money market and second more important the
+reluctance of larger public sector banks who handle the major portion of the export-
+import transactions to assume the mantle “market makers”.  While the solution to the first
+problem partly lies with the Central Bank and there have been many initiatives in this
+regard as I had stated earlier, it is entirely up to the bank managements to make their
+banks more pro-active in the market and realise that Forex dealing rooms could be an
+important profit centre, provided proper risk management systems are in place.  You may
+3have a point of view that liquidity has come down after the imposition of restrictions on
+re-booking of cancelled contracts. While this kind of liquidity in an emerging market,
+which often tends to get one sided, is a debatable issue, absence of this freedom is more
+acceptable than wide swings in policy prescriptions whenever volatility erupts.
+In the developing markets where volumes are not large, it has to be remembered that the
+positioning of the markets, types of players allowed entry into the market, the amount of
+unhedged position, all could prove crucial when turbulence erupts.  The last mentioned
+issue that of unhedged positions of the corporates is curently attracting the attention
+world over.  Reserve Bank would welcome and support efforts of the banks in monitoring
+such positions on an ongoing basis since this is closely linked to the issue of credit risk as
+well.
+A major issue that has attracted sustained debate among the Forex market participants
+during the last one year, has been the issue of long term rupee – foreign currency swap.
+This was permitted in 1997 as a hedging mechanism for corporates who run long term
+foreign currency exposures.  When instances of use of this product to merely take a view
+on the currency movements and putting in place structures that would be tantamount to
+corporates effecting pre payment of the foreign currency loan were noticed, banks were
+advised last year to put through transactions only on a fully matched basis.  The matter
+has since been reviewed and the banks accorded limited freedom to run a swap book.  We
+are aware that banks have been raising a few issues in this regard and demanding greater
+freedom to make this product a genuine hedging tool.  Reserve Bank would continue to
+monitor transactions in this area and take pro-active decisions with a view to offering
+further relaxations wherever warranted.
+There have been demands from the market players to be accorded greater freedom in the
+investment of foreign currency funds and using new products like the options to better
+manage their balance sheet and proprietary trading positions. Given the fact that FCNR
+(B) deposits are presently accepted for maturity ranging upto three years, there is
+justifiable demand for permitting longer tenor investment out of these funds.  Reserve
+Bank of India is actively reviewing the current restrictions in this regard. Although
+options could be a very useful to any managing risk positions, particularly at the
+Treasurer level, there has been very limited demands from the market for using this
+product.  Reserve Bank is open to the suggestions from the banks for using new products
+to help them in better managing risks.
+Finally, Reserve Bank is alive to the developments around us, with its epicenter in the US
+that could have a bearing on the Indian economy and the financial markets. Several
+groups within the Reserve Bank are reviewing the position in its various dimensions on
+an ongoing basis. Options are considered as developments unfold and expectations are
+formed. Actions are explored as appropriate to meet the dynamic situation. Our actions
+since September 11, in regard to various financial markets testify to alertness and
+promptness of RBI, whenever considered necessary.
+With these observations, I have great pleasure in inaugurating this Conference and wish
+your deliberations all success.
+* Keynote address delivered by Shri Vepa Kamesam, Deputy Governor, Reserve Bank of India at the
+th
+inauguration of the 12 National Forex Assembly organised by Forex Association of India at Goa on
+October 26, 2001
+4

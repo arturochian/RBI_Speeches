@@ -1,0 +1,196 @@
+Preparing Indian Banks for Global Competitiveness: 
+Strategic and Policy Perspectives 
+ 
+ 
+1
+Subir Gokarn
+ 
+Introduction 
+It would be no exaggeration to say that the financial world is a vastly different place after 
+the crisis. Many propositions that might have been taken for granted until it precipitated 
+are being questioned in its wake. One set of these surely has to be about the things that 
+go into making banks globally competitive. The increasing visibility and dominance of 
+multinational financial corporations in the years before the crisis contributed to the 
+perception that the formula for success in this sector had been discovered and 
+mastered. Massive size, wide diversification across the entire spectrum of financial 
+activities, - intermediation, investment and insurance – and global presence, combined 
+with large pecuniary incentives were, apparently, the most effective way to achieve and 
+sustain competitive advantage.  
+The crisis has clearly raised serious questions about the sustainability of this model, 
+both at the micro and macro levels. As business models go, the combination of rapid 
+growth and widespread diversification appears to have contributed quite centrally to 
+both the crisis itself and the way in which governments were constrained in dealing with 
+it. On the first consideration, it does appear that the accumulation of risks – on or off the 
+                                                 
+1
+ Keynote Address by Dr. Subir Gokarn, Deputy Governor, Reserve Bank of India on September 
+9, 2010 at FICCI-IBA Conference “Global Banking: Paradigm Shift”. The inputs of B.M. Misra, 
+Himanshu Joshi, Sarat Dhal and Dhirendra Gajbhiye in preparation of this address are gratefully 
+acknowledged. 
+1 
+ balance sheet – that accompanied the growth and diversification of the largest US and 
+European banks were not accompanied by matching capabilities in risk identification 
+and mitigation. On the second, the term “Too Big to Fail” says it all. When financial 
+institutions grow beyond a certain size, their collapse can have serious consequences 
+for the rest of the financial system as well as for the real economy, both domestically 
+and globally. No government can afford this kind of fall-out and will, therefore, be forced 
+to save an institution, thereby going against the basic grain of market discipline. 
+Clearly, the crisis and its ongoing resolution hold many lessons for the combination of 
+factors that make banks competitive. They also illustrate the inherent trade-offs between 
+the “private” or strategic dimensions of competitiveness and its “public” or policy 
+dimensions. In this talk, I propose to lay out a simple framework for bank 
+competitiveness and explore their strategic and policy implications. I hope this will 
+provide a useful input into the panel discussion that follows.    
+The Determinants of Competitiveness 
+Scale has generally been viewed as the most important, if not the dominant, 
+determinant of bank competitiveness.  In the Indian context, no discussion about 
+banking sector reform is complete without reference to consolidation, which is generally 
+taken to mean a merger between two relatively small banks or between a large, 
+supposedly strong one and a smaller, supposedly weak one. While it is perhaps 
+tempting to see the achievement of scale as the silver bullet for competitiveness, both 
+domestic and global evidence do not make an unambiguous case for it. To go back to 
+my introductory comments, large banks can become extremely vulnerable if their 
+2 
+ expansion strategies have been based on taking on a complex array of risks. In the 
+Indian context, there is substantial evidence, some if it produced by my colleagues in 
+their research activity, that there is no unambiguous relationship between scale and 
+efficiency or performance. Comparing across countries, a simple comparison of the five 
+largest banks in China and India suggests that while the former are many times the size 
+of the latter in terms of their balance sheets, this does not apparently lead to a 
+significant difference in efficiency and performance indicators. 
+I don’t have the time to go into the details of all the evidence, but it seems to me that it 
+does raise questions about a uni-dimensional approach to competitiveness. Scale may 
+matter, but is not by itself enough to guarantee the desired outcome.  Let me, therefore, 
+explore other factors that may matter and, in doing so, assemble the components of a 
+competitiveness strategy. 
+I will postulate three other factors. First, there is the issue of “scope”. The crisis has re-
+activated a long-standing debate on the merits of narrow banking vs. the recent trend 
+towards universal banking. The question is: how wide and encompassing is the 
+“universe”? Virtually all large banks, both at home and outside, have diversified well 
+beyond the traditional boundaries of banking. There is a clear merit to this strategy from 
+the viewpoint of what I would call a “Life-Cycle” approach to meeting customer needs. 
+As the requirements of a given customer segment become more complex, there is value 
+to be realized for both parties by expanding the range of services provided. This 
+argument clearly justifies moving beyond the boundaries of conventional banking, which 
+would otherwise drive customers away as their needs expanded beyond these limits. 
+3 
+ However, as the crisis demonstrated, things can possibly go too far. As the range of 
+activities that banks engaged in moved into the realm of investment banking, in which 
+they combined their traditional assumption of credit or default risk with the new animal 
+of market risk, internal and external mechanisms designed to monitor and protect 
+against risk clearly fell short. This issue will also provoke substantial debate, so let me 
+make a couple of assertions and move on. The first implication I would draw is that the 
+achievement of scale in a way that substantially increases the riskiness of the asset 
+base may prove to be counter-productive. This may well be Banking 101, but seemed to 
+have been forgotten somewhere. The second is that the drivers of scale must be 
+accompanied by a proportionate expansion in risk management capabilities. If this is 
+scrupulously followed, it might make specific expansion strategies more costly and, 
+therefore, unattractive, which, from the perspective of prudential regulation, would be a 
+good thing. 
+This leads me to the second factor, which, I would term “prudence”. Very clearly, the 
+ability of banks to identify, measure and provide against risks of all kinds should now be 
+seen as a critical contributor to survival. Of course, there is little point in having a 
+competitive strategy of you do not first have a survival strategy! This dimension needs 
+to be addressed in two ways. First, there could be restrictions, either self-imposed or 
+mandated by regulation, on the kinds of exposures that banks can take on. Second, 
+going back to the earlier point about risk management capabilities, these need to be 
+seen as an unavoidable component and, therefore, a cost element in any business 
+strategy. Properly evaluated, this input will reduce the distortion in IRR calculations 
+4 
+ when the management is evaluating alternative business and expansion strategies.  If 
+this distortion is sizeable, the crisis tells us that it can threaten survival. 
+Third, there is the issue of “knowledge”. Various interpretations can be put on this 
+encompassing concept and perhaps all of them are relevant when we look at 
+knowledge as a source of competitive advantage in banking. One aspect is clearly 
+related to the application of technology; another would be the achievement of best 
+practices in credit assessment, risk management and other activities, particularly with 
+reference to the quality of information and judgment that is brought to bear on the 
+allocation of funds. 
+ An important dimension of knowledge relates to the debate on scale. In the early 
+1990s, the first Narasimham Committee visualized a three-tier structure of the domestic 
+banking sector, with the bottom tier comprising relatively small, regionally focused 
+banks. The underlying rationale was that such banks could compensate for their 
+absence of scale with their intimate knowledge and insights into local conditions. This 
+would help them meet the needs of their client base as well as manage risks more 
+efficiently. More recently, the Committee on Financial Sector Reforms chaired by Prof. 
+Raghuram Rajan, made a case for the encouragement of local area banks on much the 
+same grounds, i.e., that a better understanding of the local context would offset the cost 
+disadvantages of operating on relatively small scales. Of course, both blueprints saw 
+these smaller banks as being fully plugged into the financial system, which would help 
+them both raise funds and pass on risk. However, the importance of “local” knowledge 
+as a determinant of competitiveness was emphasized.  
+5 
+  If we interpret this argument more broadly as relating to a balance between 
+understanding client needs and understanding the business environment, the increasing 
+globalization of Indian business clearly provides a vehicle for the increasing 
+globalization of Indian banks – keeping in mind, of course, cross-border regulatory 
+barriers. Following their clients abroad was the basic strategy of banks in the developed 
+economies; once a presence was established, they would obviously look for ways to 
+expand business by serving new sets of clients. In the current global context, there are 
+obviously more restrictions in place than before, which makes replication of this strategy 
+difficult, but the basic principle is still valid. Knowledge about the client’s requirements 
+has to be quickly and credibly supplemented with knowledge about the operating 
+environment.  
+In short, I would look at a competitiveness strategy as consisting of these four 
+components: scale, scope, prudence and knowledge. The relative importance and 
+balance between them will obviously be influenced by the objectives and resource 
+constraints of each organization. But, I think that this provides a useful way to think 
+strategically, which is rooted in both concept and evidence. 
+Policy Considerations 
+Given the significance of the externalities that the financial system as a whole and the 
+banking system in particular generate, we cannot talk about competitiveness strategies 
+without considering their policy implications. Let me briefly address three sets of issues. 
+The first is the traditional regulatory concern with prudence. I have already referred to 
+the private or strategic compulsion for prudence in any viable competitiveness strategy. 
+6 
+ But, this is clearly not enough in a situation in which inter-linkages between institutions, 
+each of which has a small and contained quantity of risk, can cause a snowballing, 
+which threatens the system. Macro-prudential or Systemic risk is a real threat and, 
+because of inherent non-linearities – the whole is greater than the sum of the parts – 
+cannot be addressed only by private or institution-specific measures. Just as internal 
+capabilities for risk management need to be developed and sustained, capacities to 
+understand these inter-linkages, monitor them and buffer the economy against the 
+materialization of their threats must also expand proportionately. In this sense, the 
+space for the pursuit of specific competitive strategies will possibly be constrained by 
+the mechanisms available to identify, measure and mitigate the inherent systemic risks.  
+The second issue relates to competition and the possible trade-off between the 
+objective of scale and the need to maintain a competitive industry structure. Perhaps, in 
+an environment in which the full potential of the market is yet to be tapped, the two 
+forces are not in serious conflict with each other. Competition may work as a positive 
+force, which drives individual banks to focus on their areas of competence and, in the 
+process, achieve efficient scales of operation in all of them.  But, this is an idealized 
+description of market conditions. The reality is that the market is highly segmented, 
+which raises the prospect of scale-deterring competition in some segments, while 
+leaving others under-serviced. From a policy perspective, this is not a particularly 
+desirable outcome. An argument could be made for introducing incentives and 
+disincentives, which will of course have a bearing on strategic choices, to steer the 
+system towards that more favourable linkage between competition and scale. 
+7 
+ The third issue is closely related to the second, but has some distinct aspects as well.  
+Financial inclusion is a central part of the policy agenda. The perspective on this issue 
+is largely driven by the circumstances described above, viz., that there is an inherent 
+reluctance on the part of banks to service certain client segments because they are not 
+commercially viable. A combination of regulatory mandates, implicit and explicit 
+subsidies and moral suasion has been brought to bear on the financial system in pursuit 
+of this objective. However,   more recent thinking and evidence on this issue suggests 
+that commercial viability is not unachievable, given an appropriate mix of organizational 
+structure, human resources and technology. This is still an evolving landscape, but as 
+the differentiators between good and bad models become clearer, policy instruments 
+can potentially be brought to bear on aligning strategic choices with policy objectives. 
+Concluding Comments 
+Let me conclude by summarizing the simple competitiveness framework that I 
+attempted to lay out. From a strategic perspective, competitiveness can be achieved by 
+balancing four factors – scale, scope, prudence and knowledge. All are important in a 
+generic sense, but each institution will have to decide what weights to give to them, 
+depending on its particular strategic objectives.  
+From a policy perspective, three factors are likely to influence policy interventions that 
+will steer strategic choices in order to align them with policy objectives. First, there is the 
+issue of macro-prudential risk. Second, there is the potential trade-off between 
+competition and scale. Third, there is the issue of finding the right mix of ingredients to 
+achieve financial inclusion in a commercially viable way. 
+8 
+ I trust this will be a useful input into both the panel discussion that follows and the 
+strategic thinking in the banking system as it charts its future course. I thank the 
+organizers for giving me the opportunity to share my thoughts.         
+9 
+ 

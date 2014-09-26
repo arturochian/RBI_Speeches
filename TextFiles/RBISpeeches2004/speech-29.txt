@@ -1,0 +1,624 @@
+Budget Deficits and National Debt 
+ 
+*
+Martin Feldstein 
+ 
+ 
+ I am delighted to be here in Mumbai and honored by your invitation to give this 
+year’s L. K. Jha Memorial Lecture.  I first came to India only about eight years ago and 
+have been coming to India once each year for the past five years.  Even in that short 
+period of time, I have seen significant improvements in the Indian economy and now 
+hear about important structural changes that are being made or contemplated.  I am 
+very optimistic about the Indian economy.  Although there are a great many reforms still 
+to be done, I believe that there is a spirit of change in India now that will bring great 
+progress in the future. 
+ 
+ One of the major problems facing the Indian economy is your large budget deficit 
+and the resulting high level of national debt. As you know, the budget deficit of the 
+central government is about six percent of GDP and this rises to about 10 percent of 
+GDP if the deficits of subnational governments are included. The combined government 
+debt is now close to 75 percent of GDP.  It is with these worrying figures in mind that I 
+decided to speak today about the general problem of budget deficits and national debt.   
+ 
+ India is certainly not alone in having budget deficits that are too high.  France and 
+Germany now have deficits that violate the European Growth and Stability Pact.  In the 
+United States, the budget deficit has risen from 1.5 percent of GDP in 2002 to 3.7 
+percent in 2003 and a projected 4.3 percent next year.   Japan has the largest budget 
+deficit among the major industrial countries at 8 percent of GDP.  And among the 
+emerging market economies, the average ratio of budget deficit to GDP is now about 
+four percent.   
+ 
+ I will not be so foolish as to suggest specific policies by which India can reduce 
+its budget deficit. I know how difficult it is to prescribe policies in my own country. The 
+political and economic complexities of India make it even more difficult for an outsider to 
+offer specific suggestions here. 
+ 
+ What I will do instead is to discuss the adverse effects of large budget deficits in 
+general and the way in which such deficits can become unsustainable, leading to 
+national insolvency and a debt default.  I will consider the arguments that have been 
+made by those academic economists over the years who have tried to justify a policy of 
+large peacetime budget deficits.  And I will consider in general terms the merits of 
+different ways of reducing budget deficits. 
+ 
+                                                 
+*
+Martin Feldstein is the George F. Baker Professor of Economics at Harvard University and President of the National 
+Bureau of Economic Research.  These remarks were delivered as the 2004 L. K. Jha Memorial Lecture at the 
+Reserve Bank of India in Mumbai, India, 12 January 2004. 
+ 1 Large fiscal deficits have a variety of adverse consequences: reducing economic 
+growth, lowering real incomes,  and increasing the risk of financial and economic crises 
+of the type that we recently witnessed in several countries of Asia and Latin America.  
+Since I am here in a central bank, I should add that,  under some circumstances, fiscal 
+deficits can also lead to inflation.  Even if a central bank prevents such inflationary 
+consequences , the other adverse “real” effects cannot be avoided.  And under some 
+conditions that I will discuss later, budget deficits can lead to higher inflation despite the 
+attempt of the central bank to pursue a sound monetary policy. 
+ 
+ To get a sense of the magnitude of these effects, consider just the impact of 
+India’s recent deficits on capital formation and growth.  If India did not have its current 
+central government deficit of some 6 percent of GDP, the gross rate of capital formation 
+could rise form 24 % of GDP to 30%.  The net rate of investment would rise relatively 
+more. Over the next decade, this greater rate of net capital accumulation would be 
+enough to add nearly a full percentage point to the annual growth rate, raising India’s 
+level of GDP a decade from now by about 10 percent. Eliminating the state deficits as 
+well as the deficit of the central government would substantially increase the size of this 
+effect.  While such radical deficit reduction may not be achievable in practice, these 
+calculations indicate what could be accomplished with even smaller deficit reductions.  
+ 
+ Unfortunately, it is easy to ignore budget deficits and postpone dealing with them 
+because the adverse effects of budget deficits are rarely immediate.  Fiscal deficits are 
+like obesity.  You can see your weight rising on the scale and notice that your clothing 
+size is increasing, but there is no sense of urgency in dealing with the problem.  That is 
+so even though the long-term consequences of being overweight include an increased 
+risk of a sudden heart attack as well as of various chronic conditions like diabetes. Like 
+obesity, government deficits are the result of too much self-indulgent living as the 
+government spends more than it collects in taxes.  And, also like obesity, the more 
+severe the problem, the harder it is to correct: the overweight man has a harder time 
+doing the exercise that could reduce his weight and the economy with a large deficit and 
+debt is trapped by increasing interest payments that cause the deficit and debt to rise 
+more quickly. I emphasize the analogy to stress the point that budget deficits need 
+attention now even when their adverse effects may not be obvious. 
+ 
+Deficits and Debt Ratios 
+ 
+ The appropriate size of the national debt, like the ideal weight for an individual, is 
+a complex question.  But basic common sense tells us that the ratio of debt to GDP 
+should not be allowed to rise year after year.  I may not know my optimal weight   but I 
+know that I am in trouble if I am gaining five pounds a year, or even three pounds a 
+year.  In fiscal terms, a country  should recognize that it is in trouble if it sees its ratio of 
+debt to GDP rising year after year. 
+ 
+  There is therefore nothing arcane about the appropriate standard of a sound 
+fiscal policy.  The basic rule is that government revenue must exceed government non-
+ 2interest outlays.  The excess of revenue over non-interest outlays must be sufficient to 
+finance enough of the interest payments on the public debt to avoid a rising ratio of debt 
+to GDP.  
+ 
+ To make this operational, it is necessary to be clear about the definition of the 
+budget deficit and about the role that the rate of interest on the national debt plays in 
+determining the debt dynamics.    
+ 
+ The budget deficit is traditionally defined as the difference between total 
+government outlays, including the interest on the national debt, and the government’s 
+revenue receipts. A more complete definition of the deficit is that it is the difference 
+between the size of the government debt at the end of the year and the corresponding 
+size of the debt one year earlier.  These two are equivalent if the government debt is 
+defined as the stock of outstanding bonds.  A more general definition of the government 
+debt, however, would include the value of off-budget liabilities like future social security 
+pensions and such contingent liabilities as the cost of dealing with insolvent banks and 
+money-losing state enterprises.  Unfortunately, the available statistics on debt and 
+deficits generally ignore these broader considerations.  Although I will therefore not 
+present data on this broader concept of the national debt, everything that I say today 
+about deficits and debt should be interpreted in this larger context.   
+ 
+ A budget deficit implies that the national debt is increasing. But since the GDP is 
+also rising, the ratio of the national debt to GDP may or may not be increasing.  That 
+depends on whether the growth rate of the national debt is more than or less than the 
+growth rate of GDP.  A continually increasing ratio of debt to GDP runs the risk that the 
+debt will get on an unsustainable path leading to national insolvency.  Even if the debt 
+ratio is not explosive in this way, a high ratio of debt to GDP has serious adverse 
+consequences.  It is important therefore to understand what drives the ratio of debt to 
+GDP and, if it is converging to some equilibrium level, what determines that level.   
+ 
+ To do so it is useful to distinguish the standard budget deficit from the primary 
+budget deficit.  The primary deficit is the standard deficit minus the interest on the 
+government debt.  Equivalently, as traditionally measured, the primary deficit is 
+government non-interest outlays minus total revenues.  
+ 
+ To be more explicit, the total or standard deficit can be written as  G + i * Debt - 
+T where G is noninterest government outlays, i is the interest rate on the government 
+debt, and T is taxes and other government revenue.   The primary deficit is then G - T.  
+ 
+ With this notation, it can be shown that the change in the ratio of debt to GDP 
+can be written as  
+ 
+ D { Debt / GDP } = [ G - T ] / GDP + { i  - [ (D GDP )/ GDP] }( Debt / GDP) 
+ 
+ 3i.e., as the sum of the primary deficit per dollar of GDP plus the difference between the 
+interest rate and the growth rate of GDP ( D GDP )/ GDP ) multiplied by the initial ratio 
+of debt to GDP. 
+ 
+ Although I have expressed this relation in terms of the nominal interest   rate and 
+the nominal growth rate, the same rule holds if we replace the nominal interest rate with 
+the real interest rate (i minus  the inflation rate)  and the nominal growth rate with the 
+real growth rate ( ( D GDP )/ GDP minus the inflation rate).  
+ 
+ This equation tells us that the ratio of debt to GDP  will unambiguously rise if 
+there is a primary deficit (i.e., if government non-interest spending exceeds revenue,  G 
+- T greater than zero)  and if the interest rate on the national debt exceeds the growth 
+rate of GDP.  The logic of this is clear.  The primary deficit adds to the national debt and 
+the positive difference between the interest rate and the growth rate of GDP means that 
+the interest payments alone cause the debt to rise faster than GDP.   
+ 
+ To reduce the ratio of debt to GDP there must be either a primary surplus (i.e., 
+revenue must exceed noninterest outlays) or the economy must grow faster than the 
+rate of interest, or both.  If only one of those conditions holds, it must be large enough to 
+outweigh the adverse effect of the other. 
+ 
+ The relation between the interest rate and the GDP growth rate varies from time 
+to time and from country to country. In the United States over the past five years 
+nominal GDP grew at an annual rate of 4.7 percent while the implicit interest rate on the 
+government debt was 7.1 percent.  Over those same five years, the U.S. also had a 
+primary surplus of 3.2 percent of GDP.  With an average debt to GDP ratio of 40 
+percent, the ratio of debt to GDP declined by about 2 percent per year, from 0.45 in 
+1997 to 0.34 in 2002.   
+ 
+ The future may not be as favorable. Recent calculations by the official U.S.  
+Congressional Budget Office based on plausible policy assumptions imply that the 
+primary deficit could average about 0.8 percent of GDP over the next five years if the 
+economy grows at a moderate rate of 3 percent a year. Over the same five years, the 
+Congressional Budget Office estimates that the rate of GDP growth will exceed the 
+interest rate by 0.7 percent.  Combining these figures with the initial ratio of debt to GDP 
+implies that the debt to GDP ratio would rise from 39.6 percent of GDP at the end of 
+2004 to 42.9 percent at the end of 2009.  Policy actions could of course reduce that 
+primary deficit.  And faster economic growth would reduce the primary deficit (by 
+increasing tax revenue) and could cause the interest rate to be smaller than the growth 
+rate, further reducing the debt to GDP ratio.  Even a relatively small increase in the 
+growth rate could prevent the rise in the debt to GDP ratio.  
+ 
+ What about India?  In India in recent years the primary deficits have been above 
+1.5 percent of GDP and the implicit rate of interest on the national debt has exceeded 
+the nominal growth rate of GDP by more than three percentage points.  The ratio of the 
+ 4central government debt to GDP was  about 60 percent on average over these years.  
+Combining these figures in the way implied by the basic equation implies that the ratio 
+of debt to GDP will rise at about three percent per year. That is what was happening 
+until recently.  The debt to GDP ratio rose from 54 percent in 2000-01 to 65 percent in 
+2003-04.  That’s the bad news.  The good news is that cutting the deficit, and therefore 
+the primary deficit, by about 1.5 percent of GDP could prevent this rise in the debt to 
+GDP ratio.  I will return later to discuss approaches that any country must consider as it 
+tries to reduce the primary deficit and the relative level of public debt.  
+ 
+Rising Debt Ratios 
+ 
+ Experience around the world shows that a rising ratio of debt to GDP increases 
+the probability of some kind of debt default or debt restructuring.  The financial markets 
+are forward looking and respond to that risk by insisting on higher interest rates to 
+induce investors to hold government bonds. But those higher interest rate cause the 
+debt to grow even faster.  It is in that way that high debt ratios can become unstable 
+without any increase in the primary deficit.  
+ 
+ While an increase in the debt ratio can in principle be reversed, it becomes 
+harder to do so as the interest rate rises, accelerating the growth of the debt and 
+decreasing the growth of GDP.  A continuing rise in the ratio of debt to GDP is a path to 
+insolvency and economic crisis.  But even a stable but high ratio of debt to GDP has 
+serious adverse effects on the economy by crowding out private capital formation and 
+imposing a higher tax burden to service the debt.   
+ 
+ What determines the stable level of the debt to GDP ratio?  The basic equation 
+for the growth of the debt to GDP ratio implies that there is no change in the ratio when 
+the primary deficit as a fraction of  GDP is equal to the product of the debt to GDP ratio 
+and the difference between the interest rate and growth rate: 
+ 
+ (G - T) / GDP   =  [ D D GDP/ GDP - i]   (Debt/GDP)   
+ 
+This implies that a stable ratio of debt to GDP must satisfy  
+ 
+    (Debt/GDP) = {(G - T) / GDP} / [ (D (D GDP/ GDP) - i]    
+ 
+For example, a primary deficit equal to one percent of GDP and a growth rate that 
+exceeds the interest rate by 2 percentage points, will eventually produce a debt to GDP 
+ratio of 50 percent.  Doubling the primary deficit would cause the equilibrium debt ratio 
+to double as well.  But even with no change in the primary deficit, a fall in the difference 
+between the growth rate and the interest rate from 2 percentage points to 1 percentage 
+point, would also cause the debt ratio to double. 
+ 
+ It is clear from this arithmetic that it is very easy for an economy to shift from a 
+stable debt ratio at a low level to one at a substantially higher level in response to a 
+ 5relatively small change in government spending, taxes, interest rates or economic 
+growth.   
+            
+Pro-deficit Economic Arguments  
+ 
+ Budget deficits and debt ratios have not always been as high as they are now. 
+And while deficits during major wars were common, peacetime deficits were unusual.  In 
+the United States, the entire national debt, including the substantial debt incurred  
+during the Civil War,  was fully paid off by a series of surpluses in the latter part of the 
+th
+19 century. 
+ 
+ In retrospect, it is quite remarkable that the political process supported the 
+opposition to budget deficits and national debt for such a long time.  Without a strong 
+intellectual and moral opposition to deficits, powerful populist political pressures can 
+lead to large budget deficits.  Budget deficits are potentially popular because they allow 
+higher levels of government spending and lower levels of taxation.  Deficits shift the 
+fiscal cost to future generations that are not yet voters.  And deficits impose burdens on 
+the economy that, unlike the very tangible benefits of more spending and lower taxes,  
+are not directly visible to current voters. 
+ 
+ It is unfortunate therefore that, starting with the 1940s, economists developed a 
+series of different arguments that encouraged the political process to accept larger and 
+larger peacetime deficits.  These analyses started with simple Keynesian arguments 
+and were followed by new theories of economic growth, theories of household saving 
+behavior, and models of the global capital markets. The arguments were intellectually 
+quite different from each other but they all lead to the same conclusion: that budget 
+deficits in peacetime were not a problem for the economy.   
+ 
+ The effect of these arguments on political behavior were, of course, not 
+immediate.  Although American economists first made their case for deficits in the 
+1940s, the resistance to peacetime deficits remained in the United States for quite some 
+time.  The nominal size of the national debt remained essentially unchanged between 
+1945 and 1970, causing the ratio of debt to GDP to fall from 100 percent in 1945  to 28 
+percent in 1970.  But then, within seven years, the debt doubled. It then doubled again 
+in the next seven years, reaching 34 percent of GDP in 1984 and 40 percent in 1986.  
+  
+ The first attack on the conventional anti-deficit orthodoxy occurred as part of the 
+Keynesian revolution of the 1940s.  Keynesian economics taught that the depression of 
+the 1930s in England, in the United States,  and elsewhere was caused by excessive 
+saving.  Keynesian economists interpreted the economic recovery in the 1940s as the 
+result of the  large deficit spending in World War II. They feared that the end of the war 
+would bring a return to the depression and therefore recommended a continuation of 
+large budget deficits (and other anti-saving measures) in the post-war period. 
+ 
+ 6 The Keynesian economists who wanted to persuade political decision makers to 
+accept the idea of large peacetime deficits had to deal with the long-held belief that 
+peacetime budget deficits and the national debt are both imprudent and harmful. The 
+traditional critics of budget deficits argued that, first, a national debt represents a burden 
+on the economy and, second,  that it is morally wrong to pass such a burden on to the 
+next generation (unless the debt was used to finance something that benefitted the 
+future generation – a construction project or a military victory.) 
+ 
+ The Keynesian proponents of  budget deficits made two counter arguments.  
+First, they noted that the national debt is (or more accurately, was then) essentially all 
+held domestically.  From this they inferred that the debt cannot be a burden because 
+“we only owe it to ourselves.” Second, they argued that the spending that created 
+deficits could not be a burden on future generations because the spending used up 
+resources in the present and did not use any future resources.  
+ 
+ Both arguments were eventually shown to be misleading.  James Meade, the 
+Cambridge economist, noted that even if the debt is owned internally, collecting the 
+additional taxes to pay the interest on the debt involves a deadweight loss, i.e., a loss of 
+real incomes that results from 
+the distortions in economic behavior caused by the higher tax rates. 
+ 
+ This deadweight loss is potentially quite substantial.  For example, in the United 
+States in the second half of the 1990s, the interest paid on the federal debt averaged 34 
+percent of total personal income tax revenue.  If the debt did not exist,  the personal 
+taxes could have been 34 percent lower.  Equivalently, the need to pay the interest 
+raised the taxes by 50 percent of what they could otherwise have been.  If this 
+represents an across the board rise in all tax rates, the effect would be to more than 
+1
+double the deadweight loss that the personal income tax would otherwise imply.   So 
+even if we only “owe it to ourselves”, the national debt  would still involve a very large 
+burden. 
+ 
+ Franco Modigliani  corrected the second of the original Keynesian arguments, 
+i.e.,  that the deficit doesn’t involve any burden on future generations.  He pointed out 
+that the resources that are used when the deficit is created – either by government 
+spending or by tax cuts that lead to consumer spending – could otherwise have been 
+invested in the capital stock which would produce increased output for future 
+                                                 
+1
+Since the deadweight loss of the tax is proportional to the square of the marginal tax 
+rate, a 50 per cent increase in all marginal tax rates leads to a more than doubling of the 
+deadweight loss.  Even if one takes the view that only the real interest payments matter 
+(because the government can borrow the rest without increasing the real size of the 
+national debt), this would only lower the share of the interest payments in national debt 
+to about 22 percent, implying a rise in the deadweight loss of the tax by more than 60 
+percent. 
+ 7generations.  Equivalently, government borrowing crowds out the private borrowing that 
+would otherwise be available to finance additions to the private capital stock.   
+ 
+ Although the Meade and Modigliani analyses removed professional economic 
+support for the early Keynesian arguments that deficits involve no burden, the 1960s 
+saw a new kind of argument that budget deficits are not important.  The new argument 
+accepted that budget deficits reduce national saving but rejected the traditional view 
+that a lower rate of saving would reduce the rate of economic growth.  The new 
+neoclassical theory of economic growth implied that the national rate of saving does not 
+affect the long-run rate of growth.  According to this new theory, budget deficits reduce 
+the national saving rate but that does not change the long-term rate of growth. 
+ 
+ This conclusion ran counter to earlier analyses that emphasized that s avings 
+increased the rate of growth by increasing the amount of capital per worker.  The 
+reason for the new conclusion was the recognition that the higher capital intensity of 
+production that resulted from a higher saving rate would eventually require an e ven 
+higher saving rate to maintain the increased rate of growth.  With no further increase in 
+the net saving rate, the rate of growth of aggregate income would eventually converge 
+back to the sum of the growth rates of population and productivity.  
+ 
+ Although the new theory was technically correct, it was also misleading in 
+focusing on the very very long run. With reasonable economic parameters, a rise in the 
+saving rate could actually raise the growth rate by a significant amount for several 
+decades.  Moreover, even as the growth rate returned to its initial value,  the level of 
+real per capita income would remain permanently higher.  With time, these technical 
+aspects of the neoclassical analysis became understood among economists. But for at 
+least a generation of economists who had grown up with the neoclassical growth 
+models,  there remained a residual sense that a higher saving rate is not the path to 
+increased growth and , even more incorrectly, to higher real incomes.  
+ 
+ It is of course difficult to know how influential a change in  professional economic 
+thinking is in changing economic policy. It is my judgement that the  general acceptance 
+by mainstream economists of the  notion that budget deficits do not reduce long-term 
+growth played an important role in decreasing  the opposition to large peacetime budget 
+deficits. This was reinforced in the 1960s by the widespread professional acceptance of 
+the original Phillips curve theory that implied that an expansionary fiscal policy could 
+permanently reduce the rate of unemployment if the economy accepts a permanently 
+higher rate of inflation.  With the additional view  that inflation had at most a derisively 
+small economic cost (the “shoeleather” costs of households making extra trips to the 
+bank) and might actually increase productivity (by encouraging the replacement of cash 
+balances in households’ portfolios with claims on real capital), the case for budget 
+deficits seemed quite compelling. 
+ 
+ By the late 1970s the economics profession was coming to reject all of these 
+arguments.  A higher saving rate was seen as important for growth and for raising real 
+ 
+8
+ incomes, the long-run Phillips curve was discredited, and the high rate of inflation in the 
+1970s was recognized as a serious problem. But the 1980s brought yet another 
+example of the “deficits don’t matter” argument, the so-called Ricardian-equivalence 
+proposition.  Here the argument is that budget deficits do not change national saving 
+because individuals increase their personal saving to offset exactly the rise in the 
+budget deficit.   
+ 
+ The key assumption of the Ricardian-equivalence model is that successive 
+generations are linked by an operative bequest motive.  If I plan to bequeath some 
+amount of money to my children and the government cuts my taxes (or gives me 
+additional benefits through government spending) while increasing the future taxes that 
+will have to be paid by my children, I will offset this government action by increasing my 
+saving to keep my real income and the real incomes of my children unchanged.  While 
+this seems plausible enough once the premise of an operative bequest motive is 
+accepted, there are so few planned bequests that this is not empirically significant.  The 
+absence of significant planned bequests is not surprising in an economy in which 
+economic growth raises the incomes of future generations so that even an altruistic 
+parent sees no need to reduce his own consumption in order to raise the consumption 
+of his adult children after he has died. By now many, I would think most, economists 
+have recognized the practical irrelevance of  the Ricardian-equivalence theory and 
+concluded that budget deficits do reduce national saving. 
+ 
+ There is yet one more line of argument that implies that budget deficits are not as 
+important in the capital accumulation process as they might seem at first.  A fully 
+integrated global capital market implies that the domestic levels of investment, capital 
+stock, and productivity in an economy do not depend on the domestic saving rate.  
+Capital flows among countries to equate the real rate of return.  A country with a high 
+saving rate exports capital to the rest of the world and a country with a low saving rate 
+imports capital.  In this context, a large budget deficit that reduces national saving will 
+not hamper domestic investment but will instead induce a capital inflow from abroad. 
+ 
+ Although an integrated global capital market is a helpful analytic abstraction, it is 
+not a description of the actual global capital market.  Charles Horioka and I showed 
+some years ago that persistent differences in national saving rates among industrial 
+countries translates into persistent differences in investment as a share of GDP.  The 
+global capital market is surprisingly segmented, with about 80 percent of a sustained 
+rise in  incremental savings retained in the saving country. This finding has been 
+replicated with more recent data and shown to hold for a wide range of developing as 
+well as industrial countries. The implication is clear: a country that reduces its national 
+saving by a large budget deficit will have a similar adverse effect on the its national 
+investment rate. 
+ 
+ In my judgement, the theoretical attempts over the past 60 years to minimize the 
+impact of budget deficits on capital accumulation, on economic growth, and on real 
+incomes have been unpersuasive.  Deficits reduce national saving and capital 
+ 
+9
+ formation.  That lowers the growth rate for a long period of time and permanently lowers 
+the level of real income and the real standard of living.  This adverse effect is reinforced 
+by the deadweight loss that results from the need to raise substantial amounts of 
+revenue to service the national debt.    
+ 
+Fiscal Policy vs Monetary Policy for Economic Stabilization 
+ 
+ Economic analysis has thus come full circle back to the traditional case that 
+sustained budget deficits in peacetime are harmful.  This does not however deal with the 
+original Keynesian contention that budget deficits can play a useful role in managing 
+economic fluctuations. 
+ 
+ Current thinking on that subject is much less supportive of discretionary fiscal 
+policy than was true in the past. Although automatic stabilizers like unemployment 
+insurance and income tax withholding which respond quickly to an economic downturn 
+may be helpful, explicit discretionary policy is generally the wrong tool for demand 
+management.   Since most economic downturns are relatively short term – the average 
+time from peak to trough in the U.S. has been only 10 months in the past seven 
+recessions – it is difficult to provide a discretionary fiscal stimulus before the economy 
+recovers. Attempts to use discretionary fiscal policy are hampered by lags in recognizing 
+that a downturn has begun,  by lags in designing stimulative legislation and getting it 
+enacted, and potentially by more lags before households and firms respond to the fiscal 
+stimulus.    
+ 
+ In contrast, monetary policy is a much more flexible tool.  Interest rates and 
+money growth rates can be changed frequently and can reverse direction.  A potentially 
+countercyclical monetary policy within a framework committed to price stability is 
+therefore a preferred strategy. Fiscal policy is generally best designed to provide a long-
+term context  that removes distortions and encourages saving, risk-taking, and individual 
+effort .  
+  
+ There are times, however , when expansionary monetary policy cannot be used 
+because the interest rate is already at or very close to zero. This has been true in Japan 
+for some time and has been true in the United States since the Federal Reserve cut the 
+fed funds rate to one percent.  Under such circumstances, an expansionary fiscal policy 
+is an appropriate way to avoid continued stagnation or outright economic decline.  I 
+believe that was true of the  recent use of expansionary fiscal policy to accelerate the 
+U.S. economic recovery in 2003. 
+          
+  
+Price Inflation 
+ 
+  I have until now commented only on the effects of fiscal policy on the real 
+economy. What about inflation?  What is the link between budget deficits and inflation? 
+ 
+ 
+10
+  Despite the general public view that budget deficits cause inflation, the reality is 
+more complex.  The impact of budget deficits on inflation depends on the economic 
+conditions  prevailing in the economy when the deficit rises, on the concurrent conduct of 
+monetary policy, and on the structure of the government debt. 
+ 
+ The conclusion that a substantial multi-year rise in the deficit need not cause an 
+increase in inflation was clearly demonstrated  in the United States during the first half of 
+the 1980s.  Between 1979 and 1985, the budget deficit rose from 2.7 percent of GDP to 
+5.1 percent of GDP and the national debt rose from 26 percent of GDP to 36 percent.  
+Nevertheless, during those years, the GDP price inflation fell from 8.2 percent to 3.2 
+percent. Inflation fell despite the large budget deficits because the Federal Reserve had 
+pursued a tough anti-inflationary monetary policy, and the  unemployment rate rose from 
+5.8 percent in1979  to 9.7 percent in 1982 before declining to a still very high 7.2 per 
+cent in 1985.   The combination of substantial economic slack and a clearly anti-
+inflationary monetary authority allowed inflation to come down despite very large budget 
+deficits. 
+ 
+ Not all countries are in a position to finance a large budget deficit without causing 
+inflation.  In particular, a government that cannot issue interest bearing debt and is 
+forced to finance its deficit by increasing the stock of money is likely to find that a 
+substantial budget deficit is very inflationary.  Even a deficit financed by very short-term 
+interest bearing debt that is a close substitute for currency will be inflationary.  The key to 
+avoiding inflation while financing a deficit is that the incremental debt must have a 
+maturity of at least several years. 
+ 
+ Even this is not enough to prevent inflation if the volume of the debt relative to 
+GDP becomes too large. At some point, as the debt becomes larger and larger relative 
+to GDP, the country finds itself on a path to insolvency, i.e., on a path to a point  at which 
+the present value of future non-interest government outlays exceeds the present value of 
+future tax receipts.  If this occurs, the debt cannot be repaid.  The government must 
+default on part of its debt or, equivalently, use inflation to reduce the real value of the 
+debt.  While such a default-through-inflation is not possible if the maturity of the debt is 
+very short,  it is a clear option when there is a large debt financed with medium-term and 
+long-term bonds with fixed interest rates. 
+ 
+Financial and Economic Crises 
+ 
+ In addition to the adverse effects of budget deficits  on capital accumulation, 
+economic growth, future tax rates, and inflation, budget deficits can also be the source of 
+the kind of financial crises that were experienced in Latin America and south Asia in the 
+past decade.  This is particularly true when the budget deficit is financed by borrowing 
+abroad in a different currency like the dollar or euro.  A country that borrows dollars to 
+finance its budget deficit runs the risk that an unwillingness of foreign lenders to keeping 
+rolling over existing debt will cause a substantial decline in the exchange rate, leading to 
+a financial crisis. 
+ 
+11
+  
+ This is what happened in Thailand in 1998 when foreign lenders decided  to stop rolling 
+over Thai dollar obligations.  They did so because the growing accumulation of foreign debts 
+denominated in dollars raised doubts about the eventual ability of the government of Thailand 
+and its private sector borrowers to be able to repay foreign obligations. When this happened, 
+the exchange rate  shifted  from 25 bhat per dollar to about 50 bhat per dollar.  Thai 
+companies that owed dollars to foreign lenders or to domestic banks saw the value of their 
+obligations double when measured in bhat.  For many highly leveraged borrowers, the 
+doubling of their debt meant bankruptcy.  Thai banks that had made dollar loans to these 
+borrowers were unable to collect but still owed dollars to foreign creditors, forcing the banks 
+themselves into bankruptcy. With companies and banks in bankruptcy, the economic activity 
+collapsed and the county suffered a severe crisis.   
+ 
+ In an open economy with no capital account restrictions a rising ratio of government 
+debt to GDP can lead to an economic and financial crisis even if the debt is not to foreign 
+lenders and is not denominated in dollars. As the debt to GDP ratio rises, domestic individuals 
+and businesses will seek ways to transfer funds abroad to invest in alterative assets in order 
+to avoid the risks inherent in domestic banks and domestic bonds. This shift of funds can 
+reduce the exchange rate, raising domestic interest rates and weakening domestic banks. 
+ 
+ In short, while a high ratio of debt to GDP can do  substantial damage to the economy, 
+a debt to GDP ratio that is rising can signal fiscal insolvency and cause a financial and 
+economic crisis. 
+ 
+What can be done? 
+ 
+ What can be done to reduce the budget deficit, the ratio of debt to GDP, and the risk of 
+insolvency?  There are only three basic ways to reduce the fiscal deficit and one additional 
+way to reduce the equilibrium ratio of debt to GDP and the risk that the debt ratio will reach an 
+unstable level. The three ways to reduce the budget deficit are to cut non-interest government 
+outlays, to increase tax or other revenue, and  to reduce the rate of interest on the 
+government debt.  A faster rate of economic growth would also reduce the equilibrium ratio of 
+debt to GDP and the risk of a shift to an unstable path of debt to GDP.  Let me consider each 
+of these options in turn. 
+ 
+ Reducing non-interest outlays is always politically difficult but it is not impossible.  
+Fortunately, what matters is not the absolute level of government outlays but the ratio of 
+outlays to GDP.  It is necessary therefore only to slow the growth of noninterest spending to 
+less than the growth of GDP.  Despite the difficult of doing this in a democracy, the United 
+States did succeed in reducing the ratio of noninterest outlays to GDP during the eight years 
+of the Ronald Regan presidency from 20.8 percent of GDP in 1980 to 19.4 percent of GDP in 
+1988.  Nondefense discretionary spending – i.e., spending  excluding defense and the so-
+called entitlements that are not subject to annual Congressional appropriations (like Social 
+Security pensions, Medicare benefits, etc) – fell one-third  from 4.7 percent of GDP in 1980 to 
+3.1 percent of GDP in 1988. 
+ 
+12
+  
+ Spending reductions must of course be made program by program even if overall 
+spending goals and limits help to achieve that aggregate spending reduction. In many 
+emerging market countries, stopping support for money-losing state owned enterprises by 
+imposing a hard budget constraint or by 
+ privatizing the entity can be a major source of spending reduction.  The key to thinking about  
+all forms of government expenditures is to recognize that the cost of providing a government 
+outlay includes not only the direct outlay itself but also the deadweight loss associated with 
+raising the revenue to pay for that outlay. That incremental deadweight loss depends on the 
+means of financing the increased outlay.  An increase in the income tax that distorts work 
+behavior and the form of compensation or an increase in the budget deficit that reduces 
+national saving can produce deadweight losses that are as large as the outlay itself, thus 
+doubling the true cost of the outlay.  Paying attention in this way to the total cost of spending 
+may help to reduce the level of spending therefore that source of the deficit.  
+ 
+ Raising revenue is the alternative way to reduce the primary deficit.  The way in which 
+that revenue is raised in very important.  An increase in the tax on labor income or investment 
+incomes can entail large deadweight losses.  That form of tax can also reduce the rate of 
+economic growth, raising the ratio of government outlays to GDP, increasing the equilibrium 
+ratio of debt to GDP, and increasing the likelihood that the economy will shift to an unstable 
+path. 
+ 
+ It is far better to seek ways to increase collections with the existing law by reducing 
+pure tax evasion.  A second best strategy  is to find ways to reduce loopholes that allow 
+technically legal but unjustifiable tax avoidance.  Finally, tax reforms that strengthen 
+incentives can raise revenue by increasing output and by causing more output to be treated 
+as taxable income rather than disguised in other nontaxable forms of compensation.  
+ 
+ Taxes are not the only source of non-debt government revenue.  Charges for 
+government services can be an important source of revenue, especially in an economy like 
+India where the government provides such a wide range of public services. Charging for some 
+public services may also make it possible for private providers to offer these services, 
+covering their own costs with charges and making a profit as well.  But it is also important to 
+recognize that raising charges for the use of public services can lead to the suboptimal use of 
+those services.  Tolls on highways and bridges can bring in revenue but may not be optimal if 
+they discourage the use of otherwise uncongested facilities.  
+ 
+ The optimal user charge is however more complicated than the traditional rule that the 
+user charge should be no more than marginal cost. The traditional rule must be modified to 
+recognize that all sources of revenue involve deadweight losses.  The optimal charge for the 
+use of an uncrowded bridge should not be the zero marginal cost but a positive price that 
+makes the deadweight loss per rupee of revenue equal to the deadweight loss of generating 
+revenue in other ways.  For example, if raising an incremental rupee of revenue with the 
+income or value added tax involves a deadweight loss of one-half rupee,  the appropriate 
+ 
+13
+ charge for the uncrowded bridge should also be such that the toll generates a deadweight 
+loss of one-half rupee per rupee of revenue.  
+ 
+ Reducing the interest rate on the government debt is of course another way in principle 
+to reduce the budget deficit and the equilibrium ratio of debt to GDP.  Although the 
+government cannot reduce that interest rate directly, it  can do so indirectly by actions that 
+make the debt less risky.  A sound monetary policy that reduces inflation risk can reduce the 
+real interest rate. Budget policies that reduce expected future primary deficits can also reduce 
+the real rate of interest.   
+ 
+ Finally, an increase in the rate of economic growth would lower the equilibrium ratio of 
+debt to GDP and reduce the risk of an unstable rising ratio of debt to GDP.   Since a lower 
+primary deficit permits more investment and therefore faster economic growth, any policy that 
+reduces the primary deficit brings an extra benefit in this way, creating a virtuous circle.  There 
+are of course many other things that a government can do to raise the rate of economic 
+growth:   increasing market flexibility, improving infrastructure, reducing regulations,  and 
+removing financial and legal  barriers to individual entrepreneurship.  India is clearly engaged 
+in a wide variety of such pro-growth policies.  If they are successful, they will reinforce sound 
+fiscal management to achieve lower budget deficits and to reduce the relative size of the 
+national debt.  It is important that such pro-growth policies as well as explicit   
+deficit reduction initiatives be adopted in the years ahead. 
+ 
+Thank you. 
+ 
+14
+ 

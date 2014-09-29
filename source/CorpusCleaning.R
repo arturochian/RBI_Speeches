@@ -5,16 +5,30 @@
 
 setwd('/git_repositories/RBI_Speeches')
 
+setwd("~/Documents/college/PhD/Output/Dataset/GitHub/RBI_Speeches") ## for my computer - sahil
+
+library(tm)
+
 meta <- read.csv('metadata.csv', 
                  stringsAsFactors = F)
 
 meta$textpath <- paste0(meta$textpath, '.txt')
 
+
 for (i in meta$textpath) {
-    temp <-paste(readLines(i, encoding = 'Latin-1'), collapse = '')
+    temp <-paste(readLines(i,warn=TRUE, encoding = 'Latin-1'), collapse = '') ## the warn = T helps circumvent the EOL issue
     new_name <- gsub('/', '_', i)
     new_name <- gsub('TextFiles_', '', new_name)
     writeLines(temp, paste0('TextFiles/AllRBISpeeches/', new_name))
+}
+
+#second part of the corpus cleaning
+s<-meta$textpath[499:907]
+for (i in s) {
+  temp <-paste(readLines(i,warn=TRUE, encoding = 'Latin-1'), collapse = '') ## the warn = T helps circumvent the EOL issue
+  new_name <- gsub('/', '_', i)
+  new_name <- gsub('TextFiles_', '', new_name)
+  writeLines(temp, paste0('TextFiles/AllRBISpeeches/', new_name))
 }
 
 texts <- VCorpus(DirSource(directory = 'TextFiles/AllRBISpeeches', 

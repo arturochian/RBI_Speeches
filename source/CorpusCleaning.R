@@ -36,7 +36,7 @@ for (i in s) {
 <<<<<<< HEAD
 texts <- VCorpus(DirSource(directory = 'TextFiles/AllRBISpeeches',
 =======
-texts <- VCorpus(DirSource(directory = 'TextFiles/AllRBISpeeches', 
+texts <- VCorpus(DirSource(directory = 'TextFiles/AllRBISpeeches',
 >>>>>>> FETCH_HEAD
                 encoding = "UTF-8"),
                 readerControl = list(language = "en"))
@@ -50,7 +50,6 @@ for (i in textpath) {
     new_name <- gsub('TextFiles_', '', new_name)
     text_id <- c(text_id, new_name)
 }
-<<<<<<< HEAD
 
 meta$text_id <- text_id
 ###cleaning
@@ -69,9 +68,3 @@ dtm <- DocumentTermMatrix(txt,
 tdm <- TermDocumentMatrix(txt,
                           control = list(removePunctuation = TRUE,
                                          stopwords = TRUE))
-tm<-as.matrix(tdm)
-comparison.cloud(tm,max.words=40,random.order=FALSE)
-=======
-
-meta$text_id <- text_id 
->>>>>>> FETCH_HEAD

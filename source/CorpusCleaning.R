@@ -71,16 +71,3 @@ tdm <- TermDocumentMatrix(txt,
                           control = list(removePunctuation = TRUE,
                                          stopwords = TRUE))
 
-#######################################
-# calculating time series of speeches #
-#######################################
-
-date<-meta$date_new
-date<-as.Date(date,"%d/%m/%Y")
-freq<-table(date) 
-freq<-data.frame(freq)
-
-p<-ggplot(freq, aes(x = date, y = Freq))
-p+geom_point()+scale_x_continuous()
-
-plot(freq, major.format = "%Y-%m",type="l")

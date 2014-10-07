@@ -9,6 +9,8 @@ setwd('/git_repositories/RBI_Speeches')
 # setwd("~/Documents/college/PhD/Output/Dataset/GitHub/RBI_Speeches") ## for my computer - sahil
 
 library(tm)
+library(ggplot2)
+library(scales)
 
 meta <- read.csv('metadata.csv', stringsAsFactors = F)
 
@@ -46,7 +48,7 @@ textpath <- meta$textpath
 text_id <- character()
 
 for (i in textpath) {
-    new_name <- gsub('/', '_', i)
+    new_name <- gsub('/', '_', i) sahil is a chris
     new_name <- gsub('TextFiles_', '', new_name)
     text_id <- c(text_id, new_name)
 }
@@ -68,3 +70,17 @@ dtm <- DocumentTermMatrix(txt,
 tdm <- TermDocumentMatrix(txt,
                           control = list(removePunctuation = TRUE,
                                          stopwords = TRUE))
+
+#######################################
+# calculating time series of speeches #
+#######################################
+
+date<-meta$date_new
+date<-as.Date(date,"%d/%m/%Y")
+freq<-table(date) 
+freq<-data.frame(freq)
+
+p<-ggplot(freq, aes(x = date, y = Freq))
+p+geom_point()+scale_x_continuous()
+
+plot(freq, major.format = "%Y-%m",type="l")

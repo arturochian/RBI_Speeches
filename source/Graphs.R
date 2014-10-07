@@ -8,6 +8,7 @@ library(ggplot2)
 library(scales)
 
 meta <- read.csv('metadata.csv', stringsAsFactors = F)
+f<-read.csv('frequency_monthly.csv', stringsAsFactors = F)
 
 
 #######################################
@@ -48,19 +49,35 @@ p<-p+geom_bar(size=3) + scale_x_discrete(name="Date")
 
 plot(fr_mon,type="h")
 
+a<-f$freq
+a<-as.vector(a)
+myts <- ts(a, start=c(2005, 1), end=c(2014, 9), frequency=12)
+
+pdf('Speeches_TimeSeries.pdf')
+plot(myts,xlab="Date",ylab="Frequency")
+lines()
+dev.off()
+
+
+f<-data.frame(f)
+
+p<-ggplot(f, aes(x = date, y = freq))
+p<-p+geom_bar(size=3) + scale_x_discrete(name="Date")
+
+
 #######################################
 # frequency of the top speakers (by #) #
 #######################################
 
 people<-table(meta$Person)
-people<-people[order(people$Freq),]
 people<-data.frame(people)
-peo<-cbind((people$Var1[61:79]),people$Freq[61:79])
+people<-people[order(people$Freq),]
+peo<-cbind(as.character(people$Var1[61:78]),people$Freq[61:78])
 peo<-data.frame(peo)
 q<-ggplot(peo, aes(x = X1, y = X2))
 q<-q+geom_bar()+coord_flip() + scale_x_discrete(name="Officials") +
-  scale_y_continuous(name="Frequency") 
-
+  scale_y_discrete(name="Frequency") 
+   
 pdf('People_TopSpeakers.pdf')
 q
 dev.off()

@@ -28,7 +28,7 @@ docTerm <- create_matrix(raw_texts$Text.Data, removeNumbers = TRUE,
                          stemWords = TRUE)
 
 docContainer <- create_container(docTerm, 1:length(files), trainSize = 1:300, 
-                                 testSize = 301:905, virgin = FALSE)
+                                 testSize = 301:906, virgin = FALSE)
 
 train <- train_model(docContainer, 'RF')
 

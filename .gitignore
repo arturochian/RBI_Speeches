@@ -12,3 +12,6 @@
 
 # Ignore PDFs
 PDFs/*
+
+# Ignore text redundant text files
+TextFiles/TextFiles_UTF8_old/*
